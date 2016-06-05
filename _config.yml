@@ -1,0 +1,19 @@
+permalink: pretty
+exclude: [ README.md, CONTRIBUTING.md, CNAME, Gemfile, Gemfile.lock ]
+
+site:
+  title: Photos of Blacklion
+  url: http://photosofblacklion.net
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "albums"
+    values:
+      layout: "gallery"
+      category: "album"
+
+collections:
+  albums:
+    output: true

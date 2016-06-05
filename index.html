@@ -34,20 +34,14 @@ title: Photos of Blacklion
 </div>
 <div class="container marketing">
   <div class="row">
-    <div class="col-lg-4">
-      <img class="img-thumbnail" src="https://s3-eu-west-1.amazonaws.com/pob-test/t/2015/12/hebden-bridge-barge-cruise/01-img_0306.jpg" alt="" width="200" height="200">
-      <h2>Hebden Bridge Barge Cruise</h2>
-      <p>12 May 2015
-    </div>
-    <div class="col-lg-4">
-      <img class="img-thumbnail" src="https://s3-eu-west-1.amazonaws.com/pob-test/t/2013/04/glencar-manorhamilton-v-barnacoola/first-half/001-01-04-2013-glencar-manor-v-barnacoola-002.jpg" alt="" width="200" height="200">
-      <h2>Glencar Manor v Barnacoola, first half</h2>
-      <p>1 April 2013
-    </div>
-    <div class="col-lg-4">
-      <img class="img-thumbnail" src="https://s3-eu-west-1.amazonaws.com/pob-test/t/2013/04/glencar-manorhamilton-v-barnacoola/half-time/013-01-04-2013-glencar-manor-v-barnacoola-037.jpg" alt="" width="200" height="200">
-      <h2>Glencar Manor v Barnacoola, half time</h2>
-      <p>1 April 2013
-    </div>
+    <h2>Latest Galleries</h2>
+  </div>
+  <div class="row">
+    {% for album in site.albums reversed %}
+      {% if forloop.index0 >= 3 %}
+        {% break %}
+      {% endif %}
+      {% include latest.html gallery=album %}
+    {% endfor %}
   </div>
 </div>
