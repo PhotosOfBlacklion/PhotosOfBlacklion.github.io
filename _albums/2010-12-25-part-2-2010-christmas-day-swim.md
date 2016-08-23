@@ -1,5 +1,5 @@
 ---
-title: Part 2 2010 Christmas Day Swim
+title: Christmas Day Swim Part 2
 date: 2010-12-25 12:00
 thumbnail: /t/2010/12/part-2-2010-christmas-day-swim/IMG_4455.jpg
 photos:

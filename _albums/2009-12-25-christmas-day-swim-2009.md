@@ -1,5 +1,5 @@
 ---
-title: 2009
+title: Christmas Day Swim 2009
 date: 2009-12-25 12:00
 thumbnail: /t/2009/12/christmas-day-swim/2009/2009-001.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: 2006
+title: Christmas Day Swim 2006
 date: 2006-12-25 12:00
 thumbnail: /t/2006/12/christmas-day-swim/christmas-day-swim-2006/DSCF0002.jpg
 photos:

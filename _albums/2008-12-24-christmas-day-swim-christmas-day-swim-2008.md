@@ -1,5 +1,5 @@
 ---
-title: 2008
+title: Christmas Day Swim 2008
 date: 2008-12-24 12:00
 thumbnail: /t/2008/12/christmas-day-swim/christmas-day-swim-2008/DSCF9047.jpg
 photos:

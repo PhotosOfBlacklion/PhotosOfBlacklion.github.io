@@ -1,5 +1,5 @@
 ---
-title: 2011 Christmas Day Swim-
+title: Christmas Day Swim 2011
 date: 2011-12-25 12:00
 thumbnail: /t/2011/12/2011-christmas-day-swim/10-Christmas-Day-Swim-2011-016.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: 2014 Mc Nean Icebreakers Christmas Day Swim.
+title: Mc Nean Icebreakers Christmas Day Swim 2014
 date: 2014-12-25 12:00
 thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/001-img_0299.jpg
 photos:

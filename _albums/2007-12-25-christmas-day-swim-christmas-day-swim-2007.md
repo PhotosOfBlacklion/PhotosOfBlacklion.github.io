@@ -1,5 +1,5 @@
 ---
-title: 2007
+title: Christmas Day Swim 2007
 date: 2007-12-25 12:00
 thumbnail: /t/2007/12/christmas-day-swim/christmas-day-swim-2007/10.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: 25-12-2015 Christmas Day Swim.
+title: Christmas Day Swim 2015
 date: 2015-12-25 12:00
 thumbnail: /t/2015/12/christmas-day-swim/001-img_0075.jpg
 photos:
