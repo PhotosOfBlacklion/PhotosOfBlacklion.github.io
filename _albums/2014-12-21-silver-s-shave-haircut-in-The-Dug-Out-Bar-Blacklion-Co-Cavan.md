@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s74"21-12-2014 Silver's Shave & haircut in The Dug Out Bar Blacklion Co Cavan.";}
+title: Silver's Shave & haircut in The Dug Out Bar Blacklion Co Cavan.
 date: 2014-12-21 12:00
 thumbnail: /t/2014/12/silver-s-shave-haircut-in-The-Dug-Out-Bar-Blacklion-Co-Cavan/001-img_0303.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s28"23 Men France V South Africa";}
+title: 23 Men France V South Africa
 date: 2014-09-25 12:00
 thumbnail: /t/2014/09/thursday-world-championships-in-canoe-polo/23-men-france-v-south-africa/0700-thursday-25-09-2014-world-championshios-755.jpg
 photos:

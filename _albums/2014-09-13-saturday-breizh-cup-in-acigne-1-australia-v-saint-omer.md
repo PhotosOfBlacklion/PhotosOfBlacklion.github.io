@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s24"1 Australia V Saint Omer";}
+title: 1 Australia V Saint Omer
 date: 2014-09-13 12:00
 thumbnail: /t/2014/09/saturday-breizh-cup-in-acigne/1-australia-v-saint-omer/005-24-09-2014-009.jpg
 photos:

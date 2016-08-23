@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s17"6. New Zealand V ";}
+title: 6. New Zealand V
 date: 2014-09-13 12:00
 thumbnail: /t/2014/09/saturday-breizh-cup-in-acigne/6-new-zealand-v/074-24-09-2014-099.jpg
 photos:

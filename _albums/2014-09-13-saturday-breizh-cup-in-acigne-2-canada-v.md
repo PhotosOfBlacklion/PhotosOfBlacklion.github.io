@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s11"2. Canada V";}
+title: 2. Canada V
 date: 2014-09-13 12:00
 thumbnail: /t/2014/09/saturday-breizh-cup-in-acigne/2-canada-v/113-24-09-2014-150.jpg
 photos:

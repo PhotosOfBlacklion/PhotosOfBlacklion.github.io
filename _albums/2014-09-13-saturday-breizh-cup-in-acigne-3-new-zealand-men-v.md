@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s21" 3. New Zealand Men V";}
+title: 3. New Zealand Men V
 date: 2014-09-13 12:00
 thumbnail: /t/2014/09/saturday-breizh-cup-in-acigne/3-new-zealand-men-v/223-24-09-2014-279.jpg
 photos:

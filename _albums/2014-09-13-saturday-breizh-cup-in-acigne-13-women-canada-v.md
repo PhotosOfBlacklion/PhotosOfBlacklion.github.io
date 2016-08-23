@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s18"13. Women Canada V";}
+title: 13. Women Canada V
 date: 2014-09-13 12:00
 thumbnail: /t/2014/09/saturday-breizh-cup-in-acigne/13-women-canada-v/535-24-09-2014-666.jpg
 photos:

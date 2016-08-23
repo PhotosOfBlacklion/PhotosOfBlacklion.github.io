@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s22"02 Ladies DV Spikers2.";}
+title: 02 Ladies DV Spikers2
 date: 2014-12-06 12:00
 thumbnail: /t/2014/12/2014-fermanagh-volleyball-tournament/saturdays-games/02-Ladies-dv-spikers2/027-img_0053.jpg
 photos:

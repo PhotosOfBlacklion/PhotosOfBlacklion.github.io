@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s25"08 Ladies UCD V Spikers 2";}
+title: 08 Ladies UCD V Spikers 2
 date: 2014-12-07 12:00
 thumbnail: /t/2014/12/2014-fermanagh-volleyball-tournament/sundays-games/08-ladies-UCD-V-Spikers-2/0263-img_0836.jpg
 photos:

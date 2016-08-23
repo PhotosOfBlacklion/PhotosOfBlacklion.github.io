@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s19"05 Ladies DVC V TCD";}
+title: 05 Ladies DVC V TCD
 date: 2014-12-07 12:00
 thumbnail: /t/2014/12/2014-fermanagh-volleyball-tournament/sundays-games/05-ladies-DVC-TCD/0181-img_0698.jpg
 photos:

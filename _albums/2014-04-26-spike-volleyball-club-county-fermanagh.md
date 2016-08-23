@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s40"Spike Volleyball Club, County Fermanagh.";}
+title: Spike Volleyball Club, County Fermanagh
 date: 2014-04-26 12:00
 thumbnail: /t/2014/04/spike-volleyball-club-county-fermanagh/001-26-04-2014-spikes-volleyball-club-214.jpg
 photos:

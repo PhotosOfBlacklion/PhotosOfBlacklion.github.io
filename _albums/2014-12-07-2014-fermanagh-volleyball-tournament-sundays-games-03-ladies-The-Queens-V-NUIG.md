@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s27"03 Ladies The Queens V NUIG";}
+title: 03 Ladies The Queens V NUIG
 date: 2014-12-07 12:00
 thumbnail: /t/2014/12/2014-fermanagh-volleyball-tournament/sundays-games/03-ladies-The-Queens-V-NUIG/0050-img_0390.jpg
 photos:

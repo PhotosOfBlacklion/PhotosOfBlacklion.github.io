@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s11"24 Referee.";}
+title: 24 Referee.
 date: 2014-09-24 12:00
 thumbnail: /t/2014/09/wednesday-world-championships-in-canoe-polo/24-referee/0700-24-09-2014-world-championships-day-1-471.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s30"02 Ladies New Zealand V Italy.";}
+title: 02 Ladies New Zealand V Italy.
 date: 2014-09-25 12:00
 thumbnail: /t/2014/09/thursday-world-championships-in-canoe-polo/02-Ladies-new-zealand-v-italy/0031-thursday-25-09-2014-world-championshios-027.jpg
 photos:

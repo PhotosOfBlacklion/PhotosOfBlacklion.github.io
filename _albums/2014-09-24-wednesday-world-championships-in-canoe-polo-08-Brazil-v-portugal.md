@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s21"08  Brazil V Portugal";}
+title: 08  Brazil V Portugal
 date: 2014-09-24 12:00
 thumbnail: /t/2014/09/wednesday-world-championships-in-canoe-polo/08-Brazil-v-portugal/0222-24-09-2014-world-championships-day-1-1058.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s19"Saturday 30-08-2014";}
+title: Saturday 30-08-2014
 date: 2014-08-30 12:00
 thumbnail: /t/2014/08/duisburg-germany/Saturday-30-08-2014/230.jpg
 photos:

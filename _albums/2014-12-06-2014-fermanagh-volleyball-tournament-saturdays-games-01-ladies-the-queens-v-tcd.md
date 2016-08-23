@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s29"01 Ladies  The Queens V TCD.";}
+title: 01 Ladies  The Queens V TCD
 date: 2014-12-06 12:00
 thumbnail: /t/2014/12/2014-fermanagh-volleyball-tournament/saturdays-games/01-ladies-the-queens-v-tcd/003-img_0002.jpg
 photos:

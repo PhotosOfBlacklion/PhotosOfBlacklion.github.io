@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s24"03  Men Spain V Portugal";}
+title: 03  Men Spain V Portugal
 date: 2014-09-24 12:00
 thumbnail: /t/2014/09/wednesday-world-championships-in-canoe-polo/03-men-spain-v-portugal/0075-24-09-2014-world-championships-day-1-123.jpg
 photos:

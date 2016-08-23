@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s17"06 Men NUIG V DVC";}
+title: 06 Men NUIG V DVC
 date: 2014-12-07 12:00
 thumbnail: /t/2014/12/2014-fermanagh-volleyball-tournament/sundays-games/06-men-NUIG-V-DVC/0224-img_0774.jpg
 photos:
