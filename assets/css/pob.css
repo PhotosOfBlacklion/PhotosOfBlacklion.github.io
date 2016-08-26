@@ -20,3 +20,9 @@ body {
   margin-bottom: 20px;
   text-align: center;
 }
+.footer {
+  background-color: #333;
+  border-top: 1px solid #ddd;
+  padding: 20px 0;
+  margin-top: 20px;
+}
