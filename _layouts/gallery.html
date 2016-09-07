@@ -4,11 +4,14 @@ title: {{ page.title }}
 ---
 
 <div class="container marketing">
-  <div class="row">
+  <div class="row album-header" style="background: url(https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ page.photos[0].original }}) center no-repeat;">
+  <div class="dimmer">
     <h3>
       {{ page.title }}
       <br /><small>{{ page.date | date: "%A, %-d %B, %Y" }}</small>
+      <br /><small>{{ page.photos.size }} photos</small>
     </h3>
+  </div>
   </div>
   <div id="links">
     {% for photo in page.photos %}
