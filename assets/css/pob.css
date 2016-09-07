@@ -26,6 +26,30 @@ body {
   padding: 20px 0;
   margin-top: 20px;
 }
+.album-header {
+  position: relative;
+  height: 250px;
+  text-align: center;
+  margin: 20px 0;
+}
+.album-header>.dimmer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+}
+.dimmer>h3 {
+  margin: 100px 0;
+}
+.dimmer>h3>small {
+  color: #fff;
+}
 .album-list {
   height: 350px;
+}
+#links {
+  text-align: center;
 }
