@@ -1,5 +1,5 @@
-permalink: pretty
-exclude: [ README.md, CONTRIBUTING.md, CNAME, Gemfile, Gemfile.lock ]
+permalink: /albums/:year-:month-:day-:title
+exclude: [ README.md, CONTRIBUTING.md, CNAME, Gemfile, Gemfile.lock, _albums ]
 
 site:
   title: Photos of Blacklion
@@ -9,11 +9,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "albums"
+      type: "posts"
     values:
       layout: "gallery"
-      category: "album"
-
-collections:
-  albums:
-    output: true
