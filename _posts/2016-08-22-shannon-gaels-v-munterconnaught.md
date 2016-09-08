@@ -1,6 +1,7 @@
 ---
-title: 22-08-2016 Shannon Gaels V Munterconnaught.
+title: Shannon Gaels V Munterconnaught.
 date: 2016-08-22 12:00
+tags: shannon-gaels
 thumbnail: /t/2016/08/shannon-gaels-v-muntercaooaught/22-08-2016-shannon-gaels-v-munterconnaught/img_0004.jpg
 photos:
   - original: /2016/08/shannon-gaels-v-muntercaooaught/22-08-2016-shannon-gaels-v-munterconnaught/img_0004.jpg

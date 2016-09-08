@@ -37,8 +37,7 @@ title: Photos of Blacklion
     <h2>Latest Galleries</h2>
   </div>
   <div class="row">
-    {% assign albums = site.albums | reverse %}
-    {% for album in albums limit:9 %}
+    {% for album in site.posts limit:9 %}
     {% include latest.html gallery=album %}
     {% endfor %}
   </div>

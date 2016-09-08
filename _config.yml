@@ -1,4 +1,4 @@
-permalink: pretty
+permalink: /:year-:month-:day-:title
 exclude: [ README.md, CONTRIBUTING.md, CNAME, Gemfile, Gemfile.lock ]
 
 site:
@@ -9,11 +9,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "albums"
+      type: "posts"
     values:
       layout: "gallery"
-      category: "album"
-
-collections:
-  albums:
-    output: true
