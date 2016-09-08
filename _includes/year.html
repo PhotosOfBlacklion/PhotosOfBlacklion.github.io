@@ -35,7 +35,7 @@
   <div class="row">
     <ul>
       {% capture album_month1 %}{{ 'now' }}{% endcapture %}
-      {% for album in site.albums %}
+      {% for album in site.posts %}
       {% capture album_year %}{{ album.date | date: '%Y' }}{% endcapture %}
       {% if album_year == include.year %}
       {% capture album_month2 %}{{ album.date | date: '%B' }}{% endcapture %}
