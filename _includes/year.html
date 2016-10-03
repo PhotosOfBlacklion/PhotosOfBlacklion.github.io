@@ -8,22 +8,18 @@
     <h2>{{ include.year }}</h2>
   </div>
   <div class="row">
-    <ul>
-      {% capture album_month1 %}{{ 'now' }}{% endcapture %}
-      {% for album in site.posts %}
-      {% capture album_year %}{{ album.date | date: '%Y' }}{% endcapture %}
-      {% if album_year == include.year %}
-      {% capture album_month2 %}{{ album.date | date: '%B' }}{% endcapture %}
-      {% if album_month1 != album_month2 %}
-      {% assign album_month1 = album_month2 %}
-      <h3>{{ album_month1 }}</h3>
-      {% endif %}
-      <li>
-      <a href="{{ album.url }}">{{ album.title }}</a>
-      <time datetime="{{ album.date | date: '%Y-%m-%d' }}">{{ album.date | date: '%d %b' }}</time>
-      </li>
-      {% endif %}
-      {% endfor %}
-    </ul>
+    {% capture album_month1 %}{{ 'now' }}{% endcapture %}
+    {% for album in site.posts %}
+    {% capture album_year %}{{ album.date | date: '%Y' }}{% endcapture %}
+    {% if album_year == include.year %}
+    {% capture album_month2 %}{{ album.date | date: '%B' }}{% endcapture %}
+    {% if album_month1 != album_month2 %}
+    {% assign album_month1 = album_month2 %}
+    <h3>{{ album_month1 }}</h3>
+    {% endif %}
+    <h5><a href="{{ album.url }}">{{ album.title }}</a>
+      <time datetime="{{ album.date | date: '%Y-%m-%d' }}">{{ album.date | date: '%d %b' }}</time></h5>
+    {% endif %}
+    {% endfor %}
   </div>
 </div>
