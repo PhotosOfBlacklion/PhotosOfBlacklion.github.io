@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Brazil  V  Russia
+title: Canoe Polo World Championships -- Senior Men  Brazil  V  Russia
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-brazil-v-russia/0240-img_0241.jpg
 photos:

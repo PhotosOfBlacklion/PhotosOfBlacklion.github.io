@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Ireland  V  Finland
+title: Canoe Polo World Championships -- Senior Men  Ireland  V  Finland
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-ireland-v-finland/0427-img_0475.jpg
 photos:

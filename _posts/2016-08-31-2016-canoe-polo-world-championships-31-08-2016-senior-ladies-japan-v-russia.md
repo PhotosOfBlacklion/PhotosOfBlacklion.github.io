@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Japan  V  Russia.
+title: Canoe Polo World Championships -- Senior Ladies  Japan  V  Russia.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-ladies-japan-v-russia/705-img_0795.jpg
 photos:

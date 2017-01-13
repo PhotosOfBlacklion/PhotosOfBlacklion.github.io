@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  Ireland  V  Netherlands
+title: Canoe Polo World Championships -- U21 Ladies  Ireland  V  Netherlands
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-ladies-ireland-v-netherlands/145-img_0102.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Italy  V  New Zealand
+title: Canoe Polo World Championships -- Senior Men  Italy  V  New Zealand
 date: 2016-09-02 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/001-img_0002.jpg
 photos:

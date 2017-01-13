@@ -1,5 +1,5 @@
 ---
-title: u21-ladies-italy-v-ireland
+title: Canoe Polo World Championships -- u21-ladies-italy-v-ireland
 date: 2016-08-30 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/30-08-2016/u21-ladies-italy-v-ireland/272-img_0118.jpg
 photos:

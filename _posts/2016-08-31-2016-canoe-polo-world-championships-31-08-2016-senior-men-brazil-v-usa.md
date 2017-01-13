@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Brazil  V  U.S.A.
+title: Canoe Polo World Championships -- Senior Men  Brazil  V  U.S.A.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-brazil-v-usa/494-img_0591.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  U.S.A.  V  Japan
+title: Canoe Polo World Championships -- Senior Ladies  U.S.A.  V  Japan
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-ladies-usa-v-japan/0048-img_0061.jpg
 photos:

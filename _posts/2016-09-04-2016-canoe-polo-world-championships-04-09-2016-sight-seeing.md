@@ -1,5 +1,5 @@
 ---
-title: Sight seeing
+title: Canoe Polo World Championships -- Sight Seeing
 date: 2016-09-04 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/04-09-2016/sight-seeing/001-img_0001.jpg
 photos:

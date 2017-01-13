@@ -1,5 +1,5 @@
 ---
-title: u21-ladies-germany-v-poland.
+title: Canoe Polo World Championships -- u21-ladies-germany-v-poland.
 date: 2016-08-30 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/30-08-2016/u21-ladies-germany-v-poland/186-img_0016.jpg
 photos:

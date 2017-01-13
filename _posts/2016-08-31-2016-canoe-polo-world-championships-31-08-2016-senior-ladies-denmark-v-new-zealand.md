@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Denmark  V  New Zealand.
+title: Canoe Polo World Championships -- Senior Ladies  Denmark  V  New Zealand.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-ladies-denmark-v-new-zealand/691-img_0776.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  Canada  V  New Zealand
+title: Canoe Polo World Championships -- U21 Ladies  Canada  V  New Zealand
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-ladies-canada-v-new-zealand/608-img_0707.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Singapore  V  Russia.
+title: Canoe Polo World Championships -- Senior Ladies  Singapore  V  Russia.
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-ladies-singapore-v-russia/0001-img_0002.jpg
 photos:

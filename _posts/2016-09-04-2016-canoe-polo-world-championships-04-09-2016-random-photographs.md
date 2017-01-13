@@ -1,5 +1,5 @@
 ---
-title: Random photographs
+title: Canoe Polo World Championships -- Random photographs
 date: 2016-09-04 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/04-09-2016/random-photographs/027-img_0027.jpg
 photos:

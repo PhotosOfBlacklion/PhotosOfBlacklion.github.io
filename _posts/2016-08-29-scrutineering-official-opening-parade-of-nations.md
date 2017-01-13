@@ -1,5 +1,5 @@
 ---
-title: Official Opening -  Parade of Nations.
+title: Canoe Polo World Championships -- Official Opening -  Parade of Nations.
 date: 2016-08-29 12:00
 thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/061-img_0458.jpg
 photos:

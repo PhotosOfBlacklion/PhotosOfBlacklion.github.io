@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Germany  V  Italy
+title: Canoe Polo World Championships -- Senior Ladies  Germany  V  Italy
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-ladies-germany-v-italy/0904-img_1002.jpg
 photos:

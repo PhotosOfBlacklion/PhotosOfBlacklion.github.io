@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Singapore  V  Poland
+title: Canoe Polo World Championships -- Senior Men  Singapore  V  Poland
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-singapore-v-poland/031-img_0037.jpg
 photos:

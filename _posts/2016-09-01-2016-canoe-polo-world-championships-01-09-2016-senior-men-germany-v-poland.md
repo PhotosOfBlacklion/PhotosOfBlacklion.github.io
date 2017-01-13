@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Germany  V  Poland
+title: Canoe Polo World Championships -- Senior Men  Germany  V  Poland
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-germany-v-poland/470-img_0560.jpg
 photos:

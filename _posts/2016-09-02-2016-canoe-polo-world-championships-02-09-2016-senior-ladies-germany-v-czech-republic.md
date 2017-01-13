@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Germany  V  Czech Republic
+title: Canoe Polo World Championships -- Senior Ladies  Germany  V  Czech Republic
 date: 2016-09-02 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-ladies-germany-v-czech-republic/550-img_0602.jpg
 photos:

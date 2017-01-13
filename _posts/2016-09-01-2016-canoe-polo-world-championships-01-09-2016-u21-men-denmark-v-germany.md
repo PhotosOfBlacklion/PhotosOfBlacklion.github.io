@@ -1,5 +1,5 @@
 ---
-title: U21 Men  Denmark  V  Germany
+title: Canoe Polo World Championships -- U21 Men  Denmark  V  Germany
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/001-img_0001.jpg
 photos:

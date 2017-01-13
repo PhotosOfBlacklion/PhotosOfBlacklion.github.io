@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Russia  V  Finland
+title: Canoe Polo World Championships -- Senior Men  Russia  V  Finland
 date: 2016-09-02 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-russia-v-finland/254-img_0271.jpg
 photos:

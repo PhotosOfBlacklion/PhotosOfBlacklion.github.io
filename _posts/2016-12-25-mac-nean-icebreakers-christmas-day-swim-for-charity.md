@@ -1,5 +1,5 @@
 ---
-title: mac nean icebreakers christmas day swim for charity
+title: Mac Nean Icebreakers Christmas Day Swim for Charity
 date: 2016-12-25 12:00
 thumbnail: /t/2016/12/mac-nean-icebreakers-christmas-day-swim-for-charity/001-img_0155.jpg
 photos:

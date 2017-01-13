@@ -1,5 +1,5 @@
 ---
-title: 28-08-2016 Scrutineering
+title: Canoe Polo World Championships -- Scrutineering
 date: 2016-08-28 12:00
 thumbnail: /t/2016/08/scrutineering/01-28-08-2016-world-championships-28-08-2016-16-20-16.jpg
 photos:

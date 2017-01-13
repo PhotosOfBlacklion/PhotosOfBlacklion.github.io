@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies   I.R. Iran  V Czech republic.
+title: Canoe Polo World Championships -- Senior Ladies   I.R. Iran  V Czech republic.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-ladies-ir-iran-v-czech-republic/253-img_0283.jpg
 photos:

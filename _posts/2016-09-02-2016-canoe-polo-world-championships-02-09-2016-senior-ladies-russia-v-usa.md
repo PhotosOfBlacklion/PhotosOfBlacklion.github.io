@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Russia  V  U.S.A.
+title: Canoe Polo World Championships -- Senior Ladies  Russia  V  U.S.A.
 date: 2016-09-02 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-ladies-russia-v-usa/618-img_0761.jpg
 photos:

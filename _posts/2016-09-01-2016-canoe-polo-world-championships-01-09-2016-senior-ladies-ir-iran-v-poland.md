@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  I.R. Iran  V  Poland
+title: Canoe Polo World Championships -- Senior Ladies  I.R. Iran  V  Poland
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-ladies-ir-iran-v-poland/193-img_0226.jpg
 photos:

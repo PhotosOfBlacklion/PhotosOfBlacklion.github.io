@@ -1,5 +1,5 @@
 ---
-title: Stage presentation.
+title: Canoe Polo World Championships -- Stage presentation.
 date: 2016-08-29 12:00
 thumbnail: /t/2016/08/scrutineering/stage-presentation/547-img_0995.jpg
 photos:

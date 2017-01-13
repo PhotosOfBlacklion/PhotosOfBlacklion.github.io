@@ -1,5 +1,5 @@
 ---
-title: Training and a bit of fun.
+title: Canoe Polo World Championships -- Training and a bit of fun.
 date: 2016-08-29 12:00
 thumbnail: /t/2016/08/scrutineering/training-and-a-bit-of-fun/039-img_0428.jpg
 photos:

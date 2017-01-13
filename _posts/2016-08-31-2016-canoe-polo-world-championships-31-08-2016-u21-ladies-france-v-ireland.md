@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  France  V  Ireland.
+title: Canoe Polo World Championships -- U21 Ladies  France  V  Ireland.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/u21-ladies-france-v-ireland/194-img_0225.jpg
 photos:

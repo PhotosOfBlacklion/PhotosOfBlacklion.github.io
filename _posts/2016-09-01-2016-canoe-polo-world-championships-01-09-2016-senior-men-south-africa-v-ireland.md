@@ -1,5 +1,5 @@
 ---
-title: Senior Men  South Africa  V  Ireland
+title: Canoe Polo World Championships -- Senior Men  South Africa  V  Ireland
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/545-img_0633.jpg
 photos:

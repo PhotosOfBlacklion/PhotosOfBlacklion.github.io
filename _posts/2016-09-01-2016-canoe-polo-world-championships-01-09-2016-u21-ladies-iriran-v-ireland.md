@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  I.R.Iran  V  Ireland
+title: Canoe Polo World Championships -- U21 Ladies  I.R.Iran  V  Ireland
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-ladies-iriran-v-ireland/647-img_0720.jpg
 photos:

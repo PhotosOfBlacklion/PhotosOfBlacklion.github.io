@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Ireland  V  Australia.
+title: Canoe Polo World Championships -- Senior Men  Ireland  V  Australia.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-ireland-v-australia/388-img_0525.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: 27-08-2016 Preparing for scrutineering
+title: Canoe Polo World Championships -- Preparing for scrutineering
 date: 2016-08-27 12:00
 thumbnail: /t/2016/08/preparing-for-scrutineering/01-img_0104.jpg
 photos:

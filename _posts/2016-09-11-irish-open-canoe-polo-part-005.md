@@ -1,5 +1,5 @@
 ---
-title: Part 005
+title: Irish Open Canoe Polo Part 5
 date: 2016-09-11 12:00
 thumbnail: /t/2016/09/irish-open-canoe-polo/part-005/501-img_0579.jpg
 photos:

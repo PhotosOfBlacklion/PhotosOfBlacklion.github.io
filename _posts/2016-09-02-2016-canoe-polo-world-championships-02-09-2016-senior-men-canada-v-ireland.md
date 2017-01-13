@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Canada  V  Ireland
+title: Canoe Polo World Championships -- Senior Men  Canada  V  Ireland
 date: 2016-09-02 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-canada-v-ireland/302-img_0339.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  Italy  V  I.R. Iran
+title: Canoe Polo World Championships -- U21 Ladies  Italy  V  I.R. Iran
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-ladies-italy-v-ir-iran/060-img_0069.jpg
 photos:

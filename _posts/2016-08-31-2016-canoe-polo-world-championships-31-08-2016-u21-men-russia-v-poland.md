@@ -1,5 +1,5 @@
 ---
-title: U21 Men  Russia  V  Poland.
+title: Canoe Polo World Championships -- U21 Men  Russia  V  Poland.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/u21-men-russia-v-poland/106-img_0118.jpg
 photos:

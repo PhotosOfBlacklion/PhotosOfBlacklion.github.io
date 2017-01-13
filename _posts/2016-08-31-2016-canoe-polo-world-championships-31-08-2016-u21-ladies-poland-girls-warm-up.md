@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  Poland girls warm up 
+title: Canoe Polo World Championships -- U21 Ladies  Poland girls warm up 
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/u21-ladies-poland-girls-warm-up/658-img_0756.jpg
 photos:

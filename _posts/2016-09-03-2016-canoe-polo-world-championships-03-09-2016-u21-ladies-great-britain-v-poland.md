@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  Great Britain  V  Poland
+title: Canoe Polo World Championships -- U21 Ladies  Great Britain  V  Poland
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/u21-ladies-great-britain-v-poland/0589-img_0664.jpg
 photos:

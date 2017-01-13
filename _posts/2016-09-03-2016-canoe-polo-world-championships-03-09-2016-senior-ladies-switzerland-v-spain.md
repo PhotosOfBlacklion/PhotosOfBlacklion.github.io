@@ -1,5 +1,5 @@
 ---
-title: Senior Ladies  Switzerland  v  Spain
+title: Canoe Polo World Championships -- Senior Ladies  Switzerland  v  Spain
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-ladies-switzerland-v-spain/0780-img_0885.jpg
 photos:

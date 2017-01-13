@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Spain  V  Poland
+title: Canoe Polo World Championships -- Senior Men  Spain  V  Poland
 date: 2016-09-02 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-spain-v-poland/173-img_0183.jpg
 photos:

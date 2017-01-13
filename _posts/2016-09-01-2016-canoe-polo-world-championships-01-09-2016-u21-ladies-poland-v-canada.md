@@ -1,5 +1,5 @@
 ---
-title: U21 Ladies  Poland  V  Canada
+title: Canoe Polo World Championships -- U21 Ladies  Poland  V  Canada
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-ladies-poland-v-canada/038-img_0055.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: Senior Men  France  V  Italy
+title: Canoe Polo World Championships -- Senior Men  France  V  Italy
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-france-v-italy/0941-img_1060.jpg
 photos:

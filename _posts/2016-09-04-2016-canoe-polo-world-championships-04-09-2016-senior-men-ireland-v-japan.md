@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Ireland  V  Japan
+title: Canoe Polo World Championships -- Senior Men Ireland v Japan
 date: 2016-09-04 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/04-09-2016/senior-men-ireland-v-japan/084-img_0085.jpg
 photos:

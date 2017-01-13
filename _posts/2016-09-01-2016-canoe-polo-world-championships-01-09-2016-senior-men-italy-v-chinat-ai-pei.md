@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Italy  V  ChinaT,ai-pei
+title: Canoe Polo World Championships -- Senior Men  Italy  V  ChinaT,ai-pei
 date: 2016-09-01 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-italy-v-chinat-ai-pei/353-img_0423.jpg
 photos:

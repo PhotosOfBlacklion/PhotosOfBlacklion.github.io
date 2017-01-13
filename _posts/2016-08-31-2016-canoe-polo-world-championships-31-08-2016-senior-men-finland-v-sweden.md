@@ -1,5 +1,5 @@
 ---
-title: Senior Men   Finland  V  Sweden
+title: Canoe Polo World Championships -- Senior Men   Finland  V  Sweden
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/001-img_0031.jpg
 photos:

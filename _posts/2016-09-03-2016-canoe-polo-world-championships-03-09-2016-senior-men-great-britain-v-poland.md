@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Great Britain  V  Poland
+title: Canoe Polo World Championships -- Senior Men  Great Britain  V  Poland
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-great-britain-v-poland/0289-img_0327.jpg
 photos:

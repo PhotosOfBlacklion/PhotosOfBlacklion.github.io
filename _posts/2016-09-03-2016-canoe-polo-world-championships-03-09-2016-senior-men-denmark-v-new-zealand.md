@@ -1,5 +1,5 @@
 ---
-title: Senior Men  Denmark  V  New Zealand
+title: Canoe Polo World Championships -- Senior Men  Denmark  V  New Zealand
 date: 2016-09-03 12:00
 thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0126-img_0197.jpg
 photos:

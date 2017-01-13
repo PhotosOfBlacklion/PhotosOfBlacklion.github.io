@@ -1,5 +1,5 @@
 ---
-title: Part 007
+title: Irish Open Canoe Polo Part 7
 date: 2016-09-11 12:00
 thumbnail: /t/2016/09/irish-open-canoe-polo/part-007/701-img_0799.jpg
 photos:

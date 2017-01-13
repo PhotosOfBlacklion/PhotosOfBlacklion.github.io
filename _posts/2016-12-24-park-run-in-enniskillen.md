@@ -1,5 +1,5 @@
 ---
-title: park run in enniskillen
+title: Park Run in Enniskillen
 date: 2016-12-24 12:00
 thumbnail: /t/2016/12/park-run-in-enniskillen/001-img_0181.jpg
 photos:

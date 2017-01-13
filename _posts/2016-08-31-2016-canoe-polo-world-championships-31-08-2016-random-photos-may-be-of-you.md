@@ -1,5 +1,5 @@
 ---
-title: Random Photos  may be of you.
+title: Canoe Polo World Championships -- Random Photos  may be of you.
 date: 2016-08-31 12:00
 thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/random-photos-may-be-of-you/334-img_0305.jpg
 photos:
