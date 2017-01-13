@@ -1,5 +1,5 @@
 ---
-title: VOLUNTEERS.   NO volunteers NO competition.
+title: ECA 3rd Round -- VOLUNTEERS.   NO volunteers NO competition.
 date: 2016-07-17 12:00
 thumbnail: /t/2016/07/eca-3rd-round-in-thury-harcourt-france/volunteers-no-volunteers-no-competition/1004-img_1560.jpg
 photos:

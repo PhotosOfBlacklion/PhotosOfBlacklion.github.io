@@ -1,5 +1,5 @@
 ---
-title: Presentation of prizes.
+title: ECA 3rd Round -- Presentation of prizes.
 date: 2016-07-17 12:00
 thumbnail: /t/2016/07/eca-3rd-round-in-thury-harcourt-france/presentation-of-prizes/0856-img_1394.jpg
 photos:
