@@ -1,6 +1,6 @@
 ---
 title: ECA 3rd Round -- Photographs from Saturday 16th
-date: 2016-07-17 12:00
+date: 2016-07-16 12:00
 thumbnail: /t/2016/07/eca-3rd-round-in-thury-harcourt-france/photographs-from-saturday-16th/photos-0001-to-0050/0001-img_0415.jpg
 photos:
   - original: /2016/07/eca-3rd-round-in-thury-harcourt-france/photographs-from-saturday-16th/photos-0001-to-0050/0001-img_0415.jpg

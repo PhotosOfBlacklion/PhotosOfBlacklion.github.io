@@ -1,5 +1,5 @@
 ---
-title: 19 & 20-09-2016  50th College reunion.
+title: 50th College reunion.
 date: 2016-09-20 12:00
 thumbnail: /t/2016/09/50th-college-reunion/001-img_0013.jpg
 photos:
