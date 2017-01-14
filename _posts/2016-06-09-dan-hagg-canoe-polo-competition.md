@@ -1,5 +1,5 @@
 ---
-title: Dan Haag canoe polo competition
+title: Den Haag canoe polo competition
 date: 2016-06-09 12:00
 thumbnail: /t/2016/06/dan-hagg-canoe-polo-competition/photos-01-to-50/001-img_0553.jpg
 photos:

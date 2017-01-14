@@ -1,5 +1,5 @@
 ---
-title: Seen around Dresded
+title: Seen around Dresden
 date: 2016-06-09 12:00
 thumbnail: /t/2016/06/dan-hagg-canoe-polo-competition/seen-around-dresded/003-img_0001.jpg
 photos:
