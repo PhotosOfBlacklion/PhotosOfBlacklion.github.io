@@ -1,5 +1,5 @@
 ---
-title: Red Rose Cross Country League.
+title: Visit to Hebden Bridge -- Red Rose Cross Country League.
 date: 2015-12-05 12:00
 thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/001-img_0004.jpg
 photos:

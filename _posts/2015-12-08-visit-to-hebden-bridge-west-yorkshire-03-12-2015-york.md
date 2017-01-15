@@ -1,5 +1,5 @@
 ---
-title: York.
+title: Visit to Hebden Bridge -- York.
 date: 2015-12-03 12:00
 thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/01-img_0001.jpg
 photos:
