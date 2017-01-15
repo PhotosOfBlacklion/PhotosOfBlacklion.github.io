@@ -1,6 +1,6 @@
 ---
-title: 12-02-2016 Canoe repair night by Peter from Agility Skills
-date: 2016-02-17 12:00
+title: Lithuania -- Canoe repair night by Peter from Agility Skills
+date: 2016-02-12 12:00
 thumbnail: /t/2016/02/lithuania/12-02-2016-canoe-repair-night-by-peter-from-agility-skills/001-img_0442.jpg
 photos:
   - original: /2016/02/lithuania/12-02-2016-canoe-repair-night-by-peter-from-agility-skills/001-img_0442.jpg

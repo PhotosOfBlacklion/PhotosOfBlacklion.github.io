@@ -1,5 +1,5 @@
 ---
-title: 20-03-2016  Shannon Gaels V Knockbride
+title: Shannon Gaels V Knockbride
 date: 2016-03-20 12:00
 thumbnail: /t/2016/03/shannon-gaels-v-knockbride/001-img_0005.jpg
 photos:

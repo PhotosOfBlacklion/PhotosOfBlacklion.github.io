@@ -1,5 +1,5 @@
 ---
-title: 17-03-2016 St Patrick's Day event in Kiltyclogher Country Leitrim
+title: St Patrick's Day event in Kiltyclogher Country Leitrim
 date: 2016-03-17 12:00
 thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/001-img_0078.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: 27-05-2016 Scrutineering area ready.
+title: ECA 1st Round -- Scrutineering area ready.
 date: 2016-05-29 12:00
 thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/27-05-2016-scrutineering-area-ready/140-img_0166.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: 25 & 26-05-2016 Polish Ladies & Men checking new equipment.
+title: ECA 1st Round -- Polish Ladies & Men checking new equipment.
 date: 2016-05-29 12:00
 thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/25-26-05-2016-polish-ladies-men-checking-new-equipment/001-img_0032.jpg
 photos:

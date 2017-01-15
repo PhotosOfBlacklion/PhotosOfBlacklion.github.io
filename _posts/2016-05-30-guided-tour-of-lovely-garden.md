@@ -1,5 +1,5 @@
 ---
-title: 30-05-2016 Guided tour of lovely garden
+title: Guided tour of lovely garden
 date: 2016-05-30 12:00
 thumbnail: /t/2016/05/guided-tour-of-lovely-garden/425-img_0477.jpg
 photos:

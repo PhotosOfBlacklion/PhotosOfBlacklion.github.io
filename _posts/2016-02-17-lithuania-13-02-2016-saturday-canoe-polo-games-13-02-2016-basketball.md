@@ -1,6 +1,6 @@
 ---
-title: a1{s5"en_US";s21"13-02-2016 Basketball";}
-date: 2016-02-17 12:00
+title: Lithuania -- Basketball
+date: 2016-02-13 12:00
 thumbnail: /t/2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/13-02-2016-basketball/348-img_0836.jpg
 photos:
   - original: /2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/13-02-2016-basketball/348-img_0836.jpg

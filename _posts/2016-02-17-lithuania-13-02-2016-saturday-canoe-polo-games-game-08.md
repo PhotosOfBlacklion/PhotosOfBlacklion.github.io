@@ -1,6 +1,6 @@
 ---
-title: Game 08
-date: 2016-02-17 12:00
+title: Lithuania Canoe Polo -- Game 08
+date: 2016-02-13 12:00
 thumbnail: /t/2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-08/218-img_0686.jpg
 photos:
   - original: /2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-08/218-img_0686.jpg

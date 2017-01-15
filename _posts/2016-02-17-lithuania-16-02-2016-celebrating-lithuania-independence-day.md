@@ -1,5 +1,5 @@
 ---
-title: 16-02-2016 Celebrating Lithuania Independence Day
+title: Lithuania -- Celebrating Lithuania Independence Day
 date: 2016-02-17 12:00
 thumbnail: /t/2016/02/lithuania/16-02-2016-celebrating-lithuania-independence-day/001-img_0040.jpg
 photos:

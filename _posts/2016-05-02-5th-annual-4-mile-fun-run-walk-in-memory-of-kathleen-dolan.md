@@ -1,5 +1,5 @@
 ---
-title: 02-05-2016 5th Annual 4 mile Fun Run / Walk in memory of Kathleen Dolan
+title: 5th Annual 4 mile Fun Run / Walk in memory of Kathleen Dolan
 date: 2016-05-02 12:00
 thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/001-img_0296.jpg
 photos:

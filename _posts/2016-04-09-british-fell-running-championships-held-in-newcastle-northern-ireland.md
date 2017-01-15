@@ -1,5 +1,5 @@
 ---
-title: 09-04-2016 British fell running championships held in Newcastle Northern Ireland.
+title: British fell running championships held in Newcastle Northern Ireland.
 date: 2016-04-09 12:00
 thumbnail: /t/2016/04/british-fell-running-championships-held-in-newcastle-northern-ireland/001-img_0285.jpg
 photos:

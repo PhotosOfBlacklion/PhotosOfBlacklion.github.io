@@ -1,6 +1,6 @@
 ---
-title: Snow in the morning
-date: 2016-02-17 12:00
+title: Lithuania -- Snow in the morning
+date: 2016-02-13 12:00
 thumbnail: /t/2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/snow-in-the-morning/032-img_0474.jpg
 photos:
   - original: /2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/snow-in-the-morning/032-img_0474.jpg

@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s20"21-05-2016 Saturday.";}
+title: Amsterdam Open Canoe Polo -- Saturday
 date: 2016-05-23 12:00
 thumbnail: /t/2016/05/amsterdam-open-canoe-polo-competition/22-05-2016-saturday/050-img_0052.jpg
 photos:

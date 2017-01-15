@@ -1,6 +1,6 @@
 ---
-title: Game 04
-date: 2016-02-17 12:00
+title: Lithuania Canoe Polo -- Game 04
+date: 2016-02-13 12:00
 thumbnail: /t/2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-04/111-img_0565.jpg
 photos:
   - original: /2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-04/111-img_0565.jpg

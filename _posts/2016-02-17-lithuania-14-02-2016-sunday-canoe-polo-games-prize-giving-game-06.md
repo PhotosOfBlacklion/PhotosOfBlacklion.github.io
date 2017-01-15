@@ -1,6 +1,6 @@
 ---
-title: Game 06
-date: 2016-02-17 12:00
+title: Lithuania Canoe Polo -- Game 06
+date: 2016-02-14 12:00
 thumbnail: /t/2016/02/lithuania/14-02-2016-sunday-canoe-polo-games-prize-giving/game-06/193-img_1083.jpg
 photos:
   - original: /2016/02/lithuania/14-02-2016-sunday-canoe-polo-games-prize-giving/game-06/193-img_1083.jpg

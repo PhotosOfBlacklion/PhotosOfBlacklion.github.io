@@ -1,6 +1,6 @@
 ---
-title: Game 02
-date: 2016-02-17 12:00
+title: Lithuania Canoe Polo -- Game 02
+date: 2016-02-13 12:00
 thumbnail: /t/2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-02/052-img_0497.jpg
 photos:
   - original: /2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-02/052-img_0497.jpg

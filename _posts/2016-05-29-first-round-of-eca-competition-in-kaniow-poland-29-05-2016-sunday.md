@@ -1,5 +1,5 @@
 ---
-title: 29-05-2016 Sunday.
+title: ECA 1st Round -- Sunday.
 date: 2016-05-29 12:00
 thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/29-05-2016-sunday/145-img_0171.jpg
 photos:

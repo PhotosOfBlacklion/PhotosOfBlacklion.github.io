@@ -1,6 +1,6 @@
 ---
-title: 15&16-02-2016 Sight seeing
-date: 2016-02-17 12:00
+title: Lithuania -- Sight seeing
+date: 2016-02-16 12:00
 thumbnail: /t/2016/02/lithuania/15-16-02-2016-sight-seeing/01-img_0002.jpg
 photos:
   - original: /2016/02/lithuania/15-16-02-2016-sight-seeing/01-img_0002.jpg

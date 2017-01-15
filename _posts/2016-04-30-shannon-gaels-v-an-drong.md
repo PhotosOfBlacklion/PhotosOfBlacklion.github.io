@@ -1,5 +1,5 @@
 ---
-title: 30-04-2016 Shannon Gaels V An Drong
+title: Shannon Gaels V An Drong
 date: 2016-04-30 12:00
 thumbnail: /t/2016/04/shannon-gaels-v-an-drong/001-img_0020.jpg
 photos:

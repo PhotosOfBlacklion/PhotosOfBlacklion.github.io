@@ -1,5 +1,5 @@
 ---
-title: 01-05-2016 Launch of PHILIP CATHAL memorial walk from Croker to the Black.
+title: Launch of Philip Cathal Memorial Walk from Croker to the Black.
 date: 2016-05-01 12:00
 thumbnail: /t/2016/05/launch-of-philip-cathal-memorial-walk-from-croker-to-the-black/001-img_0057.jpg
 photos:

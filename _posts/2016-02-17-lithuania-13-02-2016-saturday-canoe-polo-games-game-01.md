@@ -1,6 +1,6 @@
 ---
-title: a1{s5"en_US";s7"Game 01";}
-date: 2016-02-17 12:00
+title: Lithuania Canoe Polo -- Game 01
+date: 2016-02-13 12:00
 thumbnail: /t/2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-01/037-img_0479.jpg
 photos:
   - original: /2016/02/lithuania/13-02-2016-saturday-canoe-polo-games/game-01/037-img_0479.jpg

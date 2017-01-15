@@ -1,5 +1,5 @@
 ---
-title: 25-05-2016 Procession after Mass..
+title: ECA 1st Round -- Procession after Mass
 date: 2016-05-29 12:00
 thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/070-img_0091.jpg
 photos:
@@ -21,6 +21,9 @@ photos:
   - original: /2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/075-img_0095.jpg
     thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/075-img_0095.jpg
     title: 075-IMG_0095
+  - original: /2016/05/first-round-of-eca-competition-in-kaniow-poland/26-05-2016-procession-after-mass/076-img_0096.jpg
+    thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/26-05-2016-procession-after-mass/076-img_0096.jpg
+    title: 076-IMG_0096
   - original: /2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/077-img_0097.jpg
     thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/077-img_0097.jpg
     title: 077-IMG_0097
@@ -54,6 +57,9 @@ photos:
   - original: /2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/087-img_0107.jpg
     thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/087-img_0107.jpg
     title: 087-IMG_0107
+  - original: /2016/05/first-round-of-eca-competition-in-kaniow-poland/26-05-2016-procession-after-mass/088-img_0108.jpg
+    thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/26-05-2016-procession-after-mass/088-img_0108.jpg
+    title: 088-IMG_0108
   - original: /2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/089-img_0109.jpg
     thumbnail: /t/2016/05/first-round-of-eca-competition-in-kaniow-poland/25-05-2016-procession-after-mass/089-img_0109.jpg
     title: 089-IMG_0109

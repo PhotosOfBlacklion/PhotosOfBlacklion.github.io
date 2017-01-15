@@ -1,6 +1,6 @@
 ---
-title: Prize giving
-date: 2016-02-17 12:00
+title: Lithuania Canoe Polo -- Prize giving
+date: 2016-02-14 12:00
 thumbnail: /t/2016/02/lithuania/14-02-2016-sunday-canoe-polo-games-prize-giving/prize-giving/224-img_1121.jpg
 photos:
   - original: /2016/02/lithuania/14-02-2016-sunday-canoe-polo-games-prize-giving/prize-giving/224-img_1121.jpg
