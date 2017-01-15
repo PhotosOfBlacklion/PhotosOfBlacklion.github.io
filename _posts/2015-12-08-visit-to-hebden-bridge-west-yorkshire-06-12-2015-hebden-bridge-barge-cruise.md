@@ -1,6 +1,6 @@
 ---
-title: 06-12-2015 Hebden Bridge Barge Cruise.
-date: 2015-12-08 12:00
+title: Hebden Bridge Barge Cruise.
+date: 2015-12-06 12:00
 thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/01-img_0306.jpg
 photos:
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/01-img_0306.jpg

@@ -1,6 +1,6 @@
 ---
-title: 04-12-2015 Skipton.
-date: 2015-12-08 12:00
+title: Skipton.
+date: 2015-12-04 12:00
 thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/01-img_0085.jpg
 photos:
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/01-img_0085.jpg

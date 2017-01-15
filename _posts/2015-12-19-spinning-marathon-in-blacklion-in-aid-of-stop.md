@@ -1,5 +1,5 @@
 ---
-title: 19-12-2015  Spinning Marathon in Blacklion in Aid of  "STOP"
+title: Spinning Marathon in Blacklion in Aid of  "STOP"
 date: 2015-12-19 12:00
 thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/01-img_0001.jpg
 photos:

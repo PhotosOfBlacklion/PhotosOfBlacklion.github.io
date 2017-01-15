@@ -1,6 +1,6 @@
 ---
-title: 03-12-2015 York.
-date: 2015-12-08 12:00
+title: York.
+date: 2015-12-03 12:00
 thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/01-img_0001.jpg
 photos:
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/01-img_0001.jpg
