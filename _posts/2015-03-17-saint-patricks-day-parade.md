@@ -1,5 +1,5 @@
 ---
-title: 17-03-2015  Saint Patricks Day Parade.
+title: Saint Patricks Day Parade
 date: 2015-03-17 12:00
 thumbnail: /t/2015/03/saint-patricks-day-parade/001-img_0012.jpg
 photos:

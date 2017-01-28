@@ -1,5 +1,5 @@
 ---
-title: 17-03-2015  Fables, Poetry, Music & Art Workshop from Cavan Burren Park.
+title: Fables, Poetry, Music & Art Workshop from Cavan Burren Park
 date: 2015-03-17 12:00
 thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/001-img_0003.jpg
 photos:
