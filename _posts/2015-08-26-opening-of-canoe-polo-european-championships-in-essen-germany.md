@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s75"26-08-2015  Opening of Canoe Polo European  Championships in Essen Germany.";}
+title: 26-08-2015  Opening of Canoe Polo European  Championships in Essen Germany.
 date: 2015-08-26 12:00
 thumbnail: /t/2015/08/opening-of-canoe-polo-european-championships-in-essen-germany/001-img_0101.jpg
 photos:

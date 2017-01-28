@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s49"09-09-2015 At competition site in Kaniow. Poland.";}
+title: 09-09-2015 At competition site in Kaniow. Poland.
 date: 2015-09-09 12:00
 thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/01-img_0047.jpg
 photos:

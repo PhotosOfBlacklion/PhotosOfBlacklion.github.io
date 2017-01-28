@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s5"First";}
+title: a1{s5"en_US";s5"First
 date: 2014-05-19 12:00
 thumbnail: /t/2014/05/shannongaels/2014-shannon-gaels-gaa-club/u-14-boys-v-ballymachugh/first-half/001-u14-v-ballymachugh-006.jpg
 photos:

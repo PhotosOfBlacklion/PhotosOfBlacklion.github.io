@@ -1,5 +1,5 @@
 ---
-title: 28-0202014  Membership and Players registration Day.
+title: Membership and Players registration Day
 date: 2015-02-28 12:00
 thumbnail: /t/2015/02/2015-shannon-gaels-gaa-club-blacklion-co-cavan/28-0202014-membership-and-players-registration-day/01-img_0039.jpg
 photos:

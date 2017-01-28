@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s17"Saturday Part 01.
+title: Saturday Part 01.
 date: 2015-08-17 12:00
 thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/001-img_0655.jpg
 photos:
