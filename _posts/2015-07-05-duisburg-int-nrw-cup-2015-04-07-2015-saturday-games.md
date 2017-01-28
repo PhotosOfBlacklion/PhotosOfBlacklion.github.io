@@ -164,7 +164,7 @@ photos:
     title: 052-IMG_0290
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/053-img_0291.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/053-img_0291.jpg
-    title: a:1:{s:5:"en_US";s:12:"053-IMG_0291";}
+    title: a:1:{s:5:"en_US";s:12:"053-IMG_0291
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/054-img_0292.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/054-img_0292.jpg
     title: 054-IMG_0292
@@ -188,7 +188,7 @@ photos:
     title: 060-IMG_0298
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/061-img_0299.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/061-img_0299.jpg
-    title: a:1:{s:5:"en_US";s:12:"061-IMG_0299";}
+    title: a:1:{s:5:"en_US";s:12:"061-IMG_0299
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/062-img_0300.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/062-img_0300.jpg
     title: 062-IMG_0300
@@ -314,7 +314,7 @@ photos:
     title: 102-IMG_0344
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/103-img_0345.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/103-img_0345.jpg
-    title: a:1:{s:5:"en_US";s:12:"103-IMG_0345";}
+    title: a:1:{s:5:"en_US";s:12:"103-IMG_0345
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/104-img_0347.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/104-img_0347.jpg
     title: 104-IMG_0347
@@ -413,7 +413,7 @@ photos:
     title: 135-IMG_0384
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/136-img_0385.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/136-img_0385.jpg
-    title: a:1:{s:5:"en_US";s:12:"136-IMG_0385";}
+    title: a:1:{s:5:"en_US";s:12:"136-IMG_0385
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/137-img_0386.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/137-img_0386.jpg
     title: 137-IMG_0386
@@ -443,7 +443,7 @@ photos:
     title: 145-IMG_0395
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/146-img_0396.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/146-img_0396.jpg
-    title: a:1:{s:5:"en_US";s:12:"146-IMG_0396";}
+    title: a:1:{s:5:"en_US";s:12:"146-IMG_0396
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/147-img_0397.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/147-img_0397.jpg
     title: 147-IMG_0397
@@ -455,7 +455,7 @@ photos:
     title: 149-IMG_0400
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/150-img_0401.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/150-img_0401.jpg
-    title: a:1:{s:5:"en_US";s:12:"150-IMG_0401";}
+    title: a:1:{s:5:"en_US";s:12:"150-IMG_0401
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/151-img_0402.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/151-img_0402.jpg
     title: 151-IMG_0402
@@ -677,7 +677,7 @@ photos:
     title: 223-IMG_0481
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/224-img_0482.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/224-img_0482.jpg
-    title: a:1:{s:5:"en_US";s:12:"224-IMG_0482";}
+    title: a:1:{s:5:"en_US";s:12:"224-IMG_0482
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/225-img_0483.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/225-img_0483.jpg
     title: 225-IMG_0483
@@ -716,7 +716,7 @@ photos:
     title: 236-IMG_0495
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/237-img_0496.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/237-img_0496.jpg
-    title: a:1:{s:5:"en_US";s:12:"237-IMG_0496";}
+    title: a:1:{s:5:"en_US";s:12:"237-IMG_0496
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/238-img_0497.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/238-img_0497.jpg
     title: 238-IMG_0497
@@ -851,7 +851,7 @@ photos:
     title: 281-IMG_0545
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/282-img_0546.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/282-img_0546.jpg
-    title: a:1:{s:5:"en_US";s:12:"282-IMG_0546";}
+    title: a:1:{s:5:"en_US";s:12:"282-IMG_0546
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/283-img_0547.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/283-img_0547.jpg
     title: 283-IMG_0547
@@ -881,7 +881,7 @@ photos:
     title: 291-IMG_0555
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/292-img_0557.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/292-img_0557.jpg
-    title: a:1:{s:5:"en_US";s:12:"292-IMG_0557";}
+    title: a:1:{s:5:"en_US";s:12:"292-IMG_0557
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/293-img_0558.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/293-img_0558.jpg
     title: 293-IMG_0558

@@ -35,7 +35,7 @@ photos:
     title: 424-IMG_0624
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/425-img_0625.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/425-img_0625.jpg
-    title: a:1:{s:5:"en_US";s:12:"425-IMG_0625";}
+    title: a:1:{s:5:"en_US";s:12:"425-IMG_0625
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/426-img_0626.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/426-img_0626.jpg
     title: 426-IMG_0626
@@ -56,7 +56,7 @@ photos:
     title: 431-IMG_0631
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/432-img_0632.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/432-img_0632.jpg
-    title: a:1:{s:5:"en_US";s:12:"432-IMG_0632";}
+    title: a:1:{s:5:"en_US";s:12:"432-IMG_0632
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/433-img_0634.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/433-img_0634.jpg
     title: 433-IMG_0634
@@ -89,7 +89,7 @@ photos:
     title: 442-IMG_0644
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/443-img_0647.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/443-img_0647.jpg
-    title: a:1:{s:5:"en_US";s:12:"443-IMG_0647";}
+    title: a:1:{s:5:"en_US";s:12:"443-IMG_0647
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/444-img_0650.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/444-img_0650.jpg
     title: 444-IMG_0650
@@ -104,13 +104,13 @@ photos:
     title: 447-IMG_0654
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/448-img_0655.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/448-img_0655.jpg
-    title: a:1:{s:5:"en_US";s:12:"448-IMG_0655";}
+    title: a:1:{s:5:"en_US";s:12:"448-IMG_0655
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/449-img_0656.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/449-img_0656.jpg
     title: 449-IMG_0656
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/450-img_0657.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/450-img_0657.jpg
-    title: a:1:{s:5:"en_US";s:12:"450-IMG_0657";}
+    title: a:1:{s:5:"en_US";s:12:"450-IMG_0657
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/451-img_0659.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/451-img_0659.jpg
     title: 451-IMG_0659
@@ -155,7 +155,7 @@ photos:
     title: 464-IMG_0672
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/465-img_0673.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/465-img_0673.jpg
-    title: a:1:{s:5:"en_US";s:12:"465-IMG_0673";}
+    title: a:1:{s:5:"en_US";s:12:"465-IMG_0673
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/466-img_0674.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/466-img_0674.jpg
     title: 466-IMG_0674
@@ -167,7 +167,7 @@ photos:
     title: 468-IMG_0676
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/469-img_0677.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/469-img_0677.jpg
-    title: a:1:{s:5:"en_US";s:12:"469-IMG_0677";}
+    title: a:1:{s:5:"en_US";s:12:"469-IMG_0677
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/470-img_0679.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/470-img_0679.jpg
     title: 470-IMG_0679
@@ -188,7 +188,7 @@ photos:
     title: 475-IMG_0684
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/476-img_0685.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/476-img_0685.jpg
-    title: a:1:{s:5:"en_US";s:12:"476-IMG_0685";}
+    title: a:1:{s:5:"en_US";s:12:"476-IMG_0685
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/477-img_0687.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/477-img_0687.jpg
     title: 477-IMG_0687
@@ -203,7 +203,7 @@ photos:
     title: 480-IMG_0691
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/481-img_0692.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/481-img_0692.jpg
-    title: a:1:{s:5:"en_US";s:12:"481-IMG_0692";}
+    title: a:1:{s:5:"en_US";s:12:"481-IMG_0692
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/482-img_0693.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/482-img_0693.jpg
     title: 482-IMG_0693
@@ -227,10 +227,10 @@ photos:
     title: 488-IMG_0699
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/489-img_0700.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/489-img_0700.jpg
-    title: a:1:{s:5:"en_US";s:12:"489-IMG_0700";}
+    title: a:1:{s:5:"en_US";s:12:"489-IMG_0700
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/490-img_0701.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/490-img_0701.jpg
-    title: a:1:{s:5:"en_US";s:12:"490-IMG_0701";}
+    title: a:1:{s:5:"en_US";s:12:"490-IMG_0701
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/491-img_0702.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/491-img_0702.jpg
     title: 491-IMG_0702
@@ -245,7 +245,7 @@ photos:
     title: 494-IMG_0705
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/495-img_0706.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/495-img_0706.jpg
-    title: a:1:{s:5:"en_US";s:12:"495-IMG_0706";}
+    title: a:1:{s:5:"en_US";s:12:"495-IMG_0706
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/496-img_0707.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/496-img_0707.jpg
     title: 496-IMG_0707
@@ -317,7 +317,7 @@ photos:
     title: 518-IMG_0736
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/519-img_0737.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/519-img_0737.jpg
-    title: a:1:{s:5:"en_US";s:12:"519-IMG_0737";}
+    title: a:1:{s:5:"en_US";s:12:"519-IMG_0737
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/520-img_0738.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/520-img_0738.jpg
     title: 520-IMG_0738
@@ -338,7 +338,7 @@ photos:
     title: 525-IMG_0743
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/526-img_0744.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/526-img_0744.jpg
-    title: a:1:{s:5:"en_US";s:12:"526-IMG_0744";}
+    title: a:1:{s:5:"en_US";s:12:"526-IMG_0744
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/527-img_0746.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/527-img_0746.jpg
     title: 527-IMG_0746
@@ -347,7 +347,7 @@ photos:
     title: 528-IMG_0748
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/529-img_0749.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/529-img_0749.jpg
-    title: a:1:{s:5:"en_US";s:12:"529-IMG_0749";}
+    title: a:1:{s:5:"en_US";s:12:"529-IMG_0749
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/530-img_0751.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/530-img_0751.jpg
     title: 530-IMG_0751
@@ -383,7 +383,7 @@ photos:
     title: 540-IMG_0763
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/541-img_0764.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/541-img_0764.jpg
-    title: a:1:{s:5:"en_US";s:12:"541-IMG_0764";}
+    title: a:1:{s:5:"en_US";s:12:"541-IMG_0764
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/542-img_0765.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/542-img_0765.jpg
     title: 542-IMG_0765
@@ -395,7 +395,7 @@ photos:
     title: 544-IMG_0767
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/545-img_0769.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/545-img_0769.jpg
-    title: a:1:{s:5:"en_US";s:12:"545-IMG_0769";}
+    title: a:1:{s:5:"en_US";s:12:"545-IMG_0769
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/546-img_0770.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/546-img_0770.jpg
     title: 546-IMG_0770
@@ -440,10 +440,10 @@ photos:
     title: 559-IMG_0787
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/560-img_0788.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/560-img_0788.jpg
-    title: a:1:{s:5:"en_US";s:12:"560-IMG_0788";}
+    title: a:1:{s:5:"en_US";s:12:"560-IMG_0788
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/561-img_0789.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/561-img_0789.jpg
-    title: a:1:{s:5:"en_US";s:12:"561-IMG_0789";}
+    title: a:1:{s:5:"en_US";s:12:"561-IMG_0789
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/562-img_0790.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/562-img_0790.jpg
     title: 562-IMG_0790
@@ -458,7 +458,7 @@ photos:
     title: 565-IMG_0793
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/566-img_0796.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/566-img_0796.jpg
-    title: a:1:{s:5:"en_US";s:12:"566-IMG_0796";}
+    title: a:1:{s:5:"en_US";s:12:"566-IMG_0796
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/567-img_0797.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/567-img_0797.jpg
     title: 567-IMG_0797
@@ -473,7 +473,7 @@ photos:
     title: 570-IMG_0800
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/571-img_0801.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/571-img_0801.jpg
-    title: a:1:{s:5:"en_US";s:12:"571-IMG_0801";}
+    title: a:1:{s:5:"en_US";s:12:"571-IMG_0801
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/572-img_0802.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/572-img_0802.jpg
     title: 572-IMG_0802
@@ -500,10 +500,10 @@ photos:
     title: 579-IMG_0811
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/580-img_0812.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/580-img_0812.jpg
-    title: a:1:{s:5:"en_US";s:12:"580-IMG_0812";}
+    title: a:1:{s:5:"en_US";s:12:"580-IMG_0812
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/581-img_0813.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/581-img_0813.jpg
-    title: a:1:{s:5:"en_US";s:12:"581-IMG_0813";}
+    title: a:1:{s:5:"en_US";s:12:"581-IMG_0813
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/582-img_0815.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/582-img_0815.jpg
     title: 582-IMG_0815
@@ -527,7 +527,7 @@ photos:
     title: 588-IMG_0824
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/589-img_0826.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/589-img_0826.jpg
-    title: a:1:{s:5:"en_US";s:12:"589-IMG_0826";}
+    title: a:1:{s:5:"en_US";s:12:"589-IMG_0826
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/590-img_0827.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/590-img_0827.jpg
     title: 590-IMG_0827
@@ -554,7 +554,7 @@ photos:
     title: 597-IMG_0837
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/598-img_0839.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/598-img_0839.jpg
-    title: a:1:{s:5:"en_US";s:12:"598-IMG_0839";}
+    title: a:1:{s:5:"en_US";s:12:"598-IMG_0839
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/599-img_0840.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/599-img_0840.jpg
     title: 599-IMG_0840
@@ -575,7 +575,7 @@ photos:
     title: 604-IMG_0846
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/605-img_0847.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/605-img_0847.jpg
-    title: a:1:{s:5:"en_US";s:12:"605-IMG_0847";}
+    title: a:1:{s:5:"en_US";s:12:"605-IMG_0847
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/606-img_0848.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/606-img_0848.jpg
     title: 606-IMG_0848
@@ -596,7 +596,7 @@ photos:
     title: 611-IMG_0854
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/612-img_0855.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/612-img_0855.jpg
-    title: a:1:{s:5:"en_US";s:12:"612-IMG_0855";}
+    title: a:1:{s:5:"en_US";s:12:"612-IMG_0855
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/613-img_0858.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/613-img_0858.jpg
     title: 613-IMG_0858
@@ -626,7 +626,7 @@ photos:
     title: 621-IMG_0868
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/622-img_0869.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/622-img_0869.jpg
-    title: a:1:{s:5:"en_US";s:12:"622-IMG_0869";}
+    title: a:1:{s:5:"en_US";s:12:"622-IMG_0869
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/623-img_0872.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/623-img_0872.jpg
     title: 623-IMG_0872
@@ -635,7 +635,7 @@ photos:
     title: 624-IMG_0873
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/625-img_0876.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/625-img_0876.jpg
-    title: a:1:{s:5:"en_US";s:12:"625-IMG_0876";}
+    title: a:1:{s:5:"en_US";s:12:"625-IMG_0876
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/626-img_0877.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/626-img_0877.jpg
     title: 626-IMG_0877
@@ -677,7 +677,7 @@ photos:
     title: 638-IMG_0894
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/639-img_0895.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/639-img_0895.jpg
-    title: a:1:{s:5:"en_US";s:12:"639-IMG_0895";}
+    title: a:1:{s:5:"en_US";s:12:"639-IMG_0895
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/640-img_0896.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/640-img_0896.jpg
     title: 640-IMG_0896
@@ -695,7 +695,7 @@ photos:
     title: 644-IMG_0902
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/645-img_0903.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/645-img_0903.jpg
-    title: a:1:{s:5:"en_US";s:12:"645-IMG_0903";}
+    title: a:1:{s:5:"en_US";s:12:"645-IMG_0903
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/646-img_0904.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/646-img_0904.jpg
     title: 646-IMG_0904
@@ -722,7 +722,7 @@ photos:
     title: 653-IMG_0912
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/654-img_0913.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/654-img_0913.jpg
-    title: a:1:{s:5:"en_US";s:12:"654-IMG_0913";}
+    title: a:1:{s:5:"en_US";s:12:"654-IMG_0913
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/655-img_0914.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/655-img_0914.jpg
     title: 655-IMG_0914
@@ -731,7 +731,7 @@ photos:
     title: 656-IMG_0915
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/657-img_0917.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/657-img_0917.jpg
-    title: a:1:{s:5:"en_US";s:12:"657-IMG_0917";}
+    title: a:1:{s:5:"en_US";s:12:"657-IMG_0917
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/658-img_0919.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/658-img_0919.jpg
     title: 658-IMG_0919
@@ -758,10 +758,10 @@ photos:
     title: 665-IMG_0931
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/666-img_0933.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/666-img_0933.jpg
-    title: a:1:{s:5:"en_US";s:12:"666-IMG_0933";}
+    title: a:1:{s:5:"en_US";s:12:"666-IMG_0933
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/667-img_0934.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/667-img_0934.jpg
-    title: a:1:{s:5:"en_US";s:12:"667-IMG_0934";}
+    title: a:1:{s:5:"en_US";s:12:"667-IMG_0934
   - original: /2015/09/at-competition-site-in-kaniow-poland/20-09-2015/668-img_0935.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/20-09-2015/668-img_0935.jpg
     title: 668-IMG_0935

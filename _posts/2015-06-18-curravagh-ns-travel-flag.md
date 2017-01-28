@@ -26,7 +26,7 @@ photos:
     title: 007-IMG_0532
   - original: /2015/06/curravagh-ns-travel-flag/008-img_0534.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/008-img_0534.jpg
-    title: a:1:{s:5:"en_US";s:12:"008-IMG_0534";}
+    title: a:1:{s:5:"en_US";s:12:"008-IMG_0534
   - original: /2015/06/curravagh-ns-travel-flag/009-img_0535.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/009-img_0535.jpg
     title: 009-IMG_0535
@@ -35,7 +35,7 @@ photos:
     title: 010-IMG_0536
   - original: /2015/06/curravagh-ns-travel-flag/011-img_0537.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/011-img_0537.jpg
-    title: a:1:{s:5:"en_US";s:12:"011-IMG_0537";}
+    title: a:1:{s:5:"en_US";s:12:"011-IMG_0537
   - original: /2015/06/curravagh-ns-travel-flag/012-img_0538.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/012-img_0538.jpg
     title: 012-IMG_0538
@@ -56,7 +56,7 @@ photos:
     title: 017-IMG_0545
   - original: /2015/06/curravagh-ns-travel-flag/018-img_0546.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/018-img_0546.jpg
-    title: a:1:{s:5:"en_US";s:12:"018-IMG_0546";}
+    title: a:1:{s:5:"en_US";s:12:"018-IMG_0546
   - original: /2015/06/curravagh-ns-travel-flag/019-img_0547.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/019-img_0547.jpg
     title: 019-IMG_0547
@@ -77,13 +77,13 @@ photos:
     title: 024-IMG_0558
   - original: /2015/06/curravagh-ns-travel-flag/025-img_0559.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/025-img_0559.jpg
-    title: a:1:{s:5:"en_US";s:12:"025-IMG_0559";}
+    title: a:1:{s:5:"en_US";s:12:"025-IMG_0559
   - original: /2015/06/curravagh-ns-travel-flag/026-img_0560.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/026-img_0560.jpg
     title: 026-IMG_0560
   - original: /2015/06/curravagh-ns-travel-flag/027-img_0561.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/027-img_0561.jpg
-    title: a:1:{s:5:"en_US";s:12:"027-IMG_0561";}
+    title: a:1:{s:5:"en_US";s:12:"027-IMG_0561
   - original: /2015/06/curravagh-ns-travel-flag/028-img_0563.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/028-img_0563.jpg
     title: 028-IMG_0563
@@ -98,7 +98,7 @@ photos:
     title: 031-IMG_0566
   - original: /2015/06/curravagh-ns-travel-flag/032-img_0567.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/032-img_0567.jpg
-    title: a:1:{s:5:"en_US";s:12:"032-IMG_0567";}
+    title: a:1:{s:5:"en_US";s:12:"032-IMG_0567
   - original: /2015/06/curravagh-ns-travel-flag/033-img_0568.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/033-img_0568.jpg
     title: 033-IMG_0568
@@ -110,13 +110,13 @@ photos:
     title: 035-IMG_0570
   - original: /2015/06/curravagh-ns-travel-flag/036-img_0573.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/036-img_0573.jpg
-    title: a:1:{s:5:"en_US";s:12:"036-IMG_0573";}
+    title: a:1:{s:5:"en_US";s:12:"036-IMG_0573
   - original: /2015/06/curravagh-ns-travel-flag/037-img_0574.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/037-img_0574.jpg
-    title: a:1:{s:5:"en_US";s:12:"037-IMG_0574";}
+    title: a:1:{s:5:"en_US";s:12:"037-IMG_0574
   - original: /2015/06/curravagh-ns-travel-flag/038-img_0576_1434643000.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/038-img_0576_1434643000.jpg
-    title: a:1:{s:5:"en_US";s:12:"038-IMG_0576";}
+    title: a:1:{s:5:"en_US";s:12:"038-IMG_0576
   - original: /2015/06/curravagh-ns-travel-flag/038-img_0576.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/038-img_0576.jpg
     title: 038-IMG_0576
@@ -125,25 +125,25 @@ photos:
     title: 039-IMG_0577
   - original: /2015/06/curravagh-ns-travel-flag/040-img_0578.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/040-img_0578.jpg
-    title: a:1:{s:5:"en_US";s:12:"040-IMG_0578";}
+    title: a:1:{s:5:"en_US";s:12:"040-IMG_0578
   - original: /2015/06/curravagh-ns-travel-flag/041-img_0579.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/041-img_0579.jpg
     title: 041-IMG_0579
   - original: /2015/06/curravagh-ns-travel-flag/042-img_0580.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/042-img_0580.jpg
-    title: a:1:{s:5:"en_US";s:12:"042-IMG_0580";}
+    title: a:1:{s:5:"en_US";s:12:"042-IMG_0580
   - original: /2015/06/curravagh-ns-travel-flag/043-img_0581.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/043-img_0581.jpg
-    title: a:1:{s:5:"en_US";s:12:"043-IMG_0581";}
+    title: a:1:{s:5:"en_US";s:12:"043-IMG_0581
   - original: /2015/06/curravagh-ns-travel-flag/044-img_0582.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/044-img_0582.jpg
-    title: a:1:{s:5:"en_US";s:12:"044-IMG_0582";}
+    title: a:1:{s:5:"en_US";s:12:"044-IMG_0582
   - original: /2015/06/curravagh-ns-travel-flag/045-img_0583.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/045-img_0583.jpg
     title: 045-IMG_0583
   - original: /2015/06/curravagh-ns-travel-flag/046-img_0584.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/046-img_0584.jpg
-    title: a:1:{s:5:"en_US";s:12:"046-IMG_0584";}
+    title: a:1:{s:5:"en_US";s:12:"046-IMG_0584
   - original: /2015/06/curravagh-ns-travel-flag/047-img_0586.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/047-img_0586.jpg
     title: 047-IMG_0586
@@ -167,10 +167,10 @@ photos:
     title: 053-IMG_0595
   - original: /2015/06/curravagh-ns-travel-flag/054-img_0597.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/054-img_0597.jpg
-    title: a:1:{s:5:"en_US";s:12:"054-IMG_0597";}
+    title: a:1:{s:5:"en_US";s:12:"054-IMG_0597
   - original: /2015/06/curravagh-ns-travel-flag/055-img_0598.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/055-img_0598.jpg
-    title: a:1:{s:5:"en_US";s:12:"055-IMG_0598";}
+    title: a:1:{s:5:"en_US";s:12:"055-IMG_0598
   - original: /2015/06/curravagh-ns-travel-flag/056-img_0599.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/056-img_0599.jpg
     title: 056-IMG_0599
@@ -194,7 +194,7 @@ photos:
     title: 062-IMG_0623
   - original: /2015/06/curravagh-ns-travel-flag/063-img_0624.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/063-img_0624.jpg
-    title: a:1:{s:5:"en_US";s:12:"063-IMG_0624";}
+    title: a:1:{s:5:"en_US";s:12:"063-IMG_0624
   - original: /2015/06/curravagh-ns-travel-flag/064-img_0625.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/064-img_0625.jpg
     title: 064-IMG_0625
@@ -230,13 +230,13 @@ photos:
     title: 074-IMG_0604
   - original: /2015/06/curravagh-ns-travel-flag/075-img_0605.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/075-img_0605.jpg
-    title: a:1:{s:5:"en_US";s:12:"075-IMG_0605";}
+    title: a:1:{s:5:"en_US";s:12:"075-IMG_0605
   - original: /2015/06/curravagh-ns-travel-flag/076-img_0606.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/076-img_0606.jpg
     title: 076-IMG_0606
   - original: /2015/06/curravagh-ns-travel-flag/077-img_0607.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/077-img_0607.jpg
-    title: a:1:{s:5:"en_US";s:12:"077-IMG_0607";}
+    title: a:1:{s:5:"en_US";s:12:"077-IMG_0607
   - original: /2015/06/curravagh-ns-travel-flag/078-img_0608.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/078-img_0608.jpg
     title: 078-IMG_0608
@@ -263,7 +263,7 @@ photos:
     title: 085-IMG_0616
   - original: /2015/06/curravagh-ns-travel-flag/086-img_0618.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/086-img_0618.jpg
-    title: a:1:{s:5:"en_US";s:12:"086-IMG_0618";}
+    title: a:1:{s:5:"en_US";s:12:"086-IMG_0618
   - original: /2015/06/curravagh-ns-travel-flag/087-img_0619.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/087-img_0619.jpg
     title: 087-IMG_0619
@@ -281,7 +281,7 @@ photos:
     title: 091-IMG_0637
   - original: /2015/06/curravagh-ns-travel-flag/092-img_0638.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/092-img_0638.jpg
-    title: a:1:{s:5:"en_US";s:12:"092-IMG_0638";}
+    title: a:1:{s:5:"en_US";s:12:"092-IMG_0638
   - original: /2015/06/curravagh-ns-travel-flag/093-img_0639.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/093-img_0639.jpg
     title: 093-IMG_0639
@@ -296,7 +296,7 @@ photos:
     title: 096-IMG_0642
   - original: /2015/06/curravagh-ns-travel-flag/097-img_0644.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/097-img_0644.jpg
-    title: a:1:{s:5:"en_US";s:12:"097-IMG_0644";}
+    title: a:1:{s:5:"en_US";s:12:"097-IMG_0644
   - original: /2015/06/curravagh-ns-travel-flag/098-img_0649.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/098-img_0649.jpg
     title: 098-IMG_0649
@@ -308,7 +308,7 @@ photos:
     title: 100-IMG_0652
   - original: /2015/06/curravagh-ns-travel-flag/101-img_0653.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/101-img_0653.jpg
-    title: a:1:{s:5:"en_US";s:12:"101-IMG_0653";}
+    title: a:1:{s:5:"en_US";s:12:"101-IMG_0653
   - original: /2015/06/curravagh-ns-travel-flag/102-img_0655.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/102-img_0655.jpg
     title: 102-IMG_0655
@@ -320,7 +320,7 @@ photos:
     title: 104-IMG_0659
   - original: /2015/06/curravagh-ns-travel-flag/105-img_0660.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/105-img_0660.jpg
-    title: a:1:{s:5:"en_US";s:12:"105-IMG_0660";}
+    title: a:1:{s:5:"en_US";s:12:"105-IMG_0660
   - original: /2015/06/curravagh-ns-travel-flag/106-img_0662.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/106-img_0662.jpg
     title: 106-IMG_0662
@@ -332,7 +332,7 @@ photos:
     title: 108-IMG_0666
   - original: /2015/06/curravagh-ns-travel-flag/109-img_0667.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/109-img_0667.jpg
-    title: a:1:{s:5:"en_US";s:12:"109-IMG_0667";}
+    title: a:1:{s:5:"en_US";s:12:"109-IMG_0667
   - original: /2015/06/curravagh-ns-travel-flag/110-img_0668.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/110-img_0668.jpg
     title: 110-IMG_0668
@@ -377,10 +377,10 @@ photos:
     title: 123-IMG_0684
   - original: /2015/06/curravagh-ns-travel-flag/124-img_0685.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/124-img_0685.jpg
-    title: a:1:{s:5:"en_US";s:12:"124-IMG_0685";}
+    title: a:1:{s:5:"en_US";s:12:"124-IMG_0685
   - original: /2015/06/curravagh-ns-travel-flag/125-img_0686.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/125-img_0686.jpg
-    title: a:1:{s:5:"en_US";s:12:"125-IMG_0686";}
+    title: a:1:{s:5:"en_US";s:12:"125-IMG_0686
   - original: /2015/06/curravagh-ns-travel-flag/126-img_0687.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/126-img_0687.jpg
     title: 126-IMG_0687
@@ -395,13 +395,13 @@ photos:
     title: 129-IMG_0691
   - original: /2015/06/curravagh-ns-travel-flag/130-img_0693.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/130-img_0693.jpg
-    title: a:1:{s:5:"en_US";s:12:"130-IMG_0693";}
+    title: a:1:{s:5:"en_US";s:12:"130-IMG_0693
   - original: /2015/06/curravagh-ns-travel-flag/131-img_0694.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/131-img_0694.jpg
-    title: a:1:{s:5:"en_US";s:12:"131-IMG_0694";}
+    title: a:1:{s:5:"en_US";s:12:"131-IMG_0694
   - original: /2015/06/curravagh-ns-travel-flag/132-img_0695.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/132-img_0695.jpg
-    title: a:1:{s:5:"en_US";s:12:"132-IMG_0695";}
+    title: a:1:{s:5:"en_US";s:12:"132-IMG_0695
   - original: /2015/06/curravagh-ns-travel-flag/133-img_0696.jpg
     thumbnail: /t/2015/06/curravagh-ns-travel-flag/133-img_0696.jpg
     title: 133-IMG_0696

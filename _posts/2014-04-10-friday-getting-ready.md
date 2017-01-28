@@ -5,7 +5,7 @@ thumbnail: /t/2014/04/friday-getting-ready/001-img_0025.jpg
 photos:
   - original: /2014/04/friday-getting-ready/001-img_0025.jpg
     thumbnail: /t/2014/04/friday-getting-ready/001-img_0025.jpg
-    title: a:1:{s:5:"en_US";s:12:"001-IMG_0025";}
+    title: a:1:{s:5:"en_US";s:12:"001-IMG_0025
   - original: /2014/04/friday-getting-ready/002-img_0013.jpg
     thumbnail: /t/2014/04/friday-getting-ready/002-img_0013.jpg
     title: 002-IMG_0013
@@ -95,7 +95,7 @@ photos:
     title: 030-IMG_0044
   - original: /2014/04/friday-getting-ready/031-img_0045.jpg
     thumbnail: /t/2014/04/friday-getting-ready/031-img_0045.jpg
-    title: a:1:{s:5:"en_US";s:12:"031-IMG_0045";}
+    title: a:1:{s:5:"en_US";s:12:"031-IMG_0045
   - original: /2014/04/friday-getting-ready/032-img_0046.jpg
     thumbnail: /t/2014/04/friday-getting-ready/032-img_0046.jpg
     title: 032-IMG_0046
@@ -113,7 +113,7 @@ photos:
     title: 036-IMG_0050
   - original: /2014/04/friday-getting-ready/037-img_0052.jpg
     thumbnail: /t/2014/04/friday-getting-ready/037-img_0052.jpg
-    title: a:1:{s:5:"en_US";s:12:"037-IMG_0052";}
+    title: a:1:{s:5:"en_US";s:12:"037-IMG_0052
   - original: /2014/04/friday-getting-ready/038-img_0053.jpg
     thumbnail: /t/2014/04/friday-getting-ready/038-img_0053.jpg
     title: 038-IMG_0053
@@ -251,7 +251,7 @@ photos:
     title: 082-IMG_0102
   - original: /2014/04/friday-getting-ready/083-img_0103.jpg
     thumbnail: /t/2014/04/friday-getting-ready/083-img_0103.jpg
-    title: a:1:{s:5:"en_US";s:12:"083-IMG_0103";}
+    title: a:1:{s:5:"en_US";s:12:"083-IMG_0103
   - original: /2014/04/friday-getting-ready/084-img_0104.jpg
     thumbnail: /t/2014/04/friday-getting-ready/084-img_0104.jpg
     title: 084-IMG_0104
@@ -272,7 +272,7 @@ photos:
     title: 089-IMG_0109
   - original: /2014/04/friday-getting-ready/090-img_0111.jpg
     thumbnail: /t/2014/04/friday-getting-ready/090-img_0111.jpg
-    title: a:1:{s:5:"en_US";s:12:"090-IMG_0111";}
+    title: a:1:{s:5:"en_US";s:12:"090-IMG_0111
   - original: /2014/04/friday-getting-ready/091-img_0112.jpg
     thumbnail: /t/2014/04/friday-getting-ready/091-img_0112.jpg
     title: 091-IMG_0112
@@ -359,7 +359,7 @@ photos:
     title: 118-IMG_0141
   - original: /2014/04/friday-getting-ready/119-img_0142.jpg
     thumbnail: /t/2014/04/friday-getting-ready/119-img_0142.jpg
-    title: a:1:{s:5:"en_US";s:12:"119-IMG_0142";}
+    title: a:1:{s:5:"en_US";s:12:"119-IMG_0142
   - original: /2014/04/friday-getting-ready/120-img_0143.jpg
     thumbnail: /t/2014/04/friday-getting-ready/120-img_0143.jpg
     title: 120-IMG_0143
@@ -410,7 +410,7 @@ photos:
     title: 135-IMG_0159
   - original: /2014/04/friday-getting-ready/136-img_0160.jpg
     thumbnail: /t/2014/04/friday-getting-ready/136-img_0160.jpg
-    title: a:1:{s:5:"en_US";s:12:"136-IMG_0160";}
+    title: a:1:{s:5:"en_US";s:12:"136-IMG_0160
   - original: /2014/04/friday-getting-ready/137-img_0161.jpg
     thumbnail: /t/2014/04/friday-getting-ready/137-img_0161.jpg
     title: 137-IMG_0161
@@ -473,14 +473,14 @@ photos:
     title: 156-IMG_0183
   - original: /2014/04/friday-getting-ready/157-img_0184.jpg
     thumbnail: /t/2014/04/friday-getting-ready/157-img_0184.jpg
-    title: a:1:{s:5:"en_US";s:12:"157-IMG_0184";}
+    title: a:1:{s:5:"en_US";s:12:"157-IMG_0184
   - original: /2014/04/friday-getting-ready/158-img_0185.jpg
     thumbnail: /t/2014/04/friday-getting-ready/158-img_0185.jpg
     title: 158-IMG_0185
   - original: /2014/04/friday-getting-ready/159-img_0186.jpg
     thumbnail: /t/2014/04/friday-getting-ready/159-img_0186.jpg
-    title: a:1:{s:5:"en_US";s:12:"159-IMG_0186";}
+    title: a:1:{s:5:"en_US";s:12:"159-IMG_0186
   - original: /2014/04/friday-getting-ready/160-img_0187.jpg
     thumbnail: /t/2014/04/friday-getting-ready/160-img_0187.jpg
-    title: a:1:{s:5:"en_US";s:12:"160-IMG_0187";}
+    title: a:1:{s:5:"en_US";s:12:"160-IMG_0187
 ---

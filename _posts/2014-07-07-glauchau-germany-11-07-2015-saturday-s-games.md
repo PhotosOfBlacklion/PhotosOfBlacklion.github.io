@@ -1721,35 +1721,35 @@ photos:
     title: 510-IMG_0625
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/511-img_0626.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/511-img_0626.jpg
-    title: a:1:{s:5:"en_US";s:12:"511-IMG_0626";}
+    title: a:1:{s:5:"en_US";s:12:"511-IMG_0626
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/512-img_0627.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/512-img_0627.jpg
     title: 512-IMG_0627
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/513-img_0628.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/513-img_0628.jpg
-    title: a:1:{s:5:"en_US";s:12:"513-IMG_0628";}
+    title: a:1:{s:5:"en_US";s:12:"513-IMG_0628
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/514-img_0629.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/514-img_0629.jpg
-    title: a:1:{s:5:"en_US";s:12:"514-IMG_0629";}
+    title: a:1:{s:5:"en_US";s:12:"514-IMG_0629
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/515-img_0630.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/515-img_0630.jpg
-    title: a:1:{s:5:"en_US";s:12:"515-IMG_0630";}
+    title: a:1:{s:5:"en_US";s:12:"515-IMG_0630
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/516-img_0631.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/516-img_0631.jpg
-    title: a:1:{s:5:"en_US";s:12:"516-IMG_0631";}
+    title: a:1:{s:5:"en_US";s:12:"516-IMG_0631
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/517-img_0632.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/517-img_0632.jpg
-    title: a:1:{s:5:"en_US";s:12:"517-IMG_0632";}
+    title: a:1:{s:5:"en_US";s:12:"517-IMG_0632
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/518-img_0633.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/518-img_0633.jpg
-    title: a:1:{s:5:"en_US";s:12:"518-IMG_0633";}
+    title: a:1:{s:5:"en_US";s:12:"518-IMG_0633
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/519-img_0634.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/519-img_0634.jpg
-    title: a:1:{s:5:"en_US";s:12:"519-IMG_0634";}
+    title: a:1:{s:5:"en_US";s:12:"519-IMG_0634
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/520-img_0635.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/520-img_0635.jpg
-    title: a:1:{s:5:"en_US";s:12:"520-IMG_0635";}
+    title: a:1:{s:5:"en_US";s:12:"520-IMG_0635
   - original: /2014/07/glauchau-germany/11-07-2015-saturday-s-games/521-img_0636.jpg
     thumbnail: /t/2014/07/glauchau-germany/11-07-2015-saturday-s-games/521-img_0636.jpg
-    title: a:1:{s:5:"en_US";s:12:"521-IMG_0636";}
+    title: a:1:{s:5:"en_US";s:12:"521-IMG_0636
 ---

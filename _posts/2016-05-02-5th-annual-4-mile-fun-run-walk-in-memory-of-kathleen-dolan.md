@@ -647,7 +647,7 @@ photos:
     title: 214-IMG_0308
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/215-img_0310.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/215-img_0310.jpg
-    title: a:1:{s:5:"en_US";s:12:"215-IMG_0310";}
+    title: a:1:{s:5:"en_US";s:12:"215-IMG_0310
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/216-img_0312.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/216-img_0312.jpg
     title: 216-IMG_0312
@@ -662,32 +662,32 @@ photos:
     title: 219-IMG_0315
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/220-img_0318.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/220-img_0318.jpg
-    title: a:1:{s:5:"en_US";s:12:"220-IMG_0318";}
+    title: a:1:{s:5:"en_US";s:12:"220-IMG_0318
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/221-img_0321.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/221-img_0321.jpg
     title: 221-IMG_0321
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/222-img_0323.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/222-img_0323.jpg
-    title: a:1:{s:5:"en_US";s:12:"222-IMG_0323";}
+    title: a:1:{s:5:"en_US";s:12:"222-IMG_0323
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/223-img_0327.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/223-img_0327.jpg
-    title: a:1:{s:5:"en_US";s:12:"223-IMG_0327";}
+    title: a:1:{s:5:"en_US";s:12:"223-IMG_0327
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/224-img_0328.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/224-img_0328.jpg
-    title: a:1:{s:5:"en_US";s:12:"224-IMG_0328";}
+    title: a:1:{s:5:"en_US";s:12:"224-IMG_0328
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/225-img_0329.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/225-img_0329.jpg
-    title: a:1:{s:5:"en_US";s:12:"225-IMG_0329";}
+    title: a:1:{s:5:"en_US";s:12:"225-IMG_0329
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/226-img_0331.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/226-img_0331.jpg
-    title: a:1:{s:5:"en_US";s:12:"226-IMG_0331";}
+    title: a:1:{s:5:"en_US";s:12:"226-IMG_0331
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/227-img_0333.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/227-img_0333.jpg
-    title: a:1:{s:5:"en_US";s:12:"227-IMG_0333";}
+    title: a:1:{s:5:"en_US";s:12:"227-IMG_0333
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/228-img_0339.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/228-img_0339.jpg
-    title: a:1:{s:5:"en_US";s:12:"228-IMG_0339";}
+    title: a:1:{s:5:"en_US";s:12:"228-IMG_0339
   - original: /2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/229-img_0334.jpg
     thumbnail: /t/2016/05/5th-annual-4-mile-fun-run-walk-in-memory-of-kathleen-dolan/229-img_0334.jpg
-    title: a:1:{s:5:"en_US";s:12:"229-IMG_0334";}
+    title: a:1:{s:5:"en_US";s:12:"229-IMG_0334
 ---

@@ -23,7 +23,7 @@ photos:
     title: 550-IMG_0636
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/551-img_0637.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/551-img_0637.jpg
-    title: a:1:{s:5:"en_US";s:12:"551-IMG_0637";}
+    title: a:1:{s:5:"en_US";s:12:"551-IMG_0637
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/552-img_0638.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/552-img_0638.jpg
     title: 552-IMG_0638
@@ -86,7 +86,7 @@ photos:
     title: 571-IMG_0664
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/572-img_0665.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/572-img_0665.jpg
-    title: a:1:{s:5:"en_US";s:12:"572-IMG_0665";}
+    title: a:1:{s:5:"en_US";s:12:"572-IMG_0665
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/573-img_0666.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/573-img_0666.jpg
     title: 573-IMG_0666
@@ -101,7 +101,7 @@ photos:
     title: 576-IMG_0669
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/577-img_0670.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/577-img_0670.jpg
-    title: a:1:{s:5:"en_US";s:12:"577-IMG_0670";}
+    title: a:1:{s:5:"en_US";s:12:"577-IMG_0670
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/578-img_0672.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/578-img_0672.jpg
     title: 578-IMG_0672
@@ -149,7 +149,7 @@ photos:
     title: 592-IMG_0689
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/593-img_0690.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/593-img_0690.jpg
-    title: a:1:{s:5:"en_US";s:12:"593-IMG_0690";}
+    title: a:1:{s:5:"en_US";s:12:"593-IMG_0690
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/594-img_0691.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/594-img_0691.jpg
     title: 594-IMG_0691
@@ -158,7 +158,7 @@ photos:
     title: 595-IMG_0692
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/596-img_0693.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/596-img_0693.jpg
-    title: a:1:{s:5:"en_US";s:12:"596-IMG_0693";}
+    title: a:1:{s:5:"en_US";s:12:"596-IMG_0693
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/597-img_0695.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/597-img_0695.jpg
     title: 597-IMG_0695
@@ -173,7 +173,7 @@ photos:
     title: 600-IMG_0698
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/601-img_0699.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/601-img_0699.jpg
-    title: a:1:{s:5:"en_US";s:12:"601-IMG_0699";}
+    title: a:1:{s:5:"en_US";s:12:"601-IMG_0699
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/602-img_0700.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/602-img_0700.jpg
     title: 602-IMG_0700
@@ -182,14 +182,14 @@ photos:
     title: 603-IMG_0701
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/604-img_0702.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/604-img_0702.jpg
-    title: a:1:{s:5:"en_US";s:12:"604-IMG_0702";}
+    title: a:1:{s:5:"en_US";s:12:"604-IMG_0702
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/605-img_0703.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/605-img_0703.jpg
-    title: a:1:{s:5:"en_US";s:12:"605-IMG_0703";}
+    title: a:1:{s:5:"en_US";s:12:"605-IMG_0703
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/606-img_0704.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/606-img_0704.jpg
-    title: a:1:{s:5:"en_US";s:12:"606-IMG_0704";}
+    title: a:1:{s:5:"en_US";s:12:"606-IMG_0704
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/607-img_0705.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/senior-men-south-africa-v-ireland/607-img_0705.jpg
-    title: a:1:{s:5:"en_US";s:12:"607-IMG_0705";}
+    title: a:1:{s:5:"en_US";s:12:"607-IMG_0705
 ---

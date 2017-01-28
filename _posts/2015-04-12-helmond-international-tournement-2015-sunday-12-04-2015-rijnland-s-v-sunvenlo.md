@@ -71,7 +71,7 @@ photos:
     title: 220-IMG_0619
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/221-img_0621.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/221-img_0621.jpg
-    title: a:1:{s:5:"en_US";s:12:"221-IMG_0621";}
+    title: a:1:{s:5:"en_US";s:12:"221-IMG_0621
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/222-img_0622.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/222-img_0622.jpg
     title: 222-IMG_0622
@@ -95,7 +95,7 @@ photos:
     title: 228-IMG_0631
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/229-img_0635.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/229-img_0635.jpg
-    title: a:1:{s:5:"en_US";s:12:"229-IMG_0635";}
+    title: a:1:{s:5:"en_US";s:12:"229-IMG_0635
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/230-img_0636.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/230-img_0636.jpg
     title: 230-IMG_0636
@@ -125,7 +125,7 @@ photos:
     title: 238-IMG_0649
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/239-img_0650.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/239-img_0650.jpg
-    title: a:1:{s:5:"en_US";s:12:"239-IMG_0650";}
+    title: a:1:{s:5:"en_US";s:12:"239-IMG_0650
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/240-img_0651.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/240-img_0651.jpg
     title: 240-IMG_0651
@@ -140,26 +140,26 @@ photos:
     title: 243-IMG_0654
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/244-img_0655.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/244-img_0655.jpg
-    title: a:1:{s:5:"en_US";s:12:"244-IMG_0655";}
+    title: a:1:{s:5:"en_US";s:12:"244-IMG_0655
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/245-img_0658.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/245-img_0658.jpg
     title: 245-IMG_0658
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/246-img_0660.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/246-img_0660.jpg
-    title: a:1:{s:5:"en_US";s:12:"246-IMG_0660";}
+    title: a:1:{s:5:"en_US";s:12:"246-IMG_0660
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/247-img_0662.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/247-img_0662.jpg
-    title: a:1:{s:5:"en_US";s:12:"247-IMG_0662";}
+    title: a:1:{s:5:"en_US";s:12:"247-IMG_0662
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/248-img_0664.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/248-img_0664.jpg
-    title: a:1:{s:5:"en_US";s:12:"248-IMG_0664";}
+    title: a:1:{s:5:"en_US";s:12:"248-IMG_0664
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/249-img_0665.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/249-img_0665.jpg
-    title: a:1:{s:5:"en_US";s:12:"249-IMG_0665";}
+    title: a:1:{s:5:"en_US";s:12:"249-IMG_0665
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/250-img_0669.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/250-img_0669.jpg
-    title: a:1:{s:5:"en_US";s:12:"250-IMG_0669";}
+    title: a:1:{s:5:"en_US";s:12:"250-IMG_0669
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/251-img_0671.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/251-img_0671.jpg
-    title: a:1:{s:5:"en_US";s:12:"251-IMG_0671";}
+    title: a:1:{s:5:"en_US";s:12:"251-IMG_0671
 ---

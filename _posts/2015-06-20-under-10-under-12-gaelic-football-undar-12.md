@@ -53,7 +53,7 @@ photos:
     title: 184-IMG_0238
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/185-img_0239.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/185-img_0239.jpg
-    title: a:1:{s:5:"en_US";s:12:"185-IMG_0239";}
+    title: a:1:{s:5:"en_US";s:12:"185-IMG_0239
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/186-img_0240.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/186-img_0240.jpg
     title: 186-IMG_0240
@@ -92,7 +92,7 @@ photos:
     title: 197-IMG_0252
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/198-img_0253.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/198-img_0253.jpg
-    title: a:1:{s:5:"en_US";s:12:"198-IMG_0253";}
+    title: a:1:{s:5:"en_US";s:12:"198-IMG_0253
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/199-img_0254.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/199-img_0254.jpg
     title: 199-IMG_0254
@@ -152,7 +152,7 @@ photos:
     title: 217-IMG_0274
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/218-img_0275.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/218-img_0275.jpg
-    title: a:1:{s:5:"en_US";s:12:"218-IMG_0275";}
+    title: a:1:{s:5:"en_US";s:12:"218-IMG_0275
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/219-img_0276.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/219-img_0276.jpg
     title: 219-IMG_0276
@@ -203,7 +203,7 @@ photos:
     title: 234-IMG_0294
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/235-img_0295.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/235-img_0295.jpg
-    title: a:1:{s:5:"en_US";s:12:"235-IMG_0295";}
+    title: a:1:{s:5:"en_US";s:12:"235-IMG_0295
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/236-img_0296.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/236-img_0296.jpg
     title: 236-IMG_0296
@@ -218,7 +218,7 @@ photos:
     title: 239-IMG_0299
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/240-img_0300.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/240-img_0300.jpg
-    title: a:1:{s:5:"en_US";s:12:"240-IMG_0300";}
+    title: a:1:{s:5:"en_US";s:12:"240-IMG_0300
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/241-img_0301.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/241-img_0301.jpg
     title: 241-IMG_0301
@@ -275,7 +275,7 @@ photos:
     title: 258-IMG_0325
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/259-img_0326.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/259-img_0326.jpg
-    title: a:1:{s:5:"en_US";s:12:"259-IMG_0326";}
+    title: a:1:{s:5:"en_US";s:12:"259-IMG_0326
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/260-img_0327.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/260-img_0327.jpg
     title: 260-IMG_0327
@@ -287,7 +287,7 @@ photos:
     title: 262-IMG_0330
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/263-img_0332.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/263-img_0332.jpg
-    title: a:1:{s:5:"en_US";s:12:"263-IMG_0332";}
+    title: a:1:{s:5:"en_US";s:12:"263-IMG_0332
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/264-img_0333.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/264-img_0333.jpg
     title: 264-IMG_0333
@@ -299,10 +299,10 @@ photos:
     title: 266-IMG_0335
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/267-img_0336.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/267-img_0336.jpg
-    title: a:1:{s:5:"en_US";s:12:"267-IMG_0336";}
+    title: a:1:{s:5:"en_US";s:12:"267-IMG_0336
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/268-img_0337.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/268-img_0337.jpg
-    title: a:1:{s:5:"en_US";s:12:"268-IMG_0337";}
+    title: a:1:{s:5:"en_US";s:12:"268-IMG_0337
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/269-img_0338.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/269-img_0338.jpg
     title: 269-IMG_0338
@@ -341,7 +341,7 @@ photos:
     title: 280-IMG_0352
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/281-img_0353.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/281-img_0353.jpg
-    title: a:1:{s:5:"en_US";s:12:"281-IMG_0353";}
+    title: a:1:{s:5:"en_US";s:12:"281-IMG_0353
   - original: /2015/06/under-10-under-12-gaelic-football/undar-12/282-img_0356.jpg
     thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/282-img_0356.jpg
     title: 282-IMG_0356

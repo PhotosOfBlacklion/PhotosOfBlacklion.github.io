@@ -254,32 +254,32 @@ photos:
     title: 83-IMG_0094
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/84-img_0098.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/84-img_0098.jpg
-    title: a:1:{s:5:"en_US";s:11:"84-IMG_0098";}
+    title: a:1:{s:5:"en_US";s:11:"84-IMG_0098
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/85-img_0086.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/85-img_0086.jpg
-    title: a:1:{s:5:"en_US";s:11:"85-IMG_0086";}
+    title: a:1:{s:5:"en_US";s:11:"85-IMG_0086
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/86-img_0087.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/86-img_0087.jpg
-    title: a:1:{s:5:"en_US";s:11:"86-IMG_0087";}
+    title: a:1:{s:5:"en_US";s:11:"86-IMG_0087
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/87-img_0088.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/87-img_0088.jpg
-    title: a:1:{s:5:"en_US";s:11:"87-IMG_0088";}
+    title: a:1:{s:5:"en_US";s:11:"87-IMG_0088
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/88-img_0089.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/88-img_0089.jpg
-    title: a:1:{s:5:"en_US";s:11:"88-IMG_0089";}
+    title: a:1:{s:5:"en_US";s:11:"88-IMG_0089
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/89-img_0090.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/89-img_0090.jpg
-    title: a:1:{s:5:"en_US";s:11:"89-IMG_0090";}
+    title: a:1:{s:5:"en_US";s:11:"89-IMG_0090
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/90-img_0091.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/90-img_0091.jpg
-    title: a:1:{s:5:"en_US";s:11:"90-IMG_0091";}
+    title: a:1:{s:5:"en_US";s:11:"90-IMG_0091
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/91-img_0092.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/91-img_0092.jpg
-    title: a:1:{s:5:"en_US";s:11:"91-IMG_0092";}
+    title: a:1:{s:5:"en_US";s:11:"91-IMG_0092
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/92-img_0093.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/92-img_0093.jpg
-    title: a:1:{s:5:"en_US";s:11:"92-IMG_0093";}
+    title: a:1:{s:5:"en_US";s:11:"92-IMG_0093
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/93-img_0097.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/04-12-2015-skipton/93-img_0097.jpg
-    title: a:1:{s:5:"en_US";s:11:"93-IMG_0097";}
+    title: a:1:{s:5:"en_US";s:11:"93-IMG_0097
 ---

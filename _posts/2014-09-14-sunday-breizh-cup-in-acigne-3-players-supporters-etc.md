@@ -11,10 +11,10 @@ photos:
     title: 106-14-09-2914 175
   - original: /2014/09/sunday-breizh-cup-in-acigne/3-players-supporters-etc/107-14-09-2914-176.jpg
     thumbnail: /t/2014/09/sunday-breizh-cup-in-acigne/3-players-supporters-etc/107-14-09-2914-176.jpg
-    title: a:1:{s:5:"en_US";s:18:"107-14-09-2914 176";}
+    title: a:1:{s:5:"en_US";s:18:"107-14-09-2914 176
   - original: /2014/09/sunday-breizh-cup-in-acigne/3-players-supporters-etc/108-14-09-2914-177.jpg
     thumbnail: /t/2014/09/sunday-breizh-cup-in-acigne/3-players-supporters-etc/108-14-09-2914-177.jpg
-    title: a:1:{s:5:"en_US";s:18:"108-14-09-2914 177";}
+    title: a:1:{s:5:"en_US";s:18:"108-14-09-2914 177
   - original: /2014/09/sunday-breizh-cup-in-acigne/3-players-supporters-etc/109-14-09-2914-001.jpg
     thumbnail: /t/2014/09/sunday-breizh-cup-in-acigne/3-players-supporters-etc/109-14-09-2914-001.jpg
     title: 109-14-09-2914 001

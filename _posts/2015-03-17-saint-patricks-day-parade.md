@@ -278,7 +278,7 @@ photos:
     title: 091-IMG_0103
   - original: /2015/03/saint-patricks-day-parade/092-img_0102.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/092-img_0102.jpg
-    title: a:1:{s:5:"en_US";s:12:"092-IMG_0102";}
+    title: a:1:{s:5:"en_US";s:12:"092-IMG_0102
   - original: /2015/03/saint-patricks-day-parade/093-img_0104.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/093-img_0104.jpg
     title: 093-IMG_0104
@@ -293,7 +293,7 @@ photos:
     title: 096-IMG_0107
   - original: /2015/03/saint-patricks-day-parade/097-img_0108.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/097-img_0108.jpg
-    title: a:1:{s:5:"en_US";s:12:"097-IMG_0108";}
+    title: a:1:{s:5:"en_US";s:12:"097-IMG_0108
   - original: /2015/03/saint-patricks-day-parade/098-img_0109.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/098-img_0109.jpg
     title: 098-IMG_0109
@@ -566,10 +566,10 @@ photos:
     title: 187-IMG_0202
   - original: /2015/03/saint-patricks-day-parade/188-img_0205.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/188-img_0205.jpg
-    title: a:1:{s:5:"en_US";s:12:"188-IMG_0205";}
+    title: a:1:{s:5:"en_US";s:12:"188-IMG_0205
   - original: /2015/03/saint-patricks-day-parade/189-img_0207.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/189-img_0207.jpg
-    title: a:1:{s:5:"en_US";s:12:"189-IMG_0207";}
+    title: a:1:{s:5:"en_US";s:12:"189-IMG_0207
   - original: /2015/03/saint-patricks-day-parade/190-img_0208.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/190-img_0208.jpg
     title: 190-IMG_0208
@@ -641,7 +641,7 @@ photos:
     title: 212-IMG_0235
   - original: /2015/03/saint-patricks-day-parade/213-img_0236.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/213-img_0236.jpg
-    title: a:1:{s:5:"en_US";s:12:"213-IMG_0236";}
+    title: a:1:{s:5:"en_US";s:12:"213-IMG_0236
   - original: /2015/03/saint-patricks-day-parade/214-img_0237.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/214-img_0237.jpg
     title: 214-IMG_0237
@@ -650,7 +650,7 @@ photos:
     title: 215-IMG_0238
   - original: /2015/03/saint-patricks-day-parade/216-img_0239.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/216-img_0239.jpg
-    title: a:1:{s:5:"en_US";s:12:"216-IMG_0239";}
+    title: a:1:{s:5:"en_US";s:12:"216-IMG_0239
   - original: /2015/03/saint-patricks-day-parade/217-img_0240.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/217-img_0240.jpg
     title: 217-IMG_0240
@@ -680,19 +680,19 @@ photos:
     title: 225-IMG_0248
   - original: /2015/03/saint-patricks-day-parade/226-img_0249.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/226-img_0249.jpg
-    title: a:1:{s:5:"en_US";s:12:"226-IMG_0249";}
+    title: a:1:{s:5:"en_US";s:12:"226-IMG_0249
   - original: /2015/03/saint-patricks-day-parade/227-img_0250.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/227-img_0250.jpg
     title: 227-IMG_0250
   - original: /2015/03/saint-patricks-day-parade/228-img_0251.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/228-img_0251.jpg
-    title: a:1:{s:5:"en_US";s:12:"228-IMG_0251";}
+    title: a:1:{s:5:"en_US";s:12:"228-IMG_0251
   - original: /2015/03/saint-patricks-day-parade/229-img_0252.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/229-img_0252.jpg
     title: 229-IMG_0252
   - original: /2015/03/saint-patricks-day-parade/230-img_0253.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/230-img_0253.jpg
-    title: a:1:{s:5:"en_US";s:12:"230-IMG_0253";}
+    title: a:1:{s:5:"en_US";s:12:"230-IMG_0253
   - original: /2015/03/saint-patricks-day-parade/231-img_0254.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/231-img_0254.jpg
     title: 231-IMG_0254
@@ -827,7 +827,7 @@ photos:
     title: 274-IMG_0312
   - original: /2015/03/saint-patricks-day-parade/275-img_0313.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/275-img_0313.jpg
-    title: a:1:{s:5:"en_US";s:12:"275-IMG_0313";}
+    title: a:1:{s:5:"en_US";s:12:"275-IMG_0313
   - original: /2015/03/saint-patricks-day-parade/276-img_0314.jpg
     thumbnail: /t/2015/03/saint-patricks-day-parade/276-img_0314.jpg
     title: 276-IMG_0314

@@ -38,7 +38,7 @@ photos:
     title: 011-IMG_0023
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/012-img_0025.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/012-img_0025.jpg
-    title: a:1:{s:5:"en_US";s:12:"012-IMG_0025";}
+    title: a:1:{s:5:"en_US";s:12:"012-IMG_0025
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/013-img_0026.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/013-img_0026.jpg
     title: 013-IMG_0026
@@ -98,7 +98,7 @@ photos:
     title: 031-IMG_0050
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/032-img_0051.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/032-img_0051.jpg
-    title: a:1:{s:5:"en_US";s:12:"032-IMG_0051";}
+    title: a:1:{s:5:"en_US";s:12:"032-IMG_0051
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/033-img_0052.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/033-img_0052.jpg
     title: 033-IMG_0052
@@ -149,7 +149,7 @@ photos:
     title: 048-IMG_0068
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/049-img_0069.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/049-img_0069.jpg
-    title: a:1:{s:5:"en_US";s:12:"049-IMG_0069";}
+    title: a:1:{s:5:"en_US";s:12:"049-IMG_0069
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/050-img_0070.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/050-img_0070.jpg
     title: 050-IMG_0070
@@ -362,26 +362,26 @@ photos:
     title: 119-IMG_0154
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/120-img_0157.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/120-img_0157.jpg
-    title: a:1:{s:5:"en_US";s:12:"120-IMG_0157";}
+    title: a:1:{s:5:"en_US";s:12:"120-IMG_0157
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/121-img_0158.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/121-img_0158.jpg
     title: 121-IMG_0158
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/122-img_0159.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/122-img_0159.jpg
-    title: a:1:{s:5:"en_US";s:12:"122-IMG_0159";}
+    title: a:1:{s:5:"en_US";s:12:"122-IMG_0159
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/123-img_0160.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/123-img_0160.jpg
-    title: a:1:{s:5:"en_US";s:12:"123-IMG_0160";}
+    title: a:1:{s:5:"en_US";s:12:"123-IMG_0160
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/124-img_0162.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/124-img_0162.jpg
-    title: a:1:{s:5:"en_US";s:12:"124-IMG_0162";}
+    title: a:1:{s:5:"en_US";s:12:"124-IMG_0162
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/125-img_0164.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/125-img_0164.jpg
-    title: a:1:{s:5:"en_US";s:12:"125-IMG_0164";}
+    title: a:1:{s:5:"en_US";s:12:"125-IMG_0164
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/126-img_0165.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/126-img_0165.jpg
-    title: a:1:{s:5:"en_US";s:12:"126-IMG_0165";}
+    title: a:1:{s:5:"en_US";s:12:"126-IMG_0165
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/127-img_0166.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/127-img_0166.jpg
-    title: a:1:{s:5:"en_US";s:12:"127-IMG_0166";}
+    title: a:1:{s:5:"en_US";s:12:"127-IMG_0166
 ---

@@ -32,7 +32,7 @@ photos:
     title: 09-IMG_0103
   - original: /2016/08/preparing-for-scrutineering/10-img_0105.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/10-img_0105.jpg
-    title: a:1:{s:5:"en_US";s:11:"10-IMG_0105";}
+    title: a:1:{s:5:"en_US";s:11:"10-IMG_0105
   - original: /2016/08/preparing-for-scrutineering/11-img_0106.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/11-img_0106.jpg
     title: 11-IMG_0106
@@ -80,10 +80,10 @@ photos:
     title: 25-IMG_0115
   - original: /2016/08/preparing-for-scrutineering/26-img_0116.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/26-img_0116.jpg
-    title: a:1:{s:5:"en_US";s:11:"26-IMG_0116";}
+    title: a:1:{s:5:"en_US";s:11:"26-IMG_0116
   - original: /2016/08/preparing-for-scrutineering/27-img_0119.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/27-img_0119.jpg
-    title: a:1:{s:5:"en_US";s:11:"27-IMG_0119";}
+    title: a:1:{s:5:"en_US";s:11:"27-IMG_0119
   - original: /2016/08/preparing-for-scrutineering/28-img_0120.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/28-img_0120.jpg
     title: 28-IMG_0120
@@ -134,7 +134,7 @@ photos:
     title: 43-IMG_0250
   - original: /2016/08/preparing-for-scrutineering/44-img_0251.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/44-img_0251.jpg
-    title: a:1:{s:5:"en_US";s:11:"44-IMG_0251";}
+    title: a:1:{s:5:"en_US";s:11:"44-IMG_0251
   - original: /2016/08/preparing-for-scrutineering/45-img_0252.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/45-img_0252.jpg
     title: 45-IMG_0252
@@ -146,7 +146,7 @@ photos:
     title: 47-IMG_0255
   - original: /2016/08/preparing-for-scrutineering/48-img_0257.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/48-img_0257.jpg
-    title: a:1:{s:5:"en_US";s:11:"48-IMG_0257";}
+    title: a:1:{s:5:"en_US";s:11:"48-IMG_0257
   - original: /2016/08/preparing-for-scrutineering/49-img_0258.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/49-img_0258.jpg
     title: 49-IMG_0258
@@ -188,10 +188,10 @@ photos:
     title: 61-IMG_0191
   - original: /2016/08/preparing-for-scrutineering/62-img_0192.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/62-img_0192.jpg
-    title: a:1:{s:5:"en_US";s:11:"62-IMG_0192";}
+    title: a:1:{s:5:"en_US";s:11:"62-IMG_0192
   - original: /2016/08/preparing-for-scrutineering/63-img_0195.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/63-img_0195.jpg
-    title: a:1:{s:5:"en_US";s:11:"63-IMG_0195";}
+    title: a:1:{s:5:"en_US";s:11:"63-IMG_0195
   - original: /2016/08/preparing-for-scrutineering/64-img_0201.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/64-img_0201.jpg
     title: 64-IMG_0201
@@ -203,11 +203,11 @@ photos:
     title: 66-IMG_0226
   - original: /2016/08/preparing-for-scrutineering/67-img_0232.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/67-img_0232.jpg
-    title: a:1:{s:5:"en_US";s:11:"67-IMG_0232";}
+    title: a:1:{s:5:"en_US";s:11:"67-IMG_0232
   - original: /2016/08/preparing-for-scrutineering/68-img_0236.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/68-img_0236.jpg
-    title: a:1:{s:5:"en_US";s:11:"68-IMG_0236";}
+    title: a:1:{s:5:"en_US";s:11:"68-IMG_0236
   - original: /2016/08/preparing-for-scrutineering/69-img_0240.jpg
     thumbnail: /t/2016/08/preparing-for-scrutineering/69-img_0240.jpg
-    title: a:1:{s:5:"en_US";s:11:"69-IMG_0240";}
+    title: a:1:{s:5:"en_US";s:11:"69-IMG_0240
 ---

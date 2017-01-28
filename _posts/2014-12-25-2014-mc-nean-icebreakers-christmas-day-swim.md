@@ -41,7 +41,7 @@ photos:
     title: 012-IMG_0313
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/013-img_0314.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/013-img_0314.jpg
-    title: a:1:{s:5:"en_US";s:12:"013-IMG_0314";}
+    title: a:1:{s:5:"en_US";s:12:"013-IMG_0314
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/014-img_0316.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/014-img_0316.jpg
     title: 014-IMG_0316
@@ -65,7 +65,7 @@ photos:
     title: 020-IMG_0338
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/021-img_0346.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/021-img_0346.jpg
-    title: a:1:{s:5:"en_US";s:12:"021-IMG_0346";}
+    title: a:1:{s:5:"en_US";s:12:"021-IMG_0346
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/022-img_0347.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/022-img_0347.jpg
     title: 022-IMG_0347
@@ -89,7 +89,7 @@ photos:
     title: 028-IMG_0357
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/029-img_0358.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/029-img_0358.jpg
-    title: a:1:{s:5:"en_US";s:12:"029-IMG_0358";}
+    title: a:1:{s:5:"en_US";s:12:"029-IMG_0358
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/030-img_0359.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/030-img_0359.jpg
     title: 030-IMG_0359
@@ -137,7 +137,7 @@ photos:
     title: 044-IMG_0376
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/045-img_0377.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/045-img_0377.jpg
-    title: a:1:{s:5:"en_US";s:12:"045-IMG_0377";}
+    title: a:1:{s:5:"en_US";s:12:"045-IMG_0377
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/046-img_0378.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/046-img_0378.jpg
     title: 046-IMG_0378
@@ -188,7 +188,7 @@ photos:
     title: 061-IMG_0397
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/062-img_0398.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/062-img_0398.jpg
-    title: a:1:{s:5:"en_US";s:12:"062-IMG_0398";}
+    title: a:1:{s:5:"en_US";s:12:"062-IMG_0398
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/063-img_0399.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/063-img_0399.jpg
     title: 063-IMG_0399
@@ -242,7 +242,7 @@ photos:
     title: 079-IMG_0420
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/080-img_0421.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/080-img_0421.jpg
-    title: a:1:{s:5:"en_US";s:12:"080-IMG_0421";}
+    title: a:1:{s:5:"en_US";s:12:"080-IMG_0421
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/081-img_0422.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/081-img_0422.jpg
     title: 081-IMG_0422
@@ -308,7 +308,7 @@ photos:
     title: 101-IMG_0448
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/102-img_0449.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/102-img_0449.jpg
-    title: a:1:{s:5:"en_US";s:12:"102-IMG_0449";}
+    title: a:1:{s:5:"en_US";s:12:"102-IMG_0449
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/103-img_0450.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/103-img_0450.jpg
     title: 103-IMG_0450
@@ -461,7 +461,7 @@ photos:
     title: 152-IMG_0499
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/153-img_0500.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/153-img_0500.jpg
-    title: a:1:{s:5:"en_US";s:12:"153-IMG_0500";}
+    title: a:1:{s:5:"en_US";s:12:"153-IMG_0500
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/154-img_0501.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/154-img_0501.jpg
     title: 154-IMG_0501
@@ -473,7 +473,7 @@ photos:
     title: 156-IMG_0503
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/157-img_0504.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/157-img_0504.jpg
-    title: a:1:{s:5:"en_US";s:12:"157-IMG_0504";}
+    title: a:1:{s:5:"en_US";s:12:"157-IMG_0504
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/158-img_0505.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/158-img_0505.jpg
     title: 158-IMG_0505
@@ -539,7 +539,7 @@ photos:
     title: 178-IMG_0525
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/179-img_0526.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/179-img_0526.jpg
-    title: a:1:{s:5:"en_US";s:12:"179-IMG_0526";}
+    title: a:1:{s:5:"en_US";s:12:"179-IMG_0526
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/180-img_0527.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/180-img_0527.jpg
     title: 180-IMG_0527
@@ -569,7 +569,7 @@ photos:
     title: 188-IMG_0536
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/189-img_0537.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/189-img_0537.jpg
-    title: a:1:{s:5:"en_US";s:12:"189-IMG_0537";}
+    title: a:1:{s:5:"en_US";s:12:"189-IMG_0537
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/190-img_0538.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/190-img_0538.jpg
     title: 190-IMG_0538
@@ -599,7 +599,7 @@ photos:
     title: 198-IMG_0548
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/199-img_0549.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/199-img_0549.jpg
-    title: a:1:{s:5:"en_US";s:12:"199-IMG_0549";}
+    title: a:1:{s:5:"en_US";s:12:"199-IMG_0549
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/200-img_0550.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/200-img_0550.jpg
     title: 200-IMG_0550
@@ -632,7 +632,7 @@ photos:
     title: 209-IMG_0559
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/210-img_0560.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/210-img_0560.jpg
-    title: a:1:{s:5:"en_US";s:12:"210-IMG_0560";}
+    title: a:1:{s:5:"en_US";s:12:"210-IMG_0560
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/211-img_0561.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/211-img_0561.jpg
     title: 211-IMG_0561
@@ -644,7 +644,7 @@ photos:
     title: 213-IMG_0563
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/214-img_0564.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/214-img_0564.jpg
-    title: a:1:{s:5:"en_US";s:12:"214-IMG_0564";}
+    title: a:1:{s:5:"en_US";s:12:"214-IMG_0564
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/215-img_0565.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/215-img_0565.jpg
     title: 215-IMG_0565
@@ -671,7 +671,7 @@ photos:
     title: 222-IMG_0572
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/223-img_0574.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/223-img_0574.jpg
-    title: a:1:{s:5:"en_US";s:12:"223-IMG_0574";}
+    title: a:1:{s:5:"en_US";s:12:"223-IMG_0574
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/224-img_0578.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/224-img_0578.jpg
     title: 224-IMG_0578
@@ -698,10 +698,10 @@ photos:
     title: 231-IMG_0591
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/232-img_0592.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/232-img_0592.jpg
-    title: a:1:{s:5:"en_US";s:12:"232-IMG_0592";}
+    title: a:1:{s:5:"en_US";s:12:"232-IMG_0592
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/233-img_0593.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/233-img_0593.jpg
-    title: a:1:{s:5:"en_US";s:12:"233-IMG_0593";}
+    title: a:1:{s:5:"en_US";s:12:"233-IMG_0593
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/234-img_0594.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/234-img_0594.jpg
     title: 234-IMG_0594
@@ -719,7 +719,7 @@ photos:
     title: 238-IMG_0608
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/239-img_0609.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/239-img_0609.jpg
-    title: a:1:{s:5:"en_US";s:12:"239-IMG_0609";}
+    title: a:1:{s:5:"en_US";s:12:"239-IMG_0609
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/240-img_0610.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/240-img_0610.jpg
     title: 240-IMG_0610
@@ -731,7 +731,7 @@ photos:
     title: 242-IMG_0614
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/243-img_0615.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/243-img_0615.jpg
-    title: a:1:{s:5:"en_US";s:12:"243-IMG_0615";}
+    title: a:1:{s:5:"en_US";s:12:"243-IMG_0615
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/244-img_0616.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/244-img_0616.jpg
     title: 244-IMG_0616
@@ -749,7 +749,7 @@ photos:
     title: 248-IMG_0623
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/249-img_0627.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/249-img_0627.jpg
-    title: a:1:{s:5:"en_US";s:12:"249-IMG_0627";}
+    title: a:1:{s:5:"en_US";s:12:"249-IMG_0627
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/250-img_0628.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/250-img_0628.jpg
     title: 250-IMG_0628
@@ -767,7 +767,7 @@ photos:
     title: 254-IMG_0640
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/255-img_0641.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/255-img_0641.jpg
-    title: a:1:{s:5:"en_US";s:12:"255-IMG_0641";}
+    title: a:1:{s:5:"en_US";s:12:"255-IMG_0641
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/256-img_0642.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/256-img_0642.jpg
     title: 256-IMG_0642
@@ -782,7 +782,7 @@ photos:
     title: 259-IMG_0649
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/260-img_0653.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/260-img_0653.jpg
-    title: a:1:{s:5:"en_US";s:12:"260-IMG_0653";}
+    title: a:1:{s:5:"en_US";s:12:"260-IMG_0653
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/261-img_0654.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/261-img_0654.jpg
     title: 261-IMG_0654
@@ -797,7 +797,7 @@ photos:
     title: 264-IMG_0659
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/265-img_0661.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/265-img_0661.jpg
-    title: a:1:{s:5:"en_US";s:12:"265-IMG_0661";}
+    title: a:1:{s:5:"en_US";s:12:"265-IMG_0661
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/266-img_0666.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/266-img_0666.jpg
     title: 266-IMG_0666
@@ -815,7 +815,7 @@ photos:
     title: 270-IMG_0670
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/271-img_0671.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/271-img_0671.jpg
-    title: a:1:{s:5:"en_US";s:12:"271-IMG_0671";}
+    title: a:1:{s:5:"en_US";s:12:"271-IMG_0671
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/272-img_0673.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/272-img_0673.jpg
     title: 272-IMG_0673
@@ -836,7 +836,7 @@ photos:
     title: 277-IMG_0679
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/278-img_0681.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/278-img_0681.jpg
-    title: a:1:{s:5:"en_US";s:12:"278-IMG_0681";}
+    title: a:1:{s:5:"en_US";s:12:"278-IMG_0681
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/279-img_0683.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/279-img_0683.jpg
     title: 279-IMG_0683
@@ -857,7 +857,7 @@ photos:
     title: 284-IMG_0689
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/285-img_0690.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/285-img_0690.jpg
-    title: a:1:{s:5:"en_US";s:12:"285-IMG_0690";}
+    title: a:1:{s:5:"en_US";s:12:"285-IMG_0690
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/286-img_0692.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/286-img_0692.jpg
     title: 286-IMG_0692
@@ -875,7 +875,7 @@ photos:
     title: 290-IMG_0700
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/291-img_0701.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/291-img_0701.jpg
-    title: a:1:{s:5:"en_US";s:12:"291-IMG_0701";}
+    title: a:1:{s:5:"en_US";s:12:"291-IMG_0701
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/292-img_0705.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/292-img_0705.jpg
     title: 292-IMG_0705
@@ -887,10 +887,10 @@ photos:
     title: 294-IMG_0709
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/295-img_0710.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/295-img_0710.jpg
-    title: a:1:{s:5:"en_US";s:12:"295-IMG_0710";}
+    title: a:1:{s:5:"en_US";s:12:"295-IMG_0710
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/296-img_0712.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/296-img_0712.jpg
-    title: a:1:{s:5:"en_US";s:12:"296-IMG_0712";}
+    title: a:1:{s:5:"en_US";s:12:"296-IMG_0712
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/297-img_0713.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/297-img_0713.jpg
     title: 297-IMG_0713
@@ -914,7 +914,7 @@ photos:
     title: 303-IMG_0736
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/304-img_0737.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/304-img_0737.jpg
-    title: a:1:{s:5:"en_US";s:12:"304-IMG_0737";}
+    title: a:1:{s:5:"en_US";s:12:"304-IMG_0737
   - original: /2014/12/2014-mc-nean-icebreakers-christmas-day-swim/305-img_0738.jpg
     thumbnail: /t/2014/12/2014-mc-nean-icebreakers-christmas-day-swim/305-img_0738.jpg
     title: 305-IMG_0738

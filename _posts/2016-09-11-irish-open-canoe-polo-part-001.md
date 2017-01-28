@@ -95,7 +95,7 @@ photos:
     title: 030-IMG_0050
   - original: /2016/09/irish-open-canoe-polo/part-001/031-img_0051.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/031-img_0051.jpg
-    title: a:1:{s:5:"en_US";s:12:"031-IMG_0051";}
+    title: 031-IMG_0051
   - original: /2016/09/irish-open-canoe-polo/part-001/032-img_0052.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/032-img_0052.jpg
     title: 032-IMG_0052
@@ -107,10 +107,10 @@ photos:
     title: 034-IMG_0054
   - original: /2016/09/irish-open-canoe-polo/part-001/035-img_0055.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/035-img_0055.jpg
-    title: a:1:{s:5:"en_US";s:12:"035-IMG_0055";}
+    title: 035-IMG_0055
   - original: /2016/09/irish-open-canoe-polo/part-001/036-img_0056.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/036-img_0056.jpg
-    title: a:1:{s:5:"en_US";s:12:"036-IMG_0056";}
+    title: 036-IMG_0056
   - original: /2016/09/irish-open-canoe-polo/part-001/037-img_0057.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/037-img_0057.jpg
     title: 037-IMG_0057
@@ -155,7 +155,7 @@ photos:
     title: 050-IMG_0070
   - original: /2016/09/irish-open-canoe-polo/part-001/051-img_0071.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/051-img_0071.jpg
-    title: a:1:{s:5:"en_US";s:12:"051-IMG_0071";}
+    title: 051-IMG_0071
   - original: /2016/09/irish-open-canoe-polo/part-001/052-img_0072.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/052-img_0072.jpg
     title: 052-IMG_0072
@@ -167,7 +167,7 @@ photos:
     title: 054-IMG_0074
   - original: /2016/09/irish-open-canoe-polo/part-001/055-img_0075.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/055-img_0075.jpg
-    title: a:1:{s:5:"en_US";s:12:"055-IMG_0075";}
+    title: 055-IMG_0075
   - original: /2016/09/irish-open-canoe-polo/part-001/056-img_0076.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/056-img_0076.jpg
     title: 056-IMG_0076
@@ -200,7 +200,7 @@ photos:
     title: 065-IMG_0085
   - original: /2016/09/irish-open-canoe-polo/part-001/066-img_0087.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/066-img_0087.jpg
-    title: a:1:{s:5:"en_US";s:12:"066-IMG_0087";}
+    title: 066-IMG_0087
   - original: /2016/09/irish-open-canoe-polo/part-001/067-img_0088.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/067-img_0088.jpg
     title: 067-IMG_0088
@@ -230,7 +230,7 @@ photos:
     title: 075-IMG_0096
   - original: /2016/09/irish-open-canoe-polo/part-001/076-img_0097.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/076-img_0097.jpg
-    title: a:1:{s:5:"en_US";s:12:"076-IMG_0097";}
+    title: 076-IMG_0097
   - original: /2016/09/irish-open-canoe-polo/part-001/077-img_0098.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/077-img_0098.jpg
     title: 077-IMG_0098
@@ -254,7 +254,7 @@ photos:
     title: 083-IMG_0104
   - original: /2016/09/irish-open-canoe-polo/part-001/084-img_0105.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/084-img_0105.jpg
-    title: a:1:{s:5:"en_US";s:12:"084-IMG_0105";}
+    title: 084-IMG_0105
   - original: /2016/09/irish-open-canoe-polo/part-001/085-img_0106.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/085-img_0106.jpg
     title: 085-IMG_0106
@@ -284,7 +284,7 @@ photos:
     title: 093-IMG_0114
   - original: /2016/09/irish-open-canoe-polo/part-001/094-img_0115.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/094-img_0115.jpg
-    title: a:1:{s:5:"en_US";s:12:"094-IMG_0115";}
+    title: 094-IMG_0115
   - original: /2016/09/irish-open-canoe-polo/part-001/095-img_0117.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/095-img_0117.jpg
     title: 095-IMG_0117
@@ -299,7 +299,7 @@ photos:
     title: 098-IMG_0120
   - original: /2016/09/irish-open-canoe-polo/part-001/099-img_0121.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/099-img_0121.jpg
-    title: a:1:{s:5:"en_US";s:12:"099-IMG_0121";}
+    title: 099-IMG_0121
   - original: /2016/09/irish-open-canoe-polo/part-001/100-img_0122.jpg
     thumbnail: /t/2016/09/irish-open-canoe-polo/part-001/100-img_0122.jpg
     title: 100-IMG_0122

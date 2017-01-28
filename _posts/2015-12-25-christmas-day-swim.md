@@ -41,10 +41,10 @@ photos:
     title: 012-IMG_0012
   - original: /2015/12/christmas-day-swim/013-img_0013.jpg
     thumbnail: /t/2015/12/christmas-day-swim/013-img_0013.jpg
-    title: a:1:{s:5:"en_US";s:12:"013-IMG_0013";}
+    title: a:1:{s:5:"en_US";s:12:"013-IMG_0013
   - original: /2015/12/christmas-day-swim/014-img_0014.jpg
     thumbnail: /t/2015/12/christmas-day-swim/014-img_0014.jpg
-    title: a:1:{s:5:"en_US";s:12:"014-IMG_0014";}
+    title: a:1:{s:5:"en_US";s:12:"014-IMG_0014
   - original: /2015/12/christmas-day-swim/015-img_0015.jpg
     thumbnail: /t/2015/12/christmas-day-swim/015-img_0015.jpg
     title: 015-IMG_0015
@@ -182,7 +182,7 @@ photos:
     title: 059-IMG_0067
   - original: /2015/12/christmas-day-swim/060-img_0068.jpg
     thumbnail: /t/2015/12/christmas-day-swim/060-img_0068.jpg
-    title: a:1:{s:5:"en_US";s:12:"060-IMG_0068";}
+    title: a:1:{s:5:"en_US";s:12:"060-IMG_0068
   - original: /2015/12/christmas-day-swim/061-img_0069.jpg
     thumbnail: /t/2015/12/christmas-day-swim/061-img_0069.jpg
     title: 061-IMG_0069
@@ -245,7 +245,7 @@ photos:
     title: 080-IMG_0091
   - original: /2015/12/christmas-day-swim/081-img_0092.jpg
     thumbnail: /t/2015/12/christmas-day-swim/081-img_0092.jpg
-    title: a:1:{s:5:"en_US";s:12:"081-IMG_0092";}
+    title: a:1:{s:5:"en_US";s:12:"081-IMG_0092
   - original: /2015/12/christmas-day-swim/082-img_0093.jpg
     thumbnail: /t/2015/12/christmas-day-swim/082-img_0093.jpg
     title: 082-IMG_0093
@@ -305,7 +305,7 @@ photos:
     title: 100-IMG_0111
   - original: /2015/12/christmas-day-swim/101-img_0112.jpg
     thumbnail: /t/2015/12/christmas-day-swim/101-img_0112.jpg
-    title: a:1:{s:5:"en_US";s:12:"101-IMG_0112";}
+    title: a:1:{s:5:"en_US";s:12:"101-IMG_0112
   - original: /2015/12/christmas-day-swim/102-img_0113.jpg
     thumbnail: /t/2015/12/christmas-day-swim/102-img_0113.jpg
     title: 102-IMG_0113
@@ -401,7 +401,7 @@ photos:
     title: 132-IMG_0143
   - original: /2015/12/christmas-day-swim/133-img_0144.jpg
     thumbnail: /t/2015/12/christmas-day-swim/133-img_0144.jpg
-    title: a:1:{s:5:"en_US";s:12:"133-IMG_0144";}
+    title: a:1:{s:5:"en_US";s:12:"133-IMG_0144
   - original: /2015/12/christmas-day-swim/134-img_0145.jpg
     thumbnail: /t/2015/12/christmas-day-swim/134-img_0145.jpg
     title: 134-IMG_0145
@@ -443,7 +443,7 @@ photos:
     title: 146-IMG_0157
   - original: /2015/12/christmas-day-swim/147-img_0158.jpg
     thumbnail: /t/2015/12/christmas-day-swim/147-img_0158.jpg
-    title: a:1:{s:5:"en_US";s:12:"147-IMG_0158";}
+    title: a:1:{s:5:"en_US";s:12:"147-IMG_0158
   - original: /2015/12/christmas-day-swim/148-img_0159.jpg
     thumbnail: /t/2015/12/christmas-day-swim/148-img_0159.jpg
     title: 148-IMG_0159
@@ -530,7 +530,7 @@ photos:
     title: 175-IMG_0186
   - original: /2015/12/christmas-day-swim/176-img_0188.jpg
     thumbnail: /t/2015/12/christmas-day-swim/176-img_0188.jpg
-    title: a:1:{s:5:"en_US";s:12:"176-IMG_0188";}
+    title: a:1:{s:5:"en_US";s:12:"176-IMG_0188
   - original: /2015/12/christmas-day-swim/177-img_0189.jpg
     thumbnail: /t/2015/12/christmas-day-swim/177-img_0189.jpg
     title: 177-IMG_0189
@@ -617,7 +617,7 @@ photos:
     title: 204-IMG_0269
   - original: /2015/12/christmas-day-swim/205-img_0273.jpg
     thumbnail: /t/2015/12/christmas-day-swim/205-img_0273.jpg
-    title: a:1:{s:5:"en_US";s:12:"205-IMG_0273";}
+    title: a:1:{s:5:"en_US";s:12:"205-IMG_0273
   - original: /2015/12/christmas-day-swim/206-img_0274.jpg
     thumbnail: /t/2015/12/christmas-day-swim/206-img_0274.jpg
     title: 206-IMG_0274
@@ -677,7 +677,7 @@ photos:
     title: 224-IMG_0239
   - original: /2015/12/christmas-day-swim/225-img_0243.jpg
     thumbnail: /t/2015/12/christmas-day-swim/225-img_0243.jpg
-    title: a:1:{s:5:"en_US";s:12:"225-IMG_0243";}
+    title: a:1:{s:5:"en_US";s:12:"225-IMG_0243
   - original: /2015/12/christmas-day-swim/226-img_0244.jpg
     thumbnail: /t/2015/12/christmas-day-swim/226-img_0244.jpg
     title: 226-IMG_0244

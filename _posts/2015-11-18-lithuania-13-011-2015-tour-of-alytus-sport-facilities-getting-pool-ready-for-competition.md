@@ -1,6 +1,6 @@
 ---
-title: 13-011-2015 Tour of Alytus sport facilities & getting pool ready for competition.
-date: 2015-11-18 12:00
+title: Lithuania -- Tour of Alytus sport facilities & getting pool ready for competition.
+date: 2015-11-13 12:00
 thumbnail: /t/2015/11/lithuania/13-011-2015-tour-of-alytus-sport-facilities-getting-pool-ready-for-competition/001-img_0001.jpg
 photos:
   - original: /2015/11/lithuania/13-011-2015-tour-of-alytus-sport-facilities-getting-pool-ready-for-competition/001-img_0001.jpg

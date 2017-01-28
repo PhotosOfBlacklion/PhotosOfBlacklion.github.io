@@ -107,13 +107,13 @@ photos:
     title: 34-IMG_0341
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/35-img_0342.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/35-img_0342.jpg
-    title: a:1:{s:5:"en_US";s:11:"35-IMG_0342";}
+    title: a:1:{s:5:"en_US";s:11:"35-IMG_0342
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/36-img_0343.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/36-img_0343.jpg
     title: 36-IMG_0343
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/37-img_0344.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/37-img_0344.jpg
-    title: a:1:{s:5:"en_US";s:11:"37-IMG_0344";}
+    title: a:1:{s:5:"en_US";s:11:"37-IMG_0344
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/38-img_0367.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/38-img_0367.jpg
     title: 38-IMG_0367
@@ -131,7 +131,7 @@ photos:
     title: 42-IMG_0348
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/43-img_0350.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/43-img_0350.jpg
-    title: a:1:{s:5:"en_US";s:11:"43-IMG_0350";}
+    title: a:1:{s:5:"en_US";s:11:"43-IMG_0350
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/44-img_0351.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/44-img_0351.jpg
     title: 44-IMG_0351
@@ -149,7 +149,7 @@ photos:
     title: 48-IMG_0355
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/49-img_0356.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/49-img_0356.jpg
-    title: a:1:{s:5:"en_US";s:11:"49-IMG_0356";}
+    title: a:1:{s:5:"en_US";s:11:"49-IMG_0356
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/50-img_0357.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/50-img_0357.jpg
     title: 50-IMG_0357
@@ -158,13 +158,13 @@ photos:
     title: 51-IMG_0358
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/52-img_0359.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/52-img_0359.jpg
-    title: a:1:{s:5:"en_US";s:11:"52-IMG_0359";}
+    title: a:1:{s:5:"en_US";s:11:"52-IMG_0359
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/53-img_0360.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/53-img_0360.jpg
     title: 53-IMG_0360
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/54-img_0361.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/54-img_0361.jpg
-    title: a:1:{s:5:"en_US";s:11:"54-IMG_0361";}
+    title: a:1:{s:5:"en_US";s:11:"54-IMG_0361
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/55-img_0363.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/55-img_0363.jpg
     title: 55-IMG_0363
@@ -188,7 +188,7 @@ photos:
     title: 61-IMG_0370
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/62-img_0372.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/62-img_0372.jpg
-    title: a:1:{s:5:"en_US";s:11:"62-IMG_0372";}
+    title: a:1:{s:5:"en_US";s:11:"62-IMG_0372
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/63-img_0374.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/63-img_0374.jpg
     title: 63-IMG_0374
@@ -206,7 +206,7 @@ photos:
     title: 67-IMG_0381
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/68-img_0382.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/68-img_0382.jpg
-    title: a:1:{s:5:"en_US";s:11:"68-IMG_0382";}
+    title: a:1:{s:5:"en_US";s:11:"68-IMG_0382
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/69-img_0383.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/69-img_0383.jpg
     title: 69-IMG_0383
@@ -230,7 +230,7 @@ photos:
     title: 75-IMG_0391
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/76-img_0396.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/76-img_0396.jpg
-    title: a:1:{s:5:"en_US";s:11:"76-IMG_0396";}
+    title: a:1:{s:5:"en_US";s:11:"76-IMG_0396
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/77-img_0397.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/77-img_0397.jpg
     title: 77-IMG_0397
@@ -266,7 +266,7 @@ photos:
     title: 87-IMG_0409
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/88-img_0410.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/88-img_0410.jpg
-    title: a:1:{s:5:"en_US";s:11:"88-IMG_0410";}
+    title: a:1:{s:5:"en_US";s:11:"88-IMG_0410
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/89-img_0411.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/06-12-2015-hebden-bridge-barge-cruise/89-img_0411.jpg
     title: 89-IMG_0411

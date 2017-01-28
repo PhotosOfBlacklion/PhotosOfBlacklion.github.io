@@ -140,7 +140,7 @@ photos:
     title: 045-IMG_0069
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/046-img_0070.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/046-img_0070.jpg
-    title: a:1:{s:5:"en_US";s:12:"046-IMG_0070";}
+    title: a:1:{s:5:"en_US";s:12:"046-IMG_0070
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/047-img_0071.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/047-img_0071.jpg
     title: 047-IMG_0071
@@ -563,7 +563,7 @@ photos:
     title: 186-IMG_0228
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/187-img_0229.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/187-img_0229.jpg
-    title: a:1:{s:5:"en_US";s:12:"187-IMG_0229";}
+    title: a:1:{s:5:"en_US";s:12:"187-IMG_0229
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/188-img_0230.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/188-img_0230.jpg
     title: 188-IMG_0230
@@ -677,7 +677,7 @@ photos:
     title: 224-IMG_0269
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/225-img_0270.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/225-img_0270.jpg
-    title: a:1:{s:5:"en_US";s:12:"225-IMG_0270";}
+    title: a:1:{s:5:"en_US";s:12:"225-IMG_0270
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/226-img_0271.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/226-img_0271.jpg
     title: 226-IMG_0271
@@ -764,7 +764,7 @@ photos:
     title: 253-IMG_0309
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/254-img_0310.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/254-img_0310.jpg
-    title: a:1:{s:5:"en_US";s:12:"254-IMG_0310";}
+    title: a:1:{s:5:"en_US";s:12:"254-IMG_0310
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/255-img_0311.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/255-img_0311.jpg
     title: 255-IMG_0311
@@ -809,7 +809,7 @@ photos:
     title: 268-IMG_0324
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/269-img_0325.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/269-img_0325.jpg
-    title: a:1:{s:5:"en_US";s:12:"269-IMG_0325";}
+    title: a:1:{s:5:"en_US";s:12:"269-IMG_0325
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/270-img_0327.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/270-img_0327.jpg
     title: 270-IMG_0327
@@ -857,7 +857,7 @@ photos:
     title: 284-IMG_0342
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/285-img_0343.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/285-img_0343.jpg
-    title: a:1:{s:5:"en_US";s:12:"285-IMG_0343";}
+    title: a:1:{s:5:"en_US";s:12:"285-IMG_0343
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/286-img_0344.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/286-img_0344.jpg
     title: 286-IMG_0344
@@ -905,7 +905,7 @@ photos:
     title: 300-IMG_0362
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/301-img_0364.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/301-img_0364.jpg
-    title: a:1:{s:5:"en_US";s:12:"301-IMG_0364";}
+    title: a:1:{s:5:"en_US";s:12:"301-IMG_0364
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/302-img_0365.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/302-img_0365.jpg
     title: 302-IMG_0365
@@ -1127,7 +1127,7 @@ photos:
     title: 374-IMG_0449
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/375-img_0450.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/375-img_0450.jpg
-    title: a:1:{s:5:"en_US";s:12:"375-IMG_0450";}
+    title: a:1:{s:5:"en_US";s:12:"375-IMG_0450
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/376-img_0451.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/376-img_0451.jpg
     title: 376-IMG_0451
@@ -1142,7 +1142,7 @@ photos:
     title: 379-IMG_0454
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/380-img_0455.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/380-img_0455.jpg
-    title: a:1:{s:5:"en_US";s:12:"380-IMG_0455";}
+    title: a:1:{s:5:"en_US";s:12:"380-IMG_0455
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/381-img_0456.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/381-img_0456.jpg
     title: 381-IMG_0456
@@ -1175,7 +1175,7 @@ photos:
     title: 390-IMG_0467
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/391-img_0468.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/391-img_0468.jpg
-    title: a:1:{s:5:"en_US";s:12:"391-IMG_0468";}
+    title: a:1:{s:5:"en_US";s:12:"391-IMG_0468
   - original: /2014/07/glauchau-germany/12-07-2015-sunday-s-games/392-img_0469.jpg
     thumbnail: /t/2014/07/glauchau-germany/12-07-2015-sunday-s-games/392-img_0469.jpg
     title: 392-IMG_0469

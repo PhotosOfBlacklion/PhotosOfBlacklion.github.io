@@ -200,7 +200,7 @@ photos:
     title: 507-23-09-2014 World Championships in Canoe Polo 626
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/508-23-09-2014-world-championships-in-canoe-polo-627.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/508-23-09-2014-world-championships-in-canoe-polo-627.jpg
-    title: a:1:{s:5:"en_US";s:52:"508-23-09-2014 World Championships in Canoe Polo 627";}
+    title: a:1:{s:5:"en_US";s:52:"508-23-09-2014 World Championships in Canoe Polo 627
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/509-23-09-2014-world-championships-in-canoe-polo-628.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/509-23-09-2014-world-championships-in-canoe-polo-628.jpg
     title: 509-23-09-2014 World Championships in Canoe Polo 628
@@ -302,7 +302,7 @@ photos:
     title: 541-23-09-2014 World Championships in Canoe Polo 662
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/542-23-09-2014-world-championships-in-canoe-polo-663.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/542-23-09-2014-world-championships-in-canoe-polo-663.jpg
-    title: a:1:{s:5:"en_US";s:52:"542-23-09-2014 World Championships in Canoe Polo 663";}
+    title: a:1:{s:5:"en_US";s:52:"542-23-09-2014 World Championships in Canoe Polo 663
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/543-23-09-2014-world-championships-in-canoe-polo-664.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/543-23-09-2014-world-championships-in-canoe-polo-664.jpg
     title: 543-23-09-2014 World Championships in Canoe Polo 664
@@ -338,7 +338,7 @@ photos:
     title: 553-23-09-2014 World Championships in Canoe Polo 674
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/554-23-09-2014-world-championships-in-canoe-polo-675.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/554-23-09-2014-world-championships-in-canoe-polo-675.jpg
-    title: a:1:{s:5:"en_US";s:52:"554-23-09-2014 World Championships in Canoe Polo 675";}
+    title: a:1:{s:5:"en_US";s:52:"554-23-09-2014 World Championships in Canoe Polo 675
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/555-23-09-2014-world-championships-in-canoe-polo-676.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/555-23-09-2014-world-championships-in-canoe-polo-676.jpg
     title: 555-23-09-2014 World Championships in Canoe Polo 676
@@ -476,7 +476,7 @@ photos:
     title: 599-23-09-2014 World Championships in Canoe Polo 720
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/600-23-09-2014-world-championships-in-canoe-polo-721.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/600-23-09-2014-world-championships-in-canoe-polo-721.jpg
-    title: a:1:{s:5:"en_US";s:52:"600-23-09-2014 World Championships in Canoe Polo 721";}
+    title: a:1:{s:5:"en_US";s:52:"600-23-09-2014 World Championships in Canoe Polo 721
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/601-23-09-2014-world-championships-in-canoe-polo-722.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/601-23-09-2014-world-championships-in-canoe-polo-722.jpg
     title: 601-23-09-2014 World Championships in Canoe Polo 722
@@ -515,7 +515,7 @@ photos:
     title: 612-23-09-2014 World Championships in Canoe Polo 734
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/613-23-09-2014-world-championships-in-canoe-polo-735.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/613-23-09-2014-world-championships-in-canoe-polo-735.jpg
-    title: a:1:{s:5:"en_US";s:52:"613-23-09-2014 World Championships in Canoe Polo 735";}
+    title: a:1:{s:5:"en_US";s:52:"613-23-09-2014 World Championships in Canoe Polo 735
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/614-23-09-2014-world-championships-in-canoe-polo-736.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/614-23-09-2014-world-championships-in-canoe-polo-736.jpg
     title: 614-23-09-2014 World Championships in Canoe Polo 736
@@ -644,65 +644,65 @@ photos:
     title: 655-23-09-2014 World Championships in Canoe Polo 788
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/656-23-09-2014-world-championships-in-canoe-polo-789.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/656-23-09-2014-world-championships-in-canoe-polo-789.jpg
-    title: a:1:{s:5:"en_US";s:52:"656-23-09-2014 World Championships in Canoe Polo 789";}
+    title: a:1:{s:5:"en_US";s:52:"656-23-09-2014 World Championships in Canoe Polo 789
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/657-23-09-2014-world-championships-in-canoe-polo-790.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/657-23-09-2014-world-championships-in-canoe-polo-790.jpg
-    title: a:1:{s:5:"en_US";s:52:"657-23-09-2014 World Championships in Canoe Polo 790";}
+    title: a:1:{s:5:"en_US";s:52:"657-23-09-2014 World Championships in Canoe Polo 790
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/658-23-09-2014-world-championships-in-canoe-polo-792.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/658-23-09-2014-world-championships-in-canoe-polo-792.jpg
     title: 658-23-09-2014 World Championships in Canoe Polo 792
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/659-23-09-2014-world-championships-in-canoe-polo-793.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/659-23-09-2014-world-championships-in-canoe-polo-793.jpg
-    title: a:1:{s:5:"en_US";s:52:"659-23-09-2014 World Championships in Canoe Polo 793";}
+    title: a:1:{s:5:"en_US";s:52:"659-23-09-2014 World Championships in Canoe Polo 793
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/660-23-09-2014-world-championships-in-canoe-polo-794.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/660-23-09-2014-world-championships-in-canoe-polo-794.jpg
-    title: a:1:{s:5:"en_US";s:52:"660-23-09-2014 World Championships in Canoe Polo 794";}
+    title: a:1:{s:5:"en_US";s:52:"660-23-09-2014 World Championships in Canoe Polo 794
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/661-23-09-2014-world-championships-in-canoe-polo-795.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/661-23-09-2014-world-championships-in-canoe-polo-795.jpg
-    title: a:1:{s:5:"en_US";s:52:"661-23-09-2014 World Championships in Canoe Polo 795";}
+    title: a:1:{s:5:"en_US";s:52:"661-23-09-2014 World Championships in Canoe Polo 795
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/662-23-09-2014-world-championships-in-canoe-polo-796.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/662-23-09-2014-world-championships-in-canoe-polo-796.jpg
-    title: a:1:{s:5:"en_US";s:52:"662-23-09-2014 World Championships in Canoe Polo 796";}
+    title: a:1:{s:5:"en_US";s:52:"662-23-09-2014 World Championships in Canoe Polo 796
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/663-23-09-2014-world-championships-in-canoe-polo-797.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/663-23-09-2014-world-championships-in-canoe-polo-797.jpg
-    title: a:1:{s:5:"en_US";s:52:"663-23-09-2014 World Championships in Canoe Polo 797";}
+    title: a:1:{s:5:"en_US";s:52:"663-23-09-2014 World Championships in Canoe Polo 797
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/664-23-09-2014-world-championships-in-canoe-polo-798.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/664-23-09-2014-world-championships-in-canoe-polo-798.jpg
-    title: a:1:{s:5:"en_US";s:52:"664-23-09-2014 World Championships in Canoe Polo 798";}
+    title: a:1:{s:5:"en_US";s:52:"664-23-09-2014 World Championships in Canoe Polo 798
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/665-23-09-2014-world-championships-in-canoe-polo-802.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/665-23-09-2014-world-championships-in-canoe-polo-802.jpg
-    title: a:1:{s:5:"en_US";s:52:"665-23-09-2014 World Championships in Canoe Polo 802";}
+    title: a:1:{s:5:"en_US";s:52:"665-23-09-2014 World Championships in Canoe Polo 802
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/666-23-09-2014-world-championships-in-canoe-polo-806.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/666-23-09-2014-world-championships-in-canoe-polo-806.jpg
-    title: a:1:{s:5:"en_US";s:52:"666-23-09-2014 World Championships in Canoe Polo 806";}
+    title: a:1:{s:5:"en_US";s:52:"666-23-09-2014 World Championships in Canoe Polo 806
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/667-23-09-2014-world-championships-in-canoe-polo-807.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/667-23-09-2014-world-championships-in-canoe-polo-807.jpg
-    title: a:1:{s:5:"en_US";s:52:"667-23-09-2014 World Championships in Canoe Polo 807";}
+    title: a:1:{s:5:"en_US";s:52:"667-23-09-2014 World Championships in Canoe Polo 807
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/668-23-09-2014-world-championships-in-canoe-polo-808.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/668-23-09-2014-world-championships-in-canoe-polo-808.jpg
-    title: a:1:{s:5:"en_US";s:52:"668-23-09-2014 World Championships in Canoe Polo 808";}
+    title: a:1:{s:5:"en_US";s:52:"668-23-09-2014 World Championships in Canoe Polo 808
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/669-23-09-2014-world-championships-in-canoe-polo-810.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/669-23-09-2014-world-championships-in-canoe-polo-810.jpg
-    title: a:1:{s:5:"en_US";s:52:"669-23-09-2014 World Championships in Canoe Polo 810";}
+    title: a:1:{s:5:"en_US";s:52:"669-23-09-2014 World Championships in Canoe Polo 810
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/670-23-09-2014-world-championships-in-canoe-polo-812.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/670-23-09-2014-world-championships-in-canoe-polo-812.jpg
-    title: a:1:{s:5:"en_US";s:52:"670-23-09-2014 World Championships in Canoe Polo 812";}
+    title: a:1:{s:5:"en_US";s:52:"670-23-09-2014 World Championships in Canoe Polo 812
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/671-23-09-2014-world-championships-in-canoe-polo-815.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/671-23-09-2014-world-championships-in-canoe-polo-815.jpg
-    title: a:1:{s:5:"en_US";s:52:"671-23-09-2014 World Championships in Canoe Polo 815";}
+    title: a:1:{s:5:"en_US";s:52:"671-23-09-2014 World Championships in Canoe Polo 815
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/672-23-09-2014-world-championships-in-canoe-polo-817.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/672-23-09-2014-world-championships-in-canoe-polo-817.jpg
-    title: a:1:{s:5:"en_US";s:52:"672-23-09-2014 World Championships in Canoe Polo 817";}
+    title: a:1:{s:5:"en_US";s:52:"672-23-09-2014 World Championships in Canoe Polo 817
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/673-23-09-2014-world-championships-in-canoe-polo-818.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/673-23-09-2014-world-championships-in-canoe-polo-818.jpg
-    title: a:1:{s:5:"en_US";s:52:"673-23-09-2014 World Championships in Canoe Polo 818";}
+    title: a:1:{s:5:"en_US";s:52:"673-23-09-2014 World Championships in Canoe Polo 818
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/674-23-09-2014-world-championships-in-canoe-polo-821.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/674-23-09-2014-world-championships-in-canoe-polo-821.jpg
-    title: a:1:{s:5:"en_US";s:52:"674-23-09-2014 World Championships in Canoe Polo 821";}
+    title: a:1:{s:5:"en_US";s:52:"674-23-09-2014 World Championships in Canoe Polo 821
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/675-23-09-2014-world-championships-in-canoe-polo-824.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/675-23-09-2014-world-championships-in-canoe-polo-824.jpg
-    title: a:1:{s:5:"en_US";s:52:"675-23-09-2014 World Championships in Canoe Polo 824";}
+    title: a:1:{s:5:"en_US";s:52:"675-23-09-2014 World Championships in Canoe Polo 824
   - original: /2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/676-23-09-2014-world-championships-in-canoe-polo-825.jpg
     thumbnail: /t/2014/09/tuesday-at-world-championships-in-canoe-polo/in-the-seated-area-at-competition-site/676-23-09-2014-world-championships-in-canoe-polo-825.jpg
-    title: a:1:{s:5:"en_US";s:52:"676-23-09-2014 World Championships in Canoe Polo 825";}
+    title: a:1:{s:5:"en_US";s:52:"676-23-09-2014 World Championships in Canoe Polo 825
 ---

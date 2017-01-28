@@ -248,7 +248,7 @@ photos:
     title: 081-IMG_0101
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/082-img_0102.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/082-img_0102.jpg
-    title: a:1:{s:5:"en_US";s:12:"082-IMG_0102";}
+    title: a:1:{s:5:"en_US";s:12:"082-IMG_0102
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/083-img_0104.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/083-img_0104.jpg
     title: 083-IMG_0104
@@ -263,7 +263,7 @@ photos:
     title: 086-IMG_0107
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/087-img_0108.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/087-img_0108.jpg
-    title: a:1:{s:5:"en_US";s:12:"087-IMG_0108";}
+    title: a:1:{s:5:"en_US";s:12:"087-IMG_0108
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/088-img_0109.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/088-img_0109.jpg
     title: 088-IMG_0109
@@ -281,7 +281,7 @@ photos:
     title: 092-IMG_0113
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/093-img_0115.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/093-img_0115.jpg
-    title: a:1:{s:5:"en_US";s:12:"093-IMG_0115";}
+    title: a:1:{s:5:"en_US";s:12:"093-IMG_0115
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/094-img_0116.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/094-img_0116.jpg
     title: 094-IMG_0116
@@ -323,7 +323,7 @@ photos:
     title: 106-IMG_0128
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/107-img_0129.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/107-img_0129.jpg
-    title: a:1:{s:5:"en_US";s:12:"107-IMG_0129";}
+    title: a:1:{s:5:"en_US";s:12:"107-IMG_0129
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/108-img_0130.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/108-img_0130.jpg
     title: 108-IMG_0130
@@ -341,7 +341,7 @@ photos:
     title: 112-IMG_0134
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/113-img_0135.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/113-img_0135.jpg
-    title: a:1:{s:5:"en_US";s:12:"113-IMG_0135";}
+    title: a:1:{s:5:"en_US";s:12:"113-IMG_0135
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/114-img_0137.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/114-img_0137.jpg
     title: 114-IMG_0137
@@ -398,7 +398,7 @@ photos:
     title: 131-IMG_0159
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/132-img_0160.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/132-img_0160.jpg
-    title: a:1:{s:5:"en_US";s:12:"132-IMG_0160";}
+    title: a:1:{s:5:"en_US";s:12:"132-IMG_0160
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/133-img_0161.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/133-img_0161.jpg
     title: 133-IMG_0161
@@ -422,7 +422,7 @@ photos:
     title: 139-IMG_0173
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/140-img_0174.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/140-img_0174.jpg
-    title: a:1:{s:5:"en_US";s:12:"140-IMG_0174";}
+    title: a:1:{s:5:"en_US";s:12:"140-IMG_0174
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/141-img_0175.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/141-img_0175.jpg
     title: 141-IMG_0175
@@ -440,7 +440,7 @@ photos:
     title: 145-IMG_0179
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/146-img_0180.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/146-img_0180.jpg
-    title: a:1:{s:5:"en_US";s:12:"146-IMG_0180";}
+    title: a:1:{s:5:"en_US";s:12:"146-IMG_0180
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/147-img_0181.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/147-img_0181.jpg
     title: 147-IMG_0181
@@ -458,7 +458,7 @@ photos:
     title: 151-IMG_0185
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/152-img_0186.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/152-img_0186.jpg
-    title: a:1:{s:5:"en_US";s:12:"152-IMG_0186";}
+    title: a:1:{s:5:"en_US";s:12:"152-IMG_0186
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/153-img_0187.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/153-img_0187.jpg
     title: 153-IMG_0187
@@ -473,7 +473,7 @@ photos:
     title: 156-IMG_0190
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/157-img_0191.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/157-img_0191.jpg
-    title: a:1:{s:5:"en_US";s:12:"157-IMG_0191";}
+    title: a:1:{s:5:"en_US";s:12:"157-IMG_0191
   - original: /2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/158-img_0192.jpg
     thumbnail: /t/2015/03/fables-poetry-music-art-workshop-from-cavan-burren-park/158-img_0192.jpg
     title: 158-IMG_0192

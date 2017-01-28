@@ -695,32 +695,32 @@ photos:
     title: 230-IMG_0820
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/231-img_0821.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/231-img_0821.jpg
-    title: a:1:{s:5:"en_US";s:12:"231-IMG_0821";}
+    title: a:1:{s:5:"en_US";s:12:"231-IMG_0821
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/232-img_0823.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/232-img_0823.jpg
-    title: a:1:{s:5:"en_US";s:12:"232-IMG_0823";}
+    title: a:1:{s:5:"en_US";s:12:"232-IMG_0823
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/233-img_0824.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/233-img_0824.jpg
-    title: a:1:{s:5:"en_US";s:12:"233-IMG_0824";}
+    title: a:1:{s:5:"en_US";s:12:"233-IMG_0824
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/234-img_0825.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/234-img_0825.jpg
-    title: a:1:{s:5:"en_US";s:12:"234-IMG_0825";}
+    title: a:1:{s:5:"en_US";s:12:"234-IMG_0825
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/235-img_0828.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/235-img_0828.jpg
-    title: a:1:{s:5:"en_US";s:12:"235-IMG_0828";}
+    title: a:1:{s:5:"en_US";s:12:"235-IMG_0828
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/236-img_0830.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/236-img_0830.jpg
-    title: a:1:{s:5:"en_US";s:12:"236-IMG_0830";}
+    title: a:1:{s:5:"en_US";s:12:"236-IMG_0830
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/237-img_0832.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/237-img_0832.jpg
-    title: a:1:{s:5:"en_US";s:12:"237-IMG_0832";}
+    title: a:1:{s:5:"en_US";s:12:"237-IMG_0832
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/238-img_0833.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/238-img_0833.jpg
-    title: a:1:{s:5:"en_US";s:12:"238-IMG_0833";}
+    title: a:1:{s:5:"en_US";s:12:"238-IMG_0833
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/239-img_0834.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/239-img_0834.jpg
-    title: a:1:{s:5:"en_US";s:12:"239-IMG_0834";}
+    title: a:1:{s:5:"en_US";s:12:"239-IMG_0834
   - original: /2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/240-img_0835.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2017-saturday-part-2/240-img_0835.jpg
-    title: a:1:{s:5:"en_US";s:12:"240-IMG_0835";}
+    title: a:1:{s:5:"en_US";s:12:"240-IMG_0835
 ---

@@ -32,7 +32,7 @@ photos:
     title: 009-IMG_0009
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/010-img_0010.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/010-img_0010.jpg
-    title: a:1:{s:5:"en_US";s:12:"010-IMG_0010";}
+    title: a:1:{s:5:"en_US";s:12:"010-IMG_0010
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/011-img_0011.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/011-img_0011.jpg
     title: 011-IMG_0011
@@ -59,7 +59,7 @@ photos:
     title: 018-IMG_0019
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/019-img_0020.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/019-img_0020.jpg
-    title: a:1:{s:5:"en_US";s:12:"019-IMG_0020";}
+    title: a:1:{s:5:"en_US";s:12:"019-IMG_0020
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/020-img_0021.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/020-img_0021.jpg
     title: 020-IMG_0021
@@ -89,26 +89,26 @@ photos:
     title: 028-IMG_0029
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/029-img_0030.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/029-img_0030.jpg
-    title: a:1:{s:5:"en_US";s:12:"029-IMG_0030";}
+    title: a:1:{s:5:"en_US";s:12:"029-IMG_0030
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/030-img_0031.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/030-img_0031.jpg
-    title: a:1:{s:5:"en_US";s:12:"030-IMG_0031";}
+    title: a:1:{s:5:"en_US";s:12:"030-IMG_0031
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/031-img_0032.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/031-img_0032.jpg
-    title: a:1:{s:5:"en_US";s:12:"031-IMG_0032";}
+    title: a:1:{s:5:"en_US";s:12:"031-IMG_0032
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/032-img_0033.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/032-img_0033.jpg
-    title: a:1:{s:5:"en_US";s:12:"032-IMG_0033";}
+    title: a:1:{s:5:"en_US";s:12:"032-IMG_0033
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/033-img_0034.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/033-img_0034.jpg
-    title: a:1:{s:5:"en_US";s:12:"033-IMG_0034";}
+    title: a:1:{s:5:"en_US";s:12:"033-IMG_0034
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/034-img_0035.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/034-img_0035.jpg
-    title: a:1:{s:5:"en_US";s:12:"034-IMG_0035";}
+    title: a:1:{s:5:"en_US";s:12:"034-IMG_0035
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/035-img_0036.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/035-img_0036.jpg
-    title: a:1:{s:5:"en_US";s:12:"035-IMG_0036";}
+    title: a:1:{s:5:"en_US";s:12:"035-IMG_0036
   - original: /2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/036-img_0037.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/01-09-2016/u21-men-denmark-v-germany/036-img_0037.jpg
-    title: a:1:{s:5:"en_US";s:12:"036-IMG_0037";}
+    title: a:1:{s:5:"en_US";s:12:"036-IMG_0037
 ---

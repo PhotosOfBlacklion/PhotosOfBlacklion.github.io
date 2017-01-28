@@ -308,7 +308,7 @@ photos:
     title: 101-IMG_0187
   - original: /2016/04/shannon-gaels-v-an-drong/102-img_0188.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/102-img_0188.jpg
-    title: a:1:{s:5:"en_US";s:12:"102-IMG_0188";}
+    title: a:1:{s:5:"en_US";s:12:"102-IMG_0188
   - original: /2016/04/shannon-gaels-v-an-drong/103-img_0189.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/103-img_0189.jpg
     title: 103-IMG_0189
@@ -320,13 +320,13 @@ photos:
     title: 105-IMG_0193
   - original: /2016/04/shannon-gaels-v-an-drong/106-img_0195.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/106-img_0195.jpg
-    title: a:1:{s:5:"en_US";s:12:"106-IMG_0195";}
+    title: a:1:{s:5:"en_US";s:12:"106-IMG_0195
   - original: /2016/04/shannon-gaels-v-an-drong/107-img_0198.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/107-img_0198.jpg
     title: 107-IMG_0198
   - original: /2016/04/shannon-gaels-v-an-drong/108-img_0199.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/108-img_0199.jpg
-    title: a:1:{s:5:"en_US";s:12:"108-IMG_0199";}
+    title: a:1:{s:5:"en_US";s:12:"108-IMG_0199
   - original: /2016/04/shannon-gaels-v-an-drong/109-img_0201.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/109-img_0201.jpg
     title: 109-IMG_0201
@@ -338,23 +338,23 @@ photos:
     title: 111-IMG_0208
   - original: /2016/04/shannon-gaels-v-an-drong/112-img_0209.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/112-img_0209.jpg
-    title: a:1:{s:5:"en_US";s:12:"112-IMG_0209";}
+    title: a:1:{s:5:"en_US";s:12:"112-IMG_0209
   - original: /2016/04/shannon-gaels-v-an-drong/113-img_0211.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/113-img_0211.jpg
-    title: a:1:{s:5:"en_US";s:12:"113-IMG_0211";}
+    title: a:1:{s:5:"en_US";s:12:"113-IMG_0211
   - original: /2016/04/shannon-gaels-v-an-drong/114-img_0212.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/114-img_0212.jpg
-    title: a:1:{s:5:"en_US";s:12:"114-IMG_0212";}
+    title: a:1:{s:5:"en_US";s:12:"114-IMG_0212
   - original: /2016/04/shannon-gaels-v-an-drong/115-img_0213.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/115-img_0213.jpg
-    title: a:1:{s:5:"en_US";s:12:"115-IMG_0213";}
+    title: a:1:{s:5:"en_US";s:12:"115-IMG_0213
   - original: /2016/04/shannon-gaels-v-an-drong/116-img_0216.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/116-img_0216.jpg
-    title: a:1:{s:5:"en_US";s:12:"116-IMG_0216";}
+    title: a:1:{s:5:"en_US";s:12:"116-IMG_0216
   - original: /2016/04/shannon-gaels-v-an-drong/117-img_0218.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/117-img_0218.jpg
-    title: a:1:{s:5:"en_US";s:12:"117-IMG_0218";}
+    title: a:1:{s:5:"en_US";s:12:"117-IMG_0218
   - original: /2016/04/shannon-gaels-v-an-drong/118-img_0219.jpg
     thumbnail: /t/2016/04/shannon-gaels-v-an-drong/118-img_0219.jpg
-    title: a:1:{s:5:"en_US";s:12:"118-IMG_0219";}
+    title: a:1:{s:5:"en_US";s:12:"118-IMG_0219
 ---

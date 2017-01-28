@@ -20,7 +20,7 @@ photos:
     title: 05-IMG_0004
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/06-img_0005.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/06-img_0005.jpg
-    title: a:1:{s:5:"en_US";s:11:"06-IMG_0005";}
+    title: a:1:{s:5:"en_US";s:11:"06-IMG_0005
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/07-img_0006.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/07-img_0006.jpg
     title: 07-IMG_0006
@@ -44,7 +44,7 @@ photos:
     title: 11-IMG_0010
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/12-img_0011.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/12-img_0011.jpg
-    title: a:1:{s:5:"en_US";s:11:"12-IMG_0011";}
+    title: a:1:{s:5:"en_US";s:11:"12-IMG_0011
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/13-img_0012.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/13-img_0012.jpg
     title: 13-IMG_0012
@@ -59,13 +59,13 @@ photos:
     title: 16-IMG_0015
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/17-img_0016.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/17-img_0016.jpg
-    title: a:1:{s:5:"en_US";s:11:"17-IMG_0016";}
+    title: a:1:{s:5:"en_US";s:11:"17-IMG_0016
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/18-img_0017.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/18-img_0017.jpg
     title: 18-IMG_0017
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/19-img_0018.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/19-img_0018.jpg
-    title: a:1:{s:5:"en_US";s:11:"19-IMG_0018";}
+    title: a:1:{s:5:"en_US";s:11:"19-IMG_0018
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/20-img_0019.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/20-img_0019.jpg
     title: 20-IMG_0019
@@ -110,7 +110,7 @@ photos:
     title: 33-IMG_0033
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/34-img_0034.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/34-img_0034.jpg
-    title: a:1:{s:5:"en_US";s:11:"34-IMG_0034";}
+    title: a:1:{s:5:"en_US";s:11:"34-IMG_0034
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/35-img_0035.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/35-img_0035.jpg
     title: 35-IMG_0035
@@ -131,7 +131,7 @@ photos:
     title: 40-IMG_0042
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/41-img_0043.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/41-img_0043.jpg
-    title: a:1:{s:5:"en_US";s:11:"41-IMG_0043";}
+    title: a:1:{s:5:"en_US";s:11:"41-IMG_0043
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/42-img_0044.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/42-img_0044.jpg
     title: 42-IMG_0044
@@ -140,7 +140,7 @@ photos:
     title: 43-IMG_0045
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/44-img_0047.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/44-img_0047.jpg
-    title: a:1:{s:5:"en_US";s:11:"44-IMG_0047";}
+    title: a:1:{s:5:"en_US";s:11:"44-IMG_0047
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/45-img_0048.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/45-img_0048.jpg
     title: 45-IMG_0048
@@ -167,10 +167,10 @@ photos:
     title: 52-IMG_0056
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/53-img_0059.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/53-img_0059.jpg
-    title: a:1:{s:5:"en_US";s:11:"53-IMG_0059";}
+    title: a:1:{s:5:"en_US";s:11:"53-IMG_0059
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/54-img_0060.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/54-img_0060.jpg
-    title: a:1:{s:5:"en_US";s:11:"54-IMG_0060";}
+    title: a:1:{s:5:"en_US";s:11:"54-IMG_0060
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/55-img_0062.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/55-img_0062.jpg
     title: 55-IMG_0062
@@ -185,7 +185,7 @@ photos:
     title: 58-IMG_0065
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/59-img_0066.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/59-img_0066.jpg
-    title: a:1:{s:5:"en_US";s:11:"59-IMG_0066";}
+    title: a:1:{s:5:"en_US";s:11:"59-IMG_0066
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/60-img_0067.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/60-img_0067.jpg
     title: 60-IMG_0067
@@ -215,16 +215,16 @@ photos:
     title: 68-IMG_0075
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/69-img_0076.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/69-img_0076.jpg
-    title: a:1:{s:5:"en_US";s:11:"69-IMG_0076";}
+    title: a:1:{s:5:"en_US";s:11:"69-IMG_0076
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/70-img_0077.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/70-img_0077.jpg
     title: 70-IMG_0077
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/71-img_0078.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/71-img_0078.jpg
-    title: a:1:{s:5:"en_US";s:11:"71-IMG_0078";}
+    title: a:1:{s:5:"en_US";s:11:"71-IMG_0078
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/72-img_0079.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/72-img_0079.jpg
-    title: a:1:{s:5:"en_US";s:11:"72-IMG_0079";}
+    title: a:1:{s:5:"en_US";s:11:"72-IMG_0079
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/73-img_0080.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/73-img_0080.jpg
     title: 73-IMG_0080
@@ -236,53 +236,53 @@ photos:
     title: 75-IMG_0082
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/76-img_0083.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/76-img_0083.jpg
-    title: a:1:{s:5:"en_US";s:11:"76-IMG_0083";}
+    title: a:1:{s:5:"en_US";s:11:"76-IMG_0083
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/77-img_0084.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/77-img_0084.jpg
-    title: a:1:{s:5:"en_US";s:11:"77-IMG_0084";}
+    title: a:1:{s:5:"en_US";s:11:"77-IMG_0084
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/78-img_0087.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/78-img_0087.jpg
-    title: a:1:{s:5:"en_US";s:11:"78-IMG_0087";}
+    title: a:1:{s:5:"en_US";s:11:"78-IMG_0087
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/79-img_0089.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/79-img_0089.jpg
-    title: a:1:{s:5:"en_US";s:11:"79-IMG_0089";}
+    title: a:1:{s:5:"en_US";s:11:"79-IMG_0089
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/80-img_0090.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/80-img_0090.jpg
-    title: a:1:{s:5:"en_US";s:11:"80-IMG_0090";}
+    title: a:1:{s:5:"en_US";s:11:"80-IMG_0090
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/81-img_0091.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/81-img_0091.jpg
-    title: a:1:{s:5:"en_US";s:11:"81-IMG_0091";}
+    title: a:1:{s:5:"en_US";s:11:"81-IMG_0091
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/82-img_0092.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/82-img_0092.jpg
-    title: a:1:{s:5:"en_US";s:11:"82-IMG_0092";}
+    title: a:1:{s:5:"en_US";s:11:"82-IMG_0092
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/83-img_0093.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/83-img_0093.jpg
-    title: a:1:{s:5:"en_US";s:11:"83-IMG_0093";}
+    title: a:1:{s:5:"en_US";s:11:"83-IMG_0093
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/84-img_0094.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/84-img_0094.jpg
-    title: a:1:{s:5:"en_US";s:11:"84-IMG_0094";}
+    title: a:1:{s:5:"en_US";s:11:"84-IMG_0094
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/85-img_0095.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/85-img_0095.jpg
-    title: a:1:{s:5:"en_US";s:11:"85-IMG_0095";}
+    title: a:1:{s:5:"en_US";s:11:"85-IMG_0095
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/86 A .jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/86 A .jpg
-    title: a:1:{s:5:"en_US";s:7:"86A-IMG";}
+    title: a:1:{s:5:"en_US";s:7:"86A-IMG
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/86-img_0096.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/86-img_0096.jpg
-    title: a:1:{s:5:"en_US";s:11:"86-IMG_0096";}
+    title: a:1:{s:5:"en_US";s:11:"86-IMG_0096
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/87-img_0100.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/87-img_0100.jpg
-    title: a:1:{s:5:"en_US";s:11:"87-IMG_0100";}
+    title: a:1:{s:5:"en_US";s:11:"87-IMG_0100
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/88-img_0101.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/88-img_0101.jpg
-    title: a:1:{s:5:"en_US";s:11:"88-IMG_0101";}
+    title: a:1:{s:5:"en_US";s:11:"88-IMG_0101
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/89-img_0102.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/89-img_0102.jpg
-    title: a:1:{s:5:"en_US";s:11:"89-IMG_0102";}
+    title: a:1:{s:5:"en_US";s:11:"89-IMG_0102
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/90-img_0103.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/90-img_0103.jpg
-    title: a:1:{s:5:"en_US";s:11:"90-IMG_0103";}
+    title: a:1:{s:5:"en_US";s:11:"90-IMG_0103
   - original: /2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/91-img_0104.jpg
     thumbnail: /t/2015/12/spinning-marathon-in-blacklion-in-aid-of-stop/91-img_0104.jpg
-    title: a:1:{s:5:"en_US";s:11:"91-IMG_0104";}
+    title: a:1:{s:5:"en_US";s:11:"91-IMG_0104
 ---

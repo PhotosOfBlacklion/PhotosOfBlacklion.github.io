@@ -59,34 +59,34 @@ photos:
     title: 018-IMG_0020
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/019-img_0021.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/019-img_0021.jpg
-    title: a:1:{s:5:"en_US";s:12:"019-IMG_0021";}
+    title: a:1:{s:5:"en_US";s:12:"019-IMG_0021
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/020-img_0022.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/020-img_0022.jpg
-    title: a:1:{s:5:"en_US";s:12:"020-IMG_0022";}
+    title: a:1:{s:5:"en_US";s:12:"020-IMG_0022
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/021-img_0023.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/021-img_0023.jpg
-    title: a:1:{s:5:"en_US";s:12:"021-IMG_0023";}
+    title: a:1:{s:5:"en_US";s:12:"021-IMG_0023
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/022-img_0024.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/022-img_0024.jpg
-    title: a:1:{s:5:"en_US";s:12:"022-IMG_0024";}
+    title: a:1:{s:5:"en_US";s:12:"022-IMG_0024
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/023-img_0025.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/023-img_0025.jpg
-    title: a:1:{s:5:"en_US";s:12:"023-IMG_0025";}
+    title: a:1:{s:5:"en_US";s:12:"023-IMG_0025
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/024-img_0026.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/024-img_0026.jpg
-    title: a:1:{s:5:"en_US";s:12:"024-IMG_0026";}
+    title: a:1:{s:5:"en_US";s:12:"024-IMG_0026
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/025-img_0027.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/025-img_0027.jpg
-    title: a:1:{s:5:"en_US";s:12:"025-IMG_0027";}
+    title: a:1:{s:5:"en_US";s:12:"025-IMG_0027
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/026-img_0028.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/026-img_0028.jpg
-    title: a:1:{s:5:"en_US";s:12:"026-IMG_0028";}
+    title: a:1:{s:5:"en_US";s:12:"026-IMG_0028
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/027-img_0029.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/027-img_0029.jpg
-    title: a:1:{s:5:"en_US";s:12:"027-IMG_0029";}
+    title: a:1:{s:5:"en_US";s:12:"027-IMG_0029
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/028-img_0030.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/028-img_0030.jpg
-    title: a:1:{s:5:"en_US";s:12:"028-IMG_0030";}
+    title: a:1:{s:5:"en_US";s:12:"028-IMG_0030
   - original: /2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/1-img_0570.jpg
     thumbnail: /t/2016/08/2016-canoe-polo-world-championships/31-08-2016/senior-men-finland-v-sweden/1-img_0570.jpg
     title: 1-IMG_0570

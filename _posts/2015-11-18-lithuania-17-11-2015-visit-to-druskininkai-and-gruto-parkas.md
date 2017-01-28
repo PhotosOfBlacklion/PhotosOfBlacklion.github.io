@@ -1,6 +1,6 @@
 ---
-title: 17-11-2015 Visit to Druskininkai and Gruto Parkas
-date: 2015-11-18 12:00
+title: Lithuania -- Visit to Druskininkai and Gruto Parkas
+date: 2015-11-17 12:00
 thumbnail: /t/2015/11/lithuania/17-11-2015-visit-to-druskininkai-and-gruto-parkas/001-img_0004.jpg
 photos:
   - original: /2015/11/lithuania/17-11-2015-visit-to-druskininkai-and-gruto-parkas/001-img_0004.jpg

@@ -170,7 +170,7 @@ photos:
     title: 055-IMG_0061
   - original: /2016/09/50th-college-reunion/056-img_0062.jpg
     thumbnail: /t/2016/09/50th-college-reunion/056-img_0062.jpg
-    title: a:1:{s:5:"en_US";s:12:"056-IMG_0062";}
+    title: 056-IMG_0062
   - original: /2016/09/50th-college-reunion/057-img_0064.jpg
     thumbnail: /t/2016/09/50th-college-reunion/057-img_0064.jpg
     title: 057-IMG_0064
@@ -236,7 +236,7 @@ photos:
     title: 077-IMG_0084
   - original: /2016/09/50th-college-reunion/078-img_0085.jpg
     thumbnail: /t/2016/09/50th-college-reunion/078-img_0085.jpg
-    title: a:1:{s:5:"en_US";s:12:"078-IMG_0085";}
+    title: 078-IMG_0085
   - original: /2016/09/50th-college-reunion/079-img_0086.jpg
     thumbnail: /t/2016/09/50th-college-reunion/079-img_0086.jpg
     title: 079-IMG_0086
@@ -494,7 +494,7 @@ photos:
     title: 163-IMG_0204
   - original: /2016/09/50th-college-reunion/164-img_0207.jpg
     thumbnail: /t/2016/09/50th-college-reunion/164-img_0207.jpg
-    title: a:1:{s:5:"en_US";s:12:"164-IMG_0207";}
+    title: 164-IMG_0207
   - original: /2016/09/50th-college-reunion/165-img_0208.jpg
     thumbnail: /t/2016/09/50th-college-reunion/165-img_0208.jpg
     title: 165-IMG_0208
@@ -908,7 +908,7 @@ photos:
     title: 301-IMG_0350
   - original: /2016/09/50th-college-reunion/302-img_0351.jpg
     thumbnail: /t/2016/09/50th-college-reunion/302-img_0351.jpg
-    title: a:1:{s:5:"en_US";s:12:"302-IMG_0351";}
+    title: 302-IMG_0351
   - original: /2016/09/50th-college-reunion/303-img_0352.jpg
     thumbnail: /t/2016/09/50th-college-reunion/303-img_0352.jpg
     title: 303-IMG_0352
@@ -983,7 +983,7 @@ photos:
     title: 326-IMG_0375
   - original: /2016/09/50th-college-reunion/327-img_0376.jpg
     thumbnail: /t/2016/09/50th-college-reunion/327-img_0376.jpg
-    title: a:1:{s:5:"en_US";s:12:"327-IMG_0376";}
+    title: 327-IMG_0376
   - original: /2016/09/50th-college-reunion/328-img_0380.jpg
     thumbnail: /t/2016/09/50th-college-reunion/328-img_0380.jpg
     title: 328-IMG_0380
@@ -992,7 +992,7 @@ photos:
     title: 329-IMG_0382
   - original: /2016/09/50th-college-reunion/330-img_0383.jpg
     thumbnail: /t/2016/09/50th-college-reunion/330-img_0383.jpg
-    title: a:1:{s:5:"en_US";s:12:"330-IMG_0383";}
+    title: 330-IMG_0383
   - original: /2016/09/50th-college-reunion/331-img_0384.jpg
     thumbnail: /t/2016/09/50th-college-reunion/331-img_0384.jpg
     title: 331-IMG_0384
@@ -1031,10 +1031,10 @@ photos:
     title: 342-IMG_0397
   - original: /2016/09/50th-college-reunion/343-img_0398.jpg
     thumbnail: /t/2016/09/50th-college-reunion/343-img_0398.jpg
-    title: a:1:{s:5:"en_US";s:12:"343-IMG_0398";}
+    title: 343-IMG_0398
   - original: /2016/09/50th-college-reunion/344-img_0399.jpg
     thumbnail: /t/2016/09/50th-college-reunion/344-img_0399.jpg
-    title: a:1:{s:5:"en_US";s:12:"344-IMG_0399";}
+    title: 344-IMG_0399
   - original: /2016/09/50th-college-reunion/345-img_0400.jpg
     thumbnail: /t/2016/09/50th-college-reunion/345-img_0400.jpg
     title: 345-IMG_0400
@@ -1100,7 +1100,7 @@ photos:
     title: 365-IMG_0421
   - original: /2016/09/50th-college-reunion/366-img_0422.jpg
     thumbnail: /t/2016/09/50th-college-reunion/366-img_0422.jpg
-    title: a:1:{s:5:"en_US";s:12:"366-IMG_0422";}
+    title: 366-IMG_0422
   - original: /2016/09/50th-college-reunion/367-img_0423.jpg
     thumbnail: /t/2016/09/50th-college-reunion/367-img_0423.jpg
     title: 367-IMG_0423
@@ -1157,7 +1157,7 @@ photos:
     title: 384-IMG_0442
   - original: /2016/09/50th-college-reunion/385-img_0443.jpg
     thumbnail: /t/2016/09/50th-college-reunion/385-img_0443.jpg
-    title: a:1:{s:5:"en_US";s:12:"385-IMG_0443";}
+    title: 385-IMG_0443
   - original: /2016/09/50th-college-reunion/386-img_0444.jpg
     thumbnail: /t/2016/09/50th-college-reunion/386-img_0444.jpg
     title: 386-IMG_0444

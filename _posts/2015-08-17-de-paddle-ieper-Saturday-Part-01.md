@@ -1,5 +1,5 @@
 ---
-title: a1{s5"en_US";s17"Saturday Part 01.";}
+title: a1{s5"en_US";s17"Saturday Part 01.
 date: 2015-08-17 12:00
 thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/001-img_0655.jpg
 photos:
@@ -344,32 +344,32 @@ photos:
     title: 113-IMG_0138
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/114-img_0139.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/114-img_0139.jpg
-    title: a:1:{s:5:"en_US";s:12:"114-IMG_0139";}
+    title: a:1:{s:5:"en_US";s:12:"114-IMG_0139
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/115-img_0140.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/115-img_0140.jpg
-    title: a:1:{s:5:"en_US";s:12:"115-IMG_0140";}
+    title: a:1:{s:5:"en_US";s:12:"115-IMG_0140
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/116-img_0141.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/116-img_0141.jpg
-    title: a:1:{s:5:"en_US";s:12:"116-IMG_0141";}
+    title: a:1:{s:5:"en_US";s:12:"116-IMG_0141
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/117-img_0142.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/117-img_0142.jpg
-    title: a:1:{s:5:"en_US";s:12:"117-IMG_0142";}
+    title: a:1:{s:5:"en_US";s:12:"117-IMG_0142
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/118-img_0143.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/118-img_0143.jpg
-    title: a:1:{s:5:"en_US";s:12:"118-IMG_0143";}
+    title: a:1:{s:5:"en_US";s:12:"118-IMG_0143
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/119-img_0144.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/119-img_0144.jpg
-    title: a:1:{s:5:"en_US";s:12:"119-IMG_0144";}
+    title: a:1:{s:5:"en_US";s:12:"119-IMG_0144
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/120-img_0146.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/120-img_0146.jpg
-    title: a:1:{s:5:"en_US";s:12:"120-IMG_0146";}
+    title: a:1:{s:5:"en_US";s:12:"120-IMG_0146
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/121-img_0147.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/121-img_0147.jpg
-    title: a:1:{s:5:"en_US";s:12:"121-IMG_0147";}
+    title: a:1:{s:5:"en_US";s:12:"121-IMG_0147
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/122-img_0148.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/122-img_0148.jpg
-    title: a:1:{s:5:"en_US";s:12:"122-IMG_0148";}
+    title: a:1:{s:5:"en_US";s:12:"122-IMG_0148
   - original: /2015/08/de-paddle-ieper/Saturday-Part-01/123-img_0151.jpg
     thumbnail: /t/2015/08/de-paddle-ieper/Saturday-Part-01/123-img_0151.jpg
-    title: a:1:{s:5:"en_US";s:12:"123-IMG_0151";}
+    title: a:1:{s:5:"en_US";s:12:"123-IMG_0151
 ---

@@ -716,32 +716,32 @@ photos:
     title: 237-IMG_0289
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/238-img_0291.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/238-img_0291.jpg
-    title: a:1:{s:5:"en_US";s:12:"238-IMG_0291";}
+    title: a:1:{s:5:"en_US";s:12:"238-IMG_0291
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/239-img_0293.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/239-img_0293.jpg
-    title: a:1:{s:5:"en_US";s:12:"239-IMG_0293";}
+    title: a:1:{s:5:"en_US";s:12:"239-IMG_0293
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/240-img_0294.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/240-img_0294.jpg
-    title: a:1:{s:5:"en_US";s:12:"240-IMG_0294";}
+    title: a:1:{s:5:"en_US";s:12:"240-IMG_0294
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/241-img_0295.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/241-img_0295.jpg
-    title: a:1:{s:5:"en_US";s:12:"241-IMG_0295";}
+    title: a:1:{s:5:"en_US";s:12:"241-IMG_0295
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/242-img_0296.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/242-img_0296.jpg
-    title: a:1:{s:5:"en_US";s:12:"242-IMG_0296";}
+    title: a:1:{s:5:"en_US";s:12:"242-IMG_0296
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/243-img_0297.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/243-img_0297.jpg
-    title: a:1:{s:5:"en_US";s:12:"243-IMG_0297";}
+    title: a:1:{s:5:"en_US";s:12:"243-IMG_0297
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/244-img_0298.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/244-img_0298.jpg
-    title: a:1:{s:5:"en_US";s:12:"244-IMG_0298";}
+    title: a:1:{s:5:"en_US";s:12:"244-IMG_0298
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/245-img_0303.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/245-img_0303.jpg
-    title: a:1:{s:5:"en_US";s:12:"245-IMG_0303";}
+    title: a:1:{s:5:"en_US";s:12:"245-IMG_0303
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/246-img_0304.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/246-img_0304.jpg
-    title: a:1:{s:5:"en_US";s:12:"246-IMG_0304";}
+    title: a:1:{s:5:"en_US";s:12:"246-IMG_0304
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/247-img_0305.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/05-12-2015-red-rose-cross-country-league/247-img_0305.jpg
-    title: a:1:{s:5:"en_US";s:12:"247-IMG_0305";}
+    title: a:1:{s:5:"en_US";s:12:"247-IMG_0305
 ---

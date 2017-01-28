@@ -53,7 +53,7 @@ photos:
     title: 016-IMG_1013
   - original: /2015/04/gottigan-germany/017-img_1014.jpg
     thumbnail: /t/2015/04/gottigan-germany/017-img_1014.jpg
-    title: a:1:{s:5:"en_US";s:12:"017-IMG_1014";}
+    title: a:1:{s:5:"en_US";s:12:"017-IMG_1014
   - original: /2015/04/gottigan-germany/018-img_1015.jpg
     thumbnail: /t/2015/04/gottigan-germany/018-img_1015.jpg
     title: 018-IMG_1015
@@ -62,115 +62,115 @@ photos:
     title: 019-IMG_1017
   - original: /2015/04/gottigan-germany/020-img_1018.jpg
     thumbnail: /t/2015/04/gottigan-germany/020-img_1018.jpg
-    title: a:1:{s:5:"en_US";s:12:"020-IMG_1018";}
+    title: a:1:{s:5:"en_US";s:12:"020-IMG_1018
   - original: /2015/04/gottigan-germany/021-img_0001.jpg
     thumbnail: /t/2015/04/gottigan-germany/021-img_0001.jpg
-    title: a:1:{s:5:"en_US";s:12:"021-IMG_0001";}
+    title: a:1:{s:5:"en_US";s:12:"021-IMG_0001
   - original: /2015/04/gottigan-germany/022-img_0002.jpg
     thumbnail: /t/2015/04/gottigan-germany/022-img_0002.jpg
-    title: a:1:{s:5:"en_US";s:12:"022-IMG_0002";}
+    title: a:1:{s:5:"en_US";s:12:"022-IMG_0002
   - original: /2015/04/gottigan-germany/023-img_0004.jpg
     thumbnail: /t/2015/04/gottigan-germany/023-img_0004.jpg
-    title: a:1:{s:5:"en_US";s:12:"023-IMG_0004";}
+    title: a:1:{s:5:"en_US";s:12:"023-IMG_0004
   - original: /2015/04/gottigan-germany/024-img_0005.jpg
     thumbnail: /t/2015/04/gottigan-germany/024-img_0005.jpg
-    title: a:1:{s:5:"en_US";s:12:"024-IMG_0005";}
+    title: a:1:{s:5:"en_US";s:12:"024-IMG_0005
   - original: /2015/04/gottigan-germany/025-img_0006.jpg
     thumbnail: /t/2015/04/gottigan-germany/025-img_0006.jpg
-    title: a:1:{s:5:"en_US";s:12:"025-IMG_0006";}
+    title: a:1:{s:5:"en_US";s:12:"025-IMG_0006
   - original: /2015/04/gottigan-germany/026-img_0007.jpg
     thumbnail: /t/2015/04/gottigan-germany/026-img_0007.jpg
-    title: a:1:{s:5:"en_US";s:12:"026-IMG_0007";}
+    title: a:1:{s:5:"en_US";s:12:"026-IMG_0007
   - original: /2015/04/gottigan-germany/027-img_0008.jpg
     thumbnail: /t/2015/04/gottigan-germany/027-img_0008.jpg
-    title: a:1:{s:5:"en_US";s:12:"027-IMG_0008";}
+    title: a:1:{s:5:"en_US";s:12:"027-IMG_0008
   - original: /2015/04/gottigan-germany/028-img_0009.jpg
     thumbnail: /t/2015/04/gottigan-germany/028-img_0009.jpg
-    title: a:1:{s:5:"en_US";s:12:"028-IMG_0009";}
+    title: a:1:{s:5:"en_US";s:12:"028-IMG_0009
   - original: /2015/04/gottigan-germany/029-img_0011.jpg
     thumbnail: /t/2015/04/gottigan-germany/029-img_0011.jpg
-    title: a:1:{s:5:"en_US";s:12:"029-IMG_0011";}
+    title: a:1:{s:5:"en_US";s:12:"029-IMG_0011
   - original: /2015/04/gottigan-germany/030-img_0012.jpg
     thumbnail: /t/2015/04/gottigan-germany/030-img_0012.jpg
-    title: a:1:{s:5:"en_US";s:12:"030-IMG_0012";}
+    title: a:1:{s:5:"en_US";s:12:"030-IMG_0012
   - original: /2015/04/gottigan-germany/031-img_0013.jpg
     thumbnail: /t/2015/04/gottigan-germany/031-img_0013.jpg
-    title: a:1:{s:5:"en_US";s:12:"031-IMG_0013";}
+    title: a:1:{s:5:"en_US";s:12:"031-IMG_0013
   - original: /2015/04/gottigan-germany/032-img_0014.jpg
     thumbnail: /t/2015/04/gottigan-germany/032-img_0014.jpg
-    title: a:1:{s:5:"en_US";s:12:"032-IMG_0014";}
+    title: a:1:{s:5:"en_US";s:12:"032-IMG_0014
   - original: /2015/04/gottigan-germany/033-img_0015.jpg
     thumbnail: /t/2015/04/gottigan-germany/033-img_0015.jpg
-    title: a:1:{s:5:"en_US";s:12:"033-IMG_0015";}
+    title: a:1:{s:5:"en_US";s:12:"033-IMG_0015
   - original: /2015/04/gottigan-germany/034-img_0016.jpg
     thumbnail: /t/2015/04/gottigan-germany/034-img_0016.jpg
-    title: a:1:{s:5:"en_US";s:12:"034-IMG_0016";}
+    title: a:1:{s:5:"en_US";s:12:"034-IMG_0016
   - original: /2015/04/gottigan-germany/035-img_0017.jpg
     thumbnail: /t/2015/04/gottigan-germany/035-img_0017.jpg
-    title: a:1:{s:5:"en_US";s:12:"035-IMG_0017";}
+    title: a:1:{s:5:"en_US";s:12:"035-IMG_0017
   - original: /2015/04/gottigan-germany/036-img_0018.jpg
     thumbnail: /t/2015/04/gottigan-germany/036-img_0018.jpg
-    title: a:1:{s:5:"en_US";s:12:"036-IMG_0018";}
+    title: a:1:{s:5:"en_US";s:12:"036-IMG_0018
   - original: /2015/04/gottigan-germany/037-img_0019.jpg
     thumbnail: /t/2015/04/gottigan-germany/037-img_0019.jpg
-    title: a:1:{s:5:"en_US";s:12:"037-IMG_0019";}
+    title: a:1:{s:5:"en_US";s:12:"037-IMG_0019
   - original: /2015/04/gottigan-germany/038-img_0021.jpg
     thumbnail: /t/2015/04/gottigan-germany/038-img_0021.jpg
-    title: a:1:{s:5:"en_US";s:12:"038-IMG_0021";}
+    title: a:1:{s:5:"en_US";s:12:"038-IMG_0021
   - original: /2015/04/gottigan-germany/039-img_0022.jpg
     thumbnail: /t/2015/04/gottigan-germany/039-img_0022.jpg
-    title: a:1:{s:5:"en_US";s:12:"039-IMG_0022";}
+    title: a:1:{s:5:"en_US";s:12:"039-IMG_0022
   - original: /2015/04/gottigan-germany/040-img_0023.jpg
     thumbnail: /t/2015/04/gottigan-germany/040-img_0023.jpg
-    title: a:1:{s:5:"en_US";s:12:"040-IMG_0023";}
+    title: a:1:{s:5:"en_US";s:12:"040-IMG_0023
   - original: /2015/04/gottigan-germany/041-img_0024.jpg
     thumbnail: /t/2015/04/gottigan-germany/041-img_0024.jpg
-    title: a:1:{s:5:"en_US";s:12:"041-IMG_0024";}
+    title: a:1:{s:5:"en_US";s:12:"041-IMG_0024
   - original: /2015/04/gottigan-germany/042-img_0025.jpg
     thumbnail: /t/2015/04/gottigan-germany/042-img_0025.jpg
-    title: a:1:{s:5:"en_US";s:12:"042-IMG_0025";}
+    title: a:1:{s:5:"en_US";s:12:"042-IMG_0025
   - original: /2015/04/gottigan-germany/043-img_0026.jpg
     thumbnail: /t/2015/04/gottigan-germany/043-img_0026.jpg
-    title: a:1:{s:5:"en_US";s:12:"043-IMG_0026";}
+    title: a:1:{s:5:"en_US";s:12:"043-IMG_0026
   - original: /2015/04/gottigan-germany/044-img_0027.jpg
     thumbnail: /t/2015/04/gottigan-germany/044-img_0027.jpg
-    title: a:1:{s:5:"en_US";s:12:"044-IMG_0027";}
+    title: a:1:{s:5:"en_US";s:12:"044-IMG_0027
   - original: /2015/04/gottigan-germany/045-img_0028.jpg
     thumbnail: /t/2015/04/gottigan-germany/045-img_0028.jpg
-    title: a:1:{s:5:"en_US";s:12:"045-IMG_0028";}
+    title: a:1:{s:5:"en_US";s:12:"045-IMG_0028
   - original: /2015/04/gottigan-germany/046-img_0029.jpg
     thumbnail: /t/2015/04/gottigan-germany/046-img_0029.jpg
-    title: a:1:{s:5:"en_US";s:12:"046-IMG_0029";}
+    title: a:1:{s:5:"en_US";s:12:"046-IMG_0029
   - original: /2015/04/gottigan-germany/047-img_0030.jpg
     thumbnail: /t/2015/04/gottigan-germany/047-img_0030.jpg
-    title: a:1:{s:5:"en_US";s:12:"047-IMG_0030";}
+    title: a:1:{s:5:"en_US";s:12:"047-IMG_0030
   - original: /2015/04/gottigan-germany/048-img_0031.jpg
     thumbnail: /t/2015/04/gottigan-germany/048-img_0031.jpg
-    title: a:1:{s:5:"en_US";s:12:"048-IMG_0031";}
+    title: a:1:{s:5:"en_US";s:12:"048-IMG_0031
   - original: /2015/04/gottigan-germany/049-img_0033.jpg
     thumbnail: /t/2015/04/gottigan-germany/049-img_0033.jpg
-    title: a:1:{s:5:"en_US";s:12:"049-IMG_0033";}
+    title: a:1:{s:5:"en_US";s:12:"049-IMG_0033
   - original: /2015/04/gottigan-germany/050-img_0034.jpg
     thumbnail: /t/2015/04/gottigan-germany/050-img_0034.jpg
-    title: a:1:{s:5:"en_US";s:12:"050-IMG_0034";}
+    title: a:1:{s:5:"en_US";s:12:"050-IMG_0034
   - original: /2015/04/gottigan-germany/051-img_0035.jpg
     thumbnail: /t/2015/04/gottigan-germany/051-img_0035.jpg
-    title: a:1:{s:5:"en_US";s:12:"051-IMG_0035";}
+    title: a:1:{s:5:"en_US";s:12:"051-IMG_0035
   - original: /2015/04/gottigan-germany/052-img_0036.jpg
     thumbnail: /t/2015/04/gottigan-germany/052-img_0036.jpg
-    title: a:1:{s:5:"en_US";s:12:"052-IMG_0036";}
+    title: a:1:{s:5:"en_US";s:12:"052-IMG_0036
   - original: /2015/04/gottigan-germany/053-img_0037.jpg
     thumbnail: /t/2015/04/gottigan-germany/053-img_0037.jpg
-    title: a:1:{s:5:"en_US";s:12:"053-IMG_0037";}
+    title: a:1:{s:5:"en_US";s:12:"053-IMG_0037
   - original: /2015/04/gottigan-germany/054-img_0040.jpg
     thumbnail: /t/2015/04/gottigan-germany/054-img_0040.jpg
-    title: a:1:{s:5:"en_US";s:12:"054-IMG_0040";}
+    title: a:1:{s:5:"en_US";s:12:"054-IMG_0040
   - original: /2015/04/gottigan-germany/055-img_0041.jpg
     thumbnail: /t/2015/04/gottigan-germany/055-img_0041.jpg
-    title: a:1:{s:5:"en_US";s:12:"055-IMG_0041";}
+    title: a:1:{s:5:"en_US";s:12:"055-IMG_0041
   - original: /2015/04/gottigan-germany/056-img_0042.jpg
     thumbnail: /t/2015/04/gottigan-germany/056-img_0042.jpg
-    title: a:1:{s:5:"en_US";s:12:"056-IMG_0042";}
+    title: a:1:{s:5:"en_US";s:12:"056-IMG_0042
   - original: /2015/04/gottigan-germany/057-img_0043.jpg
     thumbnail: /t/2015/04/gottigan-germany/057-img_0043.jpg
     title: 057-IMG_0043

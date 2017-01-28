@@ -44,7 +44,7 @@ photos:
     title: 013-IMG_0052
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/014-img_0053.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/014-img_0053.jpg
-    title: a:1:{s:5:"en_US";s:12:"014-IMG_0053";}
+    title: a:1:{s:5:"en_US";s:12:"014-IMG_0053
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/015-img_0054.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/015-img_0054.jpg
     title: 015-IMG_0054
@@ -224,7 +224,7 @@ photos:
     title: 073-IMG_0165
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/074-img_0175.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/074-img_0175.jpg
-    title: a:1:{s:5:"en_US";s:12:"074-IMG_0175";}
+    title: a:1:{s:5:"en_US";s:12:"074-IMG_0175
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/075-img_0180.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/075-img_0180.jpg
     title: 075-IMG_0180
@@ -323,7 +323,7 @@ photos:
     title: 106-IMG_0231
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/107-img_0232.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/107-img_0232.jpg
-    title: a:1:{s:5:"en_US";s:12:"107-IMG_0232";}
+    title: a:1:{s:5:"en_US";s:12:"107-IMG_0232
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/108-img_0233.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/108-img_0233.jpg
     title: 108-IMG_0233
@@ -356,7 +356,7 @@ photos:
     title: 117-IMG_0249
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/118-img_0252.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/118-img_0252.jpg
-    title: a:1:{s:5:"en_US";s:12:"118-IMG_0252";}
+    title: a:1:{s:5:"en_US";s:12:"118-IMG_0252
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/119-img_0254.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/119-img_0254.jpg
     title: 119-IMG_0254
@@ -389,7 +389,7 @@ photos:
     title: 128-IMG_0273
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/129-img_0274.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/129-img_0274.jpg
-    title: a:1:{s:5:"en_US";s:12:"129-IMG_0274";}
+    title: a:1:{s:5:"en_US";s:12:"129-IMG_0274
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/130-img_0275.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/130-img_0275.jpg
     title: 130-IMG_0275
@@ -404,7 +404,7 @@ photos:
     title: 133-IMG_0282
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/134-img_0285.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/134-img_0285.jpg
-    title: a:1:{s:5:"en_US";s:12:"134-IMG_0285";}
+    title: a:1:{s:5:"en_US";s:12:"134-IMG_0285
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/135-img_0286.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/135-img_0286.jpg
     title: 135-IMG_0286
@@ -428,10 +428,10 @@ photos:
     title: 141-IMG_0299
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/142-img_0300.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/142-img_0300.jpg
-    title: a:1:{s:5:"en_US";s:12:"142-IMG_0300";}
+    title: a:1:{s:5:"en_US";s:12:"142-IMG_0300
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/143-img_0302.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/143-img_0302.jpg
-    title: a:1:{s:5:"en_US";s:12:"143-IMG_0302";}
+    title: a:1:{s:5:"en_US";s:12:"143-IMG_0302
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/144-img_0305.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/144-img_0305.jpg
     title: 144-IMG_0305
@@ -443,7 +443,7 @@ photos:
     title: 146-IMG_0311
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/147-img_0312.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/147-img_0312.jpg
-    title: a:1:{s:5:"en_US";s:12:"147-IMG_0312";}
+    title: a:1:{s:5:"en_US";s:12:"147-IMG_0312
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/148-img_0314.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/148-img_0314.jpg
     title: 148-IMG_0314
@@ -452,7 +452,7 @@ photos:
     title: 149-IMG_0315
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/150-img_0316.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/150-img_0316.jpg
-    title: a:1:{s:5:"en_US";s:12:"150-IMG_0316";}
+    title: a:1:{s:5:"en_US";s:12:"150-IMG_0316
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/151-img_0318.jpg
     thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/151-img_0318.jpg
     title: 151-IMG_0318

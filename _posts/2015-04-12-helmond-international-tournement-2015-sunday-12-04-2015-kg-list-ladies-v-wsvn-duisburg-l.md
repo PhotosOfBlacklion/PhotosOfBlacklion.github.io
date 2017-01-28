@@ -8,7 +8,7 @@ photos:
     title: 002-IMG_0275
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/003-img_0277.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/003-img_0277.jpg
-    title: a:1:{s:5:"en_US";s:12:"003-IMG_0277";}
+    title: a:1:{s:5:"en_US";s:12:"003-IMG_0277
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/004-img_0278.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/004-img_0278.jpg
     title: 004-IMG_0278
@@ -20,7 +20,7 @@ photos:
     title: 006-IMG_0280
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/007-img_0281.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/007-img_0281.jpg
-    title: a:1:{s:5:"en_US";s:12:"007-IMG_0281";}
+    title: a:1:{s:5:"en_US";s:12:"007-IMG_0281
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/008-img_0282.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/008-img_0282.jpg
     title: 008-IMG_0282
@@ -29,7 +29,7 @@ photos:
     title: 009-IMG_0283
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/009-img_0283.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/009-img_0283.jpg
-    title: a:1:{s:5:"en_US";s:12:"009-IMG_0283";}
+    title: a:1:{s:5:"en_US";s:12:"009-IMG_0283
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/010-img_0284.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/010-img_0284.jpg
     title: 010-IMG_0284
@@ -41,7 +41,7 @@ photos:
     title: 012-IMG_0287
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/013-img_0288.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/013-img_0288.jpg
-    title: a:1:{s:5:"en_US";s:12:"013-IMG_0288";}
+    title: a:1:{s:5:"en_US";s:12:"013-IMG_0288
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/014-img_0289.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/014-img_0289.jpg
     title: 014-IMG_0289
@@ -59,10 +59,10 @@ photos:
     title: 018-IMG_0296
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/019-img_0297.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/019-img_0297.jpg
-    title: a:1:{s:5:"en_US";s:12:"019-IMG_0297";}
+    title: a:1:{s:5:"en_US";s:12:"019-IMG_0297
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/020-img_0298.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/020-img_0298.jpg
-    title: a:1:{s:5:"en_US";s:12:"020-IMG_0298";}
+    title: a:1:{s:5:"en_US";s:12:"020-IMG_0298
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/021-img_0300.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/021-img_0300.jpg
     title: 021-IMG_0300
@@ -77,7 +77,7 @@ photos:
     title: 024-IMG_0306
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/025-img_0308.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/025-img_0308.jpg
-    title: a:1:{s:5:"en_US";s:12:"025-IMG_0308";}
+    title: a:1:{s:5:"en_US";s:12:"025-IMG_0308
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/026-img_0310.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/026-img_0310.jpg
     title: 026-IMG_0310
@@ -98,7 +98,7 @@ photos:
     title: 031-IMG_0317
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/033-img_0321.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/033-img_0321.jpg
-    title: a:1:{s:5:"en_US";s:12:"033-IMG_0321";}
+    title: a:1:{s:5:"en_US";s:12:"033-IMG_0321
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/034-img_0323.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/034-img_0323.jpg
     title: 034-IMG_0323
@@ -122,7 +122,7 @@ photos:
     title: 040-IMG_0330
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/040-img_0330.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/040-img_0330.jpg
-    title: a:1:{s:5:"en_US";s:12:"040-IMG_0330";}
+    title: a:1:{s:5:"en_US";s:12:"040-IMG_0330
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/041-img_0331.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/041-img_0331.jpg
     title: 041-IMG_0331
@@ -146,7 +146,7 @@ photos:
     title: 047-IMG_0338
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/048-img_0339.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/048-img_0339.jpg
-    title: a:1:{s:5:"en_US";s:12:"048-IMG_0339";}
+    title: a:1:{s:5:"en_US";s:12:"048-IMG_0339
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/049-img_0340.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/kg-list-ladies-v-wsvn-duisburg-l/049-img_0340.jpg
     title: 049-IMG_0340

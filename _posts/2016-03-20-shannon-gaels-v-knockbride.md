@@ -74,7 +74,7 @@ photos:
     title: 023-IMG_0034
   - original: /2016/03/shannon-gaels-v-knockbride/024-img_0035.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/024-img_0035.jpg
-    title: a:1:{s:5:"en_US";s:12:"024-IMG_0035";}
+    title: a:1:{s:5:"en_US";s:12:"024-IMG_0035
   - original: /2016/03/shannon-gaels-v-knockbride/025-img_0036.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/025-img_0036.jpg
     title: 025-IMG_0036
@@ -110,7 +110,7 @@ photos:
     title: 035-IMG_0049
   - original: /2016/03/shannon-gaels-v-knockbride/036-img_0050.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/036-img_0050.jpg
-    title: a:1:{s:5:"en_US";s:12:"036-IMG_0050";}
+    title: a:1:{s:5:"en_US";s:12:"036-IMG_0050
   - original: /2016/03/shannon-gaels-v-knockbride/037-img_0054.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/037-img_0054.jpg
     title: 037-IMG_0054
@@ -191,13 +191,13 @@ photos:
     title: 062-IMG_0095
   - original: /2016/03/shannon-gaels-v-knockbride/063-img_0098.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/063-img_0098.jpg
-    title: a:1:{s:5:"en_US";s:12:"063-IMG_0098";}
+    title: a:1:{s:5:"en_US";s:12:"063-IMG_0098
   - original: /2016/03/shannon-gaels-v-knockbride/064-img_0101.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/064-img_0101.jpg
     title: 064-IMG_0101
   - original: /2016/03/shannon-gaels-v-knockbride/065-img_0103.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/065-img_0103.jpg
-    title: a:1:{s:5:"en_US";s:12:"065-IMG_0103";}
+    title: a:1:{s:5:"en_US";s:12:"065-IMG_0103
   - original: /2016/03/shannon-gaels-v-knockbride/066-img_0105.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/066-img_0105.jpg
     title: 066-IMG_0105
@@ -218,7 +218,7 @@ photos:
     title: 071-IMG_0111
   - original: /2016/03/shannon-gaels-v-knockbride/072-img_0113.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/072-img_0113.jpg
-    title: a:1:{s:5:"en_US";s:12:"072-IMG_0113";}
+    title: a:1:{s:5:"en_US";s:12:"072-IMG_0113
   - original: /2016/03/shannon-gaels-v-knockbride/073-img_0116.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/073-img_0116.jpg
     title: 073-IMG_0116
@@ -257,7 +257,7 @@ photos:
     title: 084-IMG_0136
   - original: /2016/03/shannon-gaels-v-knockbride/085-img_0137.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/085-img_0137.jpg
-    title: a:1:{s:5:"en_US";s:12:"085-IMG_0137";}
+    title: a:1:{s:5:"en_US";s:12:"085-IMG_0137
   - original: /2016/03/shannon-gaels-v-knockbride/086-img_0138.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/086-img_0138.jpg
     title: 086-IMG_0138
@@ -368,7 +368,7 @@ photos:
     title: 121-IMG_0187
   - original: /2016/03/shannon-gaels-v-knockbride/122-img_0189.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/122-img_0189.jpg
-    title: a:1:{s:5:"en_US";s:12:"122-IMG_0189";}
+    title: a:1:{s:5:"en_US";s:12:"122-IMG_0189
   - original: /2016/03/shannon-gaels-v-knockbride/123-img_0191.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/123-img_0191.jpg
     title: 123-IMG_0191
@@ -407,7 +407,7 @@ photos:
     title: 134-IMG_0209
   - original: /2016/03/shannon-gaels-v-knockbride/135-img_0212.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/135-img_0212.jpg
-    title: a:1:{s:5:"en_US";s:12:"135-IMG_0212";}
+    title: a:1:{s:5:"en_US";s:12:"135-IMG_0212
   - original: /2016/03/shannon-gaels-v-knockbride/136-img_0214.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/136-img_0214.jpg
     title: 136-IMG_0214
@@ -425,7 +425,7 @@ photos:
     title: 140-IMG_0219
   - original: /2016/03/shannon-gaels-v-knockbride/141-img_0221.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/141-img_0221.jpg
-    title: a:1:{s:5:"en_US";s:12:"141-IMG_0221";}
+    title: a:1:{s:5:"en_US";s:12:"141-IMG_0221
   - original: /2016/03/shannon-gaels-v-knockbride/142-img_0223.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/142-img_0223.jpg
     title: 142-IMG_0223
@@ -500,7 +500,7 @@ photos:
     title: 165-IMG_0264
   - original: /2016/03/shannon-gaels-v-knockbride/166-img_0265.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/166-img_0265.jpg
-    title: a:1:{s:5:"en_US";s:12:"166-IMG_0265";}
+    title: a:1:{s:5:"en_US";s:12:"166-IMG_0265
   - original: /2016/03/shannon-gaels-v-knockbride/167-img_0272.jpg
     thumbnail: /t/2016/03/shannon-gaels-v-knockbride/167-img_0272.jpg
     title: 167-IMG_0272

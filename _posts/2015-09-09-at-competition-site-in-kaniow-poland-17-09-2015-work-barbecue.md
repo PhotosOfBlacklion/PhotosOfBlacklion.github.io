@@ -47,7 +47,7 @@ photos:
     title: 040-IMG_0059
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/041-img_0060.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/041-img_0060.jpg
-    title: a:1:{s:5:"en_US";s:12:"041-IMG_0060";}
+    title: a:1:{s:5:"en_US";s:12:"041-IMG_0060
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/042-img_0061.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/042-img_0061.jpg
     title: 042-IMG_0061
@@ -65,7 +65,7 @@ photos:
     title: 046-IMG_0065
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/047-img_0067.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/047-img_0067.jpg
-    title: a:1:{s:5:"en_US";s:12:"047-IMG_0067";}
+    title: a:1:{s:5:"en_US";s:12:"047-IMG_0067
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/048-img_0069.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/048-img_0069.jpg
     title: 048-IMG_0069
@@ -77,7 +77,7 @@ photos:
     title: 050-IMG_0071
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/051-img_0074.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/051-img_0074.jpg
-    title: a:1:{s:5:"en_US";s:12:"051-IMG_0074";}
+    title: a:1:{s:5:"en_US";s:12:"051-IMG_0074
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/052-img_0075.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/052-img_0075.jpg
     title: 052-IMG_0075
@@ -86,7 +86,7 @@ photos:
     title: 053-IMG_0076
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/054-img_0077.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/054-img_0077.jpg
-    title: a:1:{s:5:"en_US";s:12:"054-IMG_0077";}
+    title: a:1:{s:5:"en_US";s:12:"054-IMG_0077
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/055-img_0078.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/055-img_0078.jpg
     title: 055-IMG_0078
@@ -98,7 +98,7 @@ photos:
     title: 057-IMG_0081
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/058-img_0082.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/058-img_0082.jpg
-    title: a:1:{s:5:"en_US";s:12:"058-IMG_0082";}
+    title: a:1:{s:5:"en_US";s:12:"058-IMG_0082
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/059-img_0083.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/059-img_0083.jpg
     title: 059-IMG_0083
@@ -140,80 +140,80 @@ photos:
     title: 071-IMG_0095
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/072-img_0096.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/072-img_0096.jpg
-    title: a:1:{s:5:"en_US";s:12:"072-IMG_0096";}
+    title: a:1:{s:5:"en_US";s:12:"072-IMG_0096
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/073-img_0097.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/073-img_0097.jpg
     title: 073-IMG_0097
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/074-img_0098.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/074-img_0098.jpg
-    title: a:1:{s:5:"en_US";s:12:"074-IMG_0098";}
+    title: a:1:{s:5:"en_US";s:12:"074-IMG_0098
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/075-img_0099.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/075-img_0099.jpg
-    title: a:1:{s:5:"en_US";s:12:"075-IMG_0099";}
+    title: a:1:{s:5:"en_US";s:12:"075-IMG_0099
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/076-img_0100.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/076-img_0100.jpg
-    title: a:1:{s:5:"en_US";s:12:"076-IMG_0100";}
+    title: a:1:{s:5:"en_US";s:12:"076-IMG_0100
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/077-img_0101.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/077-img_0101.jpg
-    title: a:1:{s:5:"en_US";s:12:"077-IMG_0101";}
+    title: a:1:{s:5:"en_US";s:12:"077-IMG_0101
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/078-img_0102.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/078-img_0102.jpg
-    title: a:1:{s:5:"en_US";s:12:"078-IMG_0102";}
+    title: a:1:{s:5:"en_US";s:12:"078-IMG_0102
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/079-img_0103.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/079-img_0103.jpg
-    title: a:1:{s:5:"en_US";s:12:"079-IMG_0103";}
+    title: a:1:{s:5:"en_US";s:12:"079-IMG_0103
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/080-img_0104.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/080-img_0104.jpg
-    title: a:1:{s:5:"en_US";s:12:"080-IMG_0104";}
+    title: a:1:{s:5:"en_US";s:12:"080-IMG_0104
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/081-img_0105.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/081-img_0105.jpg
-    title: a:1:{s:5:"en_US";s:12:"081-IMG_0105";}
+    title: a:1:{s:5:"en_US";s:12:"081-IMG_0105
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/082-img_0106.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/082-img_0106.jpg
-    title: a:1:{s:5:"en_US";s:12:"082-IMG_0106";}
+    title: a:1:{s:5:"en_US";s:12:"082-IMG_0106
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/083-img_0127.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/083-img_0127.jpg
-    title: a:1:{s:5:"en_US";s:12:"083-IMG_0127";}
+    title: a:1:{s:5:"en_US";s:12:"083-IMG_0127
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/084-img_0129.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/084-img_0129.jpg
-    title: a:1:{s:5:"en_US";s:12:"084-IMG_0129";}
+    title: a:1:{s:5:"en_US";s:12:"084-IMG_0129
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/085-img_0130.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/085-img_0130.jpg
-    title: a:1:{s:5:"en_US";s:12:"085-IMG_0130";}
+    title: a:1:{s:5:"en_US";s:12:"085-IMG_0130
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/086-img_0131.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/086-img_0131.jpg
-    title: a:1:{s:5:"en_US";s:12:"086-IMG_0131";}
+    title: a:1:{s:5:"en_US";s:12:"086-IMG_0131
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/087-img_0132.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/087-img_0132.jpg
-    title: a:1:{s:5:"en_US";s:12:"087-IMG_0132";}
+    title: a:1:{s:5:"en_US";s:12:"087-IMG_0132
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/088-img_0133.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/088-img_0133.jpg
-    title: a:1:{s:5:"en_US";s:12:"088-IMG_0133";}
+    title: a:1:{s:5:"en_US";s:12:"088-IMG_0133
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/089-img_0134.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/089-img_0134.jpg
-    title: a:1:{s:5:"en_US";s:12:"089-IMG_0134";}
+    title: a:1:{s:5:"en_US";s:12:"089-IMG_0134
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/090-img_0135.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/090-img_0135.jpg
-    title: a:1:{s:5:"en_US";s:12:"090-IMG_0135";}
+    title: a:1:{s:5:"en_US";s:12:"090-IMG_0135
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/091-img_0138.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/091-img_0138.jpg
-    title: a:1:{s:5:"en_US";s:12:"091-IMG_0138";}
+    title: a:1:{s:5:"en_US";s:12:"091-IMG_0138
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/092-img_0140.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/092-img_0140.jpg
-    title: a:1:{s:5:"en_US";s:12:"092-IMG_0140";}
+    title: a:1:{s:5:"en_US";s:12:"092-IMG_0140
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/093-img_0142.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/093-img_0142.jpg
-    title: a:1:{s:5:"en_US";s:12:"093-IMG_0142";}
+    title: a:1:{s:5:"en_US";s:12:"093-IMG_0142
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/094-img_0143.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/094-img_0143.jpg
-    title: a:1:{s:5:"en_US";s:12:"094-IMG_0143";}
+    title: a:1:{s:5:"en_US";s:12:"094-IMG_0143
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/095-img_0144.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/095-img_0144.jpg
-    title: a:1:{s:5:"en_US";s:12:"095-IMG_0144";}
+    title: a:1:{s:5:"en_US";s:12:"095-IMG_0144
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/096-img_0145.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/096-img_0145.jpg
-    title: a:1:{s:5:"en_US";s:12:"096-IMG_0145";}
+    title: a:1:{s:5:"en_US";s:12:"096-IMG_0145
   - original: /2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/097-img_0150.jpg
     thumbnail: /t/2015/09/at-competition-site-in-kaniow-poland/17-09-2015-work-barbecue/097-img_0150.jpg
-    title: a:1:{s:5:"en_US";s:12:"097-IMG_0150";}
+    title: a:1:{s:5:"en_US";s:12:"097-IMG_0150
 ---

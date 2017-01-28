@@ -182,7 +182,7 @@ photos:
     title: 059-IMG_0105
   - original: /2015/04/shannon-gaels-v-drung/060-img_0107.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/060-img_0107.jpg
-    title: a:1:{s:5:"en_US";s:12:"060-IMG_0107";}
+    title: a:1:{s:5:"en_US";s:12:"060-IMG_0107
   - original: /2015/04/shannon-gaels-v-drung/061-img_0108.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/061-img_0108.jpg
     title: 061-IMG_0108
@@ -215,7 +215,7 @@ photos:
     title: 070-IMG_0130
   - original: /2015/04/shannon-gaels-v-drung/071-img_0131.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/071-img_0131.jpg
-    title: a:1:{s:5:"en_US";s:12:"071-IMG_0131";}
+    title: a:1:{s:5:"en_US";s:12:"071-IMG_0131
   - original: /2015/04/shannon-gaels-v-drung/072-img_0133.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/072-img_0133.jpg
     title: 072-IMG_0133
@@ -227,7 +227,7 @@ photos:
     title: 074-IMG_0137
   - original: /2015/04/shannon-gaels-v-drung/075-img_0140.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/075-img_0140.jpg
-    title: a:1:{s:5:"en_US";s:12:"075-IMG_0140";}
+    title: a:1:{s:5:"en_US";s:12:"075-IMG_0140
   - original: /2015/04/shannon-gaels-v-drung/076-img_0143.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/076-img_0143.jpg
     title: 076-IMG_0143
@@ -236,13 +236,13 @@ photos:
     title: 077-IMG_0145
   - original: /2015/04/shannon-gaels-v-drung/078-img_0147.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/078-img_0147.jpg
-    title: a:1:{s:5:"en_US";s:12:"078-IMG_0147";}
+    title: a:1:{s:5:"en_US";s:12:"078-IMG_0147
   - original: /2015/04/shannon-gaels-v-drung/079-img_0148.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/079-img_0148.jpg
     title: 079-IMG_0148
   - original: /2015/04/shannon-gaels-v-drung/080-img_0150.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/080-img_0150.jpg
-    title: a:1:{s:5:"en_US";s:12:"080-IMG_0150";}
+    title: a:1:{s:5:"en_US";s:12:"080-IMG_0150
   - original: /2015/04/shannon-gaels-v-drung/081-img_0153.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/081-img_0153.jpg
     title: 081-IMG_0153
@@ -251,7 +251,7 @@ photos:
     title: 082-IMG_0154
   - original: /2015/04/shannon-gaels-v-drung/083-img_0157.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/083-img_0157.jpg
-    title: a:1:{s:5:"en_US";s:12:"083-IMG_0157";}
+    title: a:1:{s:5:"en_US";s:12:"083-IMG_0157
   - original: /2015/04/shannon-gaels-v-drung/084-img_0163.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/084-img_0163.jpg
     title: 084-IMG_0163
@@ -269,7 +269,7 @@ photos:
     title: 088-IMG_0168
   - original: /2015/04/shannon-gaels-v-drung/089-img_0169.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/089-img_0169.jpg
-    title: a:1:{s:5:"en_US";s:12:"089-IMG_0169";}
+    title: a:1:{s:5:"en_US";s:12:"089-IMG_0169
   - original: /2015/04/shannon-gaels-v-drung/090-img_0172.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/090-img_0172.jpg
     title: 090-IMG_0172
@@ -278,7 +278,7 @@ photos:
     title: 091-IMG_0174
   - original: /2015/04/shannon-gaels-v-drung/092-img_0175.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/092-img_0175.jpg
-    title: a:1:{s:5:"en_US";s:12:"092-IMG_0175";}
+    title: a:1:{s:5:"en_US";s:12:"092-IMG_0175
   - original: /2015/04/shannon-gaels-v-drung/093-img_0178.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/093-img_0178.jpg
     title: 093-IMG_0178
@@ -287,7 +287,7 @@ photos:
     title: 094-IMG_0179
   - original: /2015/04/shannon-gaels-v-drung/095-img_0181.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/095-img_0181.jpg
-    title: a:1:{s:5:"en_US";s:12:"095-IMG_0181";}
+    title: a:1:{s:5:"en_US";s:12:"095-IMG_0181
   - original: /2015/04/shannon-gaels-v-drung/096-img_0183.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/096-img_0183.jpg
     title: 096-IMG_0183
@@ -302,7 +302,7 @@ photos:
     title: 099-IMG_0198
   - original: /2015/04/shannon-gaels-v-drung/100-img_0209.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/100-img_0209.jpg
-    title: a:1:{s:5:"en_US";s:12:"100-IMG_0209";}
+    title: a:1:{s:5:"en_US";s:12:"100-IMG_0209
   - original: /2015/04/shannon-gaels-v-drung/101-img_0211.jpg
     thumbnail: /t/2015/04/shannon-gaels-v-drung/101-img_0211.jpg
     title: 101-IMG_0211

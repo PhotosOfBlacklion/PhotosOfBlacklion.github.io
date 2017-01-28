@@ -95,7 +95,7 @@ photos:
     title: 0155-IMG_0174
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0156-img_0175.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0156-img_0175.jpg
-    title: a:1:{s:5:"en_US";s:13:"0156-IMG_0175";}
+    title: 0156-IMG_0175
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0157-img_0176.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0157-img_0176.jpg
     title: 0157-IMG_0176
@@ -122,7 +122,7 @@ photos:
     title: 0164-IMG_0184
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0165-img_0185.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0165-img_0185.jpg
-    title: a:1:{s:5:"en_US";s:13:"0165-IMG_0185";}
+    title: 0165-IMG_0185
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0166-img_0186.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0166-img_0186.jpg
     title: 0166-IMG_0186
@@ -215,7 +215,7 @@ photos:
     title: 0195-IMG_0217
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0196-img_0218.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0196-img_0218.jpg
-    title: a:1:{s:5:"en_US";s:13:"0196-IMG_0218";}
+    title: 0196-IMG_0218
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0197-img_0219.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0197-img_0219.jpg
     title: 0197-IMG_0219
@@ -224,7 +224,7 @@ photos:
     title: 0198-IMG_0221
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0199-img_0222.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0199-img_0222.jpg
-    title: a:1:{s:5:"en_US";s:13:"0199-IMG_0222";}
+    title: 0199-IMG_0222
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0200-img_0223.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0200-img_0223.jpg
     title: 0200-IMG_0223
@@ -239,7 +239,7 @@ photos:
     title: 0203-IMG_0226
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0204-img_0227.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0204-img_0227.jpg
-    title: a:1:{s:5:"en_US";s:13:"0204-IMG_0227";}
+    title: 0204-IMG_0227
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0205-img_0228.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0205-img_0228.jpg
     title: 0205-IMG_0228
@@ -248,7 +248,7 @@ photos:
     title: 0206-IMG_0229
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0207-img_0230.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0207-img_0230.jpg
-    title: a:1:{s:5:"en_US";s:13:"0207-IMG_0230";}
+    title: 0207-IMG_0230
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0208-img_0231.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0208-img_0231.jpg
     title: 0208-IMG_0231
@@ -278,7 +278,7 @@ photos:
     title: 0216-IMG_0291
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0217-img_0292.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0217-img_0292.jpg
-    title: a:1:{s:5:"en_US";s:13:"0217-IMG_0292";}
+    title: 0217-IMG_0292
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0218-img_0293.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0218-img_0293.jpg
     title: 0218-IMG_0293
@@ -296,7 +296,7 @@ photos:
     title: 0222-IMG_0297
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0223-img_0298.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0223-img_0298.jpg
-    title: a:1:{s:5:"en_US";s:13:"0223-IMG_0298";}
+    title: 0223-IMG_0298
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0224-img_0299.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0224-img_0299.jpg
     title: 0224-IMG_0299
@@ -338,11 +338,11 @@ photos:
     title: 0236-IMG_0311
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0237-img_0312.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0237-img_0312.jpg
-    title: a:1:{s:5:"en_US";s:13:"0237-IMG_0312";}
+    title: 0237-IMG_0312
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0238-img_0313.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0238-img_0313.jpg
     title: 0238-IMG_0313
   - original: /2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0239-img_0314.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/03-09-2016/senior-men-denmark-v-new-zealand/0239-img_0314.jpg
-    title: a:1:{s:5:"en_US";s:13:"0239-IMG_0314";}
+    title: 0239-IMG_0314
 ---

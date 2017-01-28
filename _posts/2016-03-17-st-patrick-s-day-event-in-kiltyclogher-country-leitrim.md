@@ -362,7 +362,7 @@ photos:
     title: 119-IMG_0181
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/120-img_0182.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/120-img_0182.jpg
-    title: a:1:{s:5:"en_US";s:12:"120-IMG_0182";}
+    title: a:1:{s:5:"en_US";s:12:"120-IMG_0182
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/121-img_0183.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/121-img_0183.jpg
     title: 121-IMG_0183
@@ -494,7 +494,7 @@ photos:
     title: 163-IMG_0225
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/164-img_0226.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/164-img_0226.jpg
-    title: a:1:{s:5:"en_US";s:12:"164-IMG_0226";}
+    title: a:1:{s:5:"en_US";s:12:"164-IMG_0226
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/165-img_0227.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/165-img_0227.jpg
     title: 165-IMG_0227
@@ -551,7 +551,7 @@ photos:
     title: 182-IMG_0244
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/183-img_0245.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/183-img_0245.jpg
-    title: a:1:{s:5:"en_US";s:12:"183-IMG_0245";}
+    title: a:1:{s:5:"en_US";s:12:"183-IMG_0245
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/184-img_0246.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/184-img_0246.jpg
     title: 184-IMG_0246
@@ -569,7 +569,7 @@ photos:
     title: 188-IMG_0250
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/189-img_0251.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/189-img_0251.jpg
-    title: a:1:{s:5:"en_US";s:12:"189-IMG_0251";}
+    title: a:1:{s:5:"en_US";s:12:"189-IMG_0251
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/190-img_0252.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/190-img_0252.jpg
     title: 190-IMG_0252
@@ -614,7 +614,7 @@ photos:
     title: 203-IMG_0265
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/204-img_0266.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/204-img_0266.jpg
-    title: a:1:{s:5:"en_US";s:12:"204-IMG_0266";}
+    title: a:1:{s:5:"en_US";s:12:"204-IMG_0266
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/205-img_0267.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/205-img_0267.jpg
     title: 205-IMG_0267
@@ -626,7 +626,7 @@ photos:
     title: 207-IMG_0269
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/208-img_0270.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/208-img_0270.jpg
-    title: a:1:{s:5:"en_US";s:12:"208-IMG_0270";}
+    title: a:1:{s:5:"en_US";s:12:"208-IMG_0270
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/209-img_0271.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/209-img_0271.jpg
     title: 209-IMG_0271
@@ -800,13 +800,13 @@ photos:
     title: 265-IMG_0328
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/266-img_0329.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/266-img_0329.jpg
-    title: a:1:{s:5:"en_US";s:12:"266-IMG_0329";}
+    title: a:1:{s:5:"en_US";s:12:"266-IMG_0329
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/267-img_0330.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/267-img_0330.jpg
     title: 267-IMG_0330
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/268-img_0331.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/268-img_0331.jpg
-    title: a:1:{s:5:"en_US";s:12:"268-IMG_0331";}
+    title: a:1:{s:5:"en_US";s:12:"268-IMG_0331
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/269-img_0332.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/269-img_0332.jpg
     title: 269-IMG_0332
@@ -851,7 +851,7 @@ photos:
     title: 282-IMG_0345
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/283-img_0347.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/283-img_0347.jpg
-    title: a:1:{s:5:"en_US";s:12:"283-IMG_0347";}
+    title: a:1:{s:5:"en_US";s:12:"283-IMG_0347
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/284-img_0349.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/284-img_0349.jpg
     title: 284-IMG_0349
@@ -908,7 +908,7 @@ photos:
     title: 301-IMG_0369
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/302-img_0370.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/302-img_0370.jpg
-    title: a:1:{s:5:"en_US";s:12:"302-IMG_0370";}
+    title: a:1:{s:5:"en_US";s:12:"302-IMG_0370
   - original: /2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/303-img_0371.jpg
     thumbnail: /t/2016/03/st-patrick-s-day-event-in-kiltyclogher-country-leitrim/303-img_0371.jpg
     title: 303-IMG_0371

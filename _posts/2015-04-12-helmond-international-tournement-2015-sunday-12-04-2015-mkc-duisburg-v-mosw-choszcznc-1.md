@@ -56,10 +56,10 @@ photos:
     title: 371-IMG_0829
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/372-img_0830.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/372-img_0830.jpg
-    title: a:1:{s:5:"en_US";s:12:"372-IMG_0830";}
+    title: a:1:{s:5:"en_US";s:12:"372-IMG_0830
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/373-img_0831.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/373-img_0831.jpg
-    title: a:1:{s:5:"en_US";s:12:"373-IMG_0831";}
+    title: a:1:{s:5:"en_US";s:12:"373-IMG_0831
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/374-img_0833.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/374-img_0833.jpg
     title: 374-IMG_0833
@@ -83,13 +83,13 @@ photos:
     title: 380-IMG_0842
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/381-img_0845.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/381-img_0845.jpg
-    title: a:1:{s:5:"en_US";s:12:"381-IMG_0845";}
+    title: a:1:{s:5:"en_US";s:12:"381-IMG_0845
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/382-img_0848.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/382-img_0848.jpg
-    title: a:1:{s:5:"en_US";s:12:"382-IMG_0848";}
+    title: a:1:{s:5:"en_US";s:12:"382-IMG_0848
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/383-img_0849.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/383-img_0849.jpg
-    title: a:1:{s:5:"en_US";s:12:"383-IMG_0849";}
+    title: a:1:{s:5:"en_US";s:12:"383-IMG_0849
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/384-img_0850.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/384-img_0850.jpg
     title: 384-IMG_0850
@@ -107,7 +107,7 @@ photos:
     title: 388-IMG_0854
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/389-img_0856.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/389-img_0856.jpg
-    title: a:1:{s:5:"en_US";s:12:"389-IMG_0856";}
+    title: a:1:{s:5:"en_US";s:12:"389-IMG_0856
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/390-img_0861.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/390-img_0861.jpg
     title: 390-IMG_0861
@@ -116,7 +116,7 @@ photos:
     title: 391-IMG_0862
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/392-img_0863.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/392-img_0863.jpg
-    title: a:1:{s:5:"en_US";s:12:"392-IMG_0863";}
+    title: a:1:{s:5:"en_US";s:12:"392-IMG_0863
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/393-img_0865.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/393-img_0865.jpg
     title: 393-IMG_0865
@@ -128,7 +128,7 @@ photos:
     title: 395-IMG_0867
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/396-img_0868.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/396-img_0868.jpg
-    title: a:1:{s:5:"en_US";s:12:"396-IMG_0868";}
+    title: a:1:{s:5:"en_US";s:12:"396-IMG_0868
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/397-img_0870.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/397-img_0870.jpg
     title: 397-IMG_0870
@@ -140,7 +140,7 @@ photos:
     title: 399-IMG_0873
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/400-img_0875.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/400-img_0875.jpg
-    title: a:1:{s:5:"en_US";s:12:"400-IMG_0875";}
+    title: a:1:{s:5:"en_US";s:12:"400-IMG_0875
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/401-img_0880.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/401-img_0880.jpg
     title: 401-IMG_0880
@@ -152,7 +152,7 @@ photos:
     title: 403-IMG_0882
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/404-img_0883.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/404-img_0883.jpg
-    title: a:1:{s:5:"en_US";s:12:"404-IMG_0883";}
+    title: a:1:{s:5:"en_US";s:12:"404-IMG_0883
   - original: /2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/405-img_0887.jpg
     thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/mkc-duisburg-v-mosw-choszcznc-1/405-img_0887.jpg
     title: 405-IMG_0887

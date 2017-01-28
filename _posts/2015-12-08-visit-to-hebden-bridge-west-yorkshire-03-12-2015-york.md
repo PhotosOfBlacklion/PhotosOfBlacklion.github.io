@@ -143,35 +143,35 @@ photos:
     title: 46-IMG_0053
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/47-img_0055.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/47-img_0055.jpg
-    title: a:1:{s:5:"en_US";s:11:"47-IMG_0055";}
+    title: a:1:{s:5:"en_US";s:11:"47-IMG_0055
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/48-img_0056.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/48-img_0056.jpg
     title: 48-IMG_0056
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/49-img_0059.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/49-img_0059.jpg
-    title: a:1:{s:5:"en_US";s:11:"49-IMG_0059";}
+    title: a:1:{s:5:"en_US";s:11:"49-IMG_0059
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/50-img_0060.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/50-img_0060.jpg
-    title: a:1:{s:5:"en_US";s:11:"50-IMG_0060";}
+    title: a:1:{s:5:"en_US";s:11:"50-IMG_0060
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/51-img_0061.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/51-img_0061.jpg
-    title: a:1:{s:5:"en_US";s:11:"51-IMG_0061";}
+    title: a:1:{s:5:"en_US";s:11:"51-IMG_0061
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/52-img_0062.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/52-img_0062.jpg
-    title: a:1:{s:5:"en_US";s:11:"52-IMG_0062";}
+    title: a:1:{s:5:"en_US";s:11:"52-IMG_0062
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/53-img_0063.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/53-img_0063.jpg
-    title: a:1:{s:5:"en_US";s:11:"53-IMG_0063";}
+    title: a:1:{s:5:"en_US";s:11:"53-IMG_0063
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/54-img_0064.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/54-img_0064.jpg
-    title: a:1:{s:5:"en_US";s:11:"54-IMG_0064";}
+    title: a:1:{s:5:"en_US";s:11:"54-IMG_0064
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/55-img_0067.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/55-img_0067.jpg
-    title: a:1:{s:5:"en_US";s:11:"55-IMG_0067";}
+    title: a:1:{s:5:"en_US";s:11:"55-IMG_0067
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/56-img_0069.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/56-img_0069.jpg
-    title: a:1:{s:5:"en_US";s:11:"56-IMG_0069";}
+    title: a:1:{s:5:"en_US";s:11:"56-IMG_0069
   - original: /2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/57-img_0070.jpg
     thumbnail: /t/2015/12/visit-to-hebden-bridge-west-yorkshire/03-12-2015-york/57-img_0070.jpg
-    title: a:1:{s:5:"en_US";s:11:"57-IMG_0070";}
+    title: a:1:{s:5:"en_US";s:11:"57-IMG_0070
 ---

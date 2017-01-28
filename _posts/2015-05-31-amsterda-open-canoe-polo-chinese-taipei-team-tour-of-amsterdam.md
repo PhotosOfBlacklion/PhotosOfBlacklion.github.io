@@ -53,7 +53,7 @@ photos:
     title: 016-IMG_0029
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/017-img_0030.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/017-img_0030.jpg
-    title: a:1:{s:5:"en_US";s:12:"017-IMG_0030";}
+    title: a:1:{s:5:"en_US";s:12:"017-IMG_0030
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/018-img_0031.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/018-img_0031.jpg
     title: 018-IMG_0031
@@ -404,29 +404,29 @@ photos:
     title: 133-IMG_0155
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/134-img_0156.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/134-img_0156.jpg
-    title: a:1:{s:5:"en_US";s:12:"134-IMG_0156";}
+    title: a:1:{s:5:"en_US";s:12:"134-IMG_0156
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/135-img_0157.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/135-img_0157.jpg
-    title: a:1:{s:5:"en_US";s:12:"135-IMG_0157";}
+    title: a:1:{s:5:"en_US";s:12:"135-IMG_0157
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/136-img_0158.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/136-img_0158.jpg
-    title: a:1:{s:5:"en_US";s:12:"136-IMG_0158";}
+    title: a:1:{s:5:"en_US";s:12:"136-IMG_0158
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/137-img_0159.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/137-img_0159.jpg
-    title: a:1:{s:5:"en_US";s:12:"137-IMG_0159";}
+    title: a:1:{s:5:"en_US";s:12:"137-IMG_0159
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/138-img_0160.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/138-img_0160.jpg
-    title: a:1:{s:5:"en_US";s:12:"138-IMG_0160";}
+    title: a:1:{s:5:"en_US";s:12:"138-IMG_0160
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/139-img_0161.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/139-img_0161.jpg
-    title: a:1:{s:5:"en_US";s:12:"139-IMG_0161";}
+    title: a:1:{s:5:"en_US";s:12:"139-IMG_0161
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/140-img_0162.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/140-img_0162.jpg
-    title: a:1:{s:5:"en_US";s:12:"140-IMG_0162";}
+    title: a:1:{s:5:"en_US";s:12:"140-IMG_0162
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/141-img_0164.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/141-img_0164.jpg
-    title: a:1:{s:5:"en_US";s:12:"141-IMG_0164";}
+    title: a:1:{s:5:"en_US";s:12:"141-IMG_0164
   - original: /2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/142-img_0166.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/chinese-taipei-team-tour-of-amsterdam/142-img_0166.jpg
-    title: a:1:{s:5:"en_US";s:12:"142-IMG_0166";}
+    title: a:1:{s:5:"en_US";s:12:"142-IMG_0166
 ---

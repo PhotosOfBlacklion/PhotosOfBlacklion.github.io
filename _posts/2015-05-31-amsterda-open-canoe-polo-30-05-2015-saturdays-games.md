@@ -1133,7 +1133,7 @@ photos:
     title: 356-IMG_0497
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/357-img_0498.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/357-img_0498.jpg
-    title: a:1:{s:5:"en_US";s:12:"357-IMG_0498";}
+    title: a:1:{s:5:"en_US";s:12:"357-IMG_0498
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/358-img_0499.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/358-img_0499.jpg
     title: 358-IMG_0499
@@ -1265,7 +1265,7 @@ photos:
     title: 400-IMG_0562
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/401-img_0566.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/401-img_0566.jpg
-    title: a:1:{s:5:"en_US";s:12:"401-IMG_0566";}
+    title: a:1:{s:5:"en_US";s:12:"401-IMG_0566
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/402-img_0567.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/402-img_0567.jpg
     title: 402-IMG_0567
@@ -1292,7 +1292,7 @@ photos:
     title: 409-IMG_0577
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/410-img_0579.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/410-img_0579.jpg
-    title: a:1:{s:5:"en_US";s:12:"410-IMG_0579";}
+    title: a:1:{s:5:"en_US";s:12:"410-IMG_0579
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/411-img_0580.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/411-img_0580.jpg
     title: 411-IMG_0580
@@ -1307,7 +1307,7 @@ photos:
     title: 414-IMG_0584
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/415-img_0585.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/415-img_0585.jpg
-    title: a:1:{s:5:"en_US";s:12:"415-IMG_0585";}
+    title: a:1:{s:5:"en_US";s:12:"415-IMG_0585
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/416-img_0586.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/416-img_0586.jpg
     title: 416-IMG_0586
@@ -1328,7 +1328,7 @@ photos:
     title: 421-IMG_0591
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/422-img_0592.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/422-img_0592.jpg
-    title: a:1:{s:5:"en_US";s:12:"422-IMG_0592";}
+    title: a:1:{s:5:"en_US";s:12:"422-IMG_0592
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/423-img_0593.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/423-img_0593.jpg
     title: 423-IMG_0593
@@ -1355,7 +1355,7 @@ photos:
     title: 430-IMG_0600
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/431-img_0604.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/431-img_0604.jpg
-    title: a:1:{s:5:"en_US";s:12:"431-IMG_0604";}
+    title: a:1:{s:5:"en_US";s:12:"431-IMG_0604
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/432-img_0605.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/432-img_0605.jpg
     title: 432-IMG_0605
@@ -1385,13 +1385,13 @@ photos:
     title: 440-IMG_0614
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/441-img_0615.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/441-img_0615.jpg
-    title: a:1:{s:5:"en_US";s:12:"441-IMG_0615";}
+    title: a:1:{s:5:"en_US";s:12:"441-IMG_0615
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/442-img_0616.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/442-img_0616.jpg
     title: 442-IMG_0616
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/443-img_0617.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/443-img_0617.jpg
-    title: a:1:{s:5:"en_US";s:12:"443-IMG_0617";}
+    title: a:1:{s:5:"en_US";s:12:"443-IMG_0617
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/444-img_0618.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/444-img_0618.jpg
     title: 444-IMG_0618
@@ -1403,7 +1403,7 @@ photos:
     title: 446-IMG_0620
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/447-img_0621.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/447-img_0621.jpg
-    title: a:1:{s:5:"en_US";s:12:"447-IMG_0621";}
+    title: a:1:{s:5:"en_US";s:12:"447-IMG_0621
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/448-img_0622.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/448-img_0622.jpg
     title: 448-IMG_0622
@@ -1610,7 +1610,7 @@ photos:
     title: 515-IMG_0706
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/516-img_0707.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/516-img_0707.jpg
-    title: a:1:{s:5:"en_US";s:12:"516-IMG_0707";}
+    title: a:1:{s:5:"en_US";s:12:"516-IMG_0707
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/517-img_0708.jpg
     thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/517-img_0708.jpg
     title: 517-IMG_0708

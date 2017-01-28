@@ -104,7 +104,7 @@ photos:
     title: 032-IMG_0043
   - original: /2015/09/on-way-to-club-championships-in-poland/033-img_0044.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/033-img_0044.jpg
-    title: a:1:{s:5:"en_US";s:12:"033-IMG_0044";}
+    title: a:1:{s:5:"en_US";s:12:"033-IMG_0044
   - original: /2015/09/on-way-to-club-championships-in-poland/034-img_0045.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/034-img_0045.jpg
     title: 034-IMG_0045
@@ -119,7 +119,7 @@ photos:
     title: 037-IMG_0049
   - original: /2015/09/on-way-to-club-championships-in-poland/038-img_0050.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/038-img_0050.jpg
-    title: a:1:{s:5:"en_US";s:12:"038-IMG_0050";}
+    title: a:1:{s:5:"en_US";s:12:"038-IMG_0050
   - original: /2015/09/on-way-to-club-championships-in-poland/039-img_0051.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/039-img_0051.jpg
     title: 039-IMG_0051
@@ -188,13 +188,13 @@ photos:
     title: 060-IMG_0074
   - original: /2015/09/on-way-to-club-championships-in-poland/061-img_0075.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/061-img_0075.jpg
-    title: a:1:{s:5:"en_US";s:12:"061-IMG_0075";}
+    title: a:1:{s:5:"en_US";s:12:"061-IMG_0075
   - original: /2015/09/on-way-to-club-championships-in-poland/062-img_0076.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/062-img_0076.jpg
-    title: a:1:{s:5:"en_US";s:12:"062-IMG_0076";}
+    title: a:1:{s:5:"en_US";s:12:"062-IMG_0076
   - original: /2015/09/on-way-to-club-championships-in-poland/063-img_0077.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/063-img_0077.jpg
-    title: a:1:{s:5:"en_US";s:12:"063-IMG_0077";}
+    title: a:1:{s:5:"en_US";s:12:"063-IMG_0077
   - original: /2015/09/on-way-to-club-championships-in-poland/064-img_0078.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/064-img_0078.jpg
     title: 064-IMG_0078
@@ -245,7 +245,7 @@ photos:
     title: 079-IMG_0093
   - original: /2015/09/on-way-to-club-championships-in-poland/080-img_0094.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/080-img_0094.jpg
-    title: a:1:{s:5:"en_US";s:12:"080-IMG_0094";}
+    title: a:1:{s:5:"en_US";s:12:"080-IMG_0094
   - original: /2015/09/on-way-to-club-championships-in-poland/081-img_0095.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/081-img_0095.jpg
     title: 081-IMG_0095
@@ -290,16 +290,16 @@ photos:
     title: 094-IMG_0109
   - original: /2015/09/on-way-to-club-championships-in-poland/095-img_0110.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/095-img_0110.jpg
-    title: a:1:{s:5:"en_US";s:12:"095-IMG_0110";}
+    title: a:1:{s:5:"en_US";s:12:"095-IMG_0110
   - original: /2015/09/on-way-to-club-championships-in-poland/096-img_0111.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/096-img_0111.jpg
-    title: a:1:{s:5:"en_US";s:12:"096-IMG_0111";}
+    title: a:1:{s:5:"en_US";s:12:"096-IMG_0111
   - original: /2015/09/on-way-to-club-championships-in-poland/097-img_0112.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/097-img_0112.jpg
-    title: a:1:{s:5:"en_US";s:12:"097-IMG_0112";}
+    title: a:1:{s:5:"en_US";s:12:"097-IMG_0112
   - original: /2015/09/on-way-to-club-championships-in-poland/098-img_0113.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/098-img_0113.jpg
-    title: a:1:{s:5:"en_US";s:12:"098-IMG_0113";}
+    title: a:1:{s:5:"en_US";s:12:"098-IMG_0113
   - original: /2015/09/on-way-to-club-championships-in-poland/099-img_0114.jpg
     thumbnail: /t/2015/09/on-way-to-club-championships-in-poland/099-img_0114.jpg
     title: 099-IMG_0114

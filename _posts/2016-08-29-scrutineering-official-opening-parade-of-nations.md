@@ -116,7 +116,7 @@ photos:
     title: 097-IMG_0499
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/098-img_0500.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/098-img_0500.jpg
-    title: a:1:{s:5:"en_US";s:12:"098-IMG_0500";}
+    title: a:1:{s:5:"en_US";s:12:"098-IMG_0500
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/099-img_0501.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/099-img_0501.jpg
     title: 099-IMG_0501
@@ -803,7 +803,7 @@ photos:
     title: 326-IMG_0730
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/327-img_0731.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/327-img_0731.jpg
-    title: a:1:{s:5:"en_US";s:12:"327-IMG_0731";}
+    title: a:1:{s:5:"en_US";s:12:"327-IMG_0731
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/328-img_0732.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/328-img_0732.jpg
     title: 328-IMG_0732
@@ -974,7 +974,7 @@ photos:
     title: 383-IMG_0790
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/384-img_0791.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/384-img_0791.jpg
-    title: a:1:{s:5:"en_US";s:12:"384-IMG_0791";}
+    title: a:1:{s:5:"en_US";s:12:"384-IMG_0791
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/385-img_0793.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/385-img_0793.jpg
     title: 385-IMG_0793
@@ -1289,10 +1289,10 @@ photos:
     title: 488-IMG_0908
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/489-img_0909.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/489-img_0909.jpg
-    title: a:1:{s:5:"en_US";s:12:"489-IMG_0909";}
+    title: a:1:{s:5:"en_US";s:12:"489-IMG_0909
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/490-img_0910.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/490-img_0910.jpg
-    title: a:1:{s:5:"en_US";s:12:"490-IMG_0910";}
+    title: a:1:{s:5:"en_US";s:12:"490-IMG_0910
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/491-img_0911.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/491-img_0911.jpg
     title: 491-IMG_0911
@@ -1334,10 +1334,10 @@ photos:
     title: 503-IMG_0923
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/504-img_0924.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/504-img_0924.jpg
-    title: a:1:{s:5:"en_US";s:12:"504-IMG_0924";}
+    title: a:1:{s:5:"en_US";s:12:"504-IMG_0924
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/505-img_0925.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/505-img_0925.jpg
-    title: a:1:{s:5:"en_US";s:12:"505-IMG_0925";}
+    title: a:1:{s:5:"en_US";s:12:"505-IMG_0925
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/506-img_0926.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/506-img_0926.jpg
     title: 506-IMG_0926
@@ -1379,10 +1379,10 @@ photos:
     title: 518-IMG_0939
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/519-img_0940.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/519-img_0940.jpg
-    title: a:1:{s:5:"en_US";s:12:"519-IMG_0940";}
+    title: a:1:{s:5:"en_US";s:12:"519-IMG_0940
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/520-img_0941.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/520-img_0941.jpg
-    title: a:1:{s:5:"en_US";s:12:"520-IMG_0941";}
+    title: a:1:{s:5:"en_US";s:12:"520-IMG_0941
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/521-img_0942.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/521-img_0942.jpg
     title: 521-IMG_0942
@@ -1421,7 +1421,7 @@ photos:
     title: 532-IMG_0969
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/533-img_0970.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/533-img_0970.jpg
-    title: a:1:{s:5:"en_US";s:12:"533-IMG_0970";}
+    title: a:1:{s:5:"en_US";s:12:"533-IMG_0970
   - original: /2016/08/scrutineering/official-opening-parade-of-nations/534-img_0971.jpg
     thumbnail: /t/2016/08/scrutineering/official-opening-parade-of-nations/534-img_0971.jpg
     title: 534-IMG_0971

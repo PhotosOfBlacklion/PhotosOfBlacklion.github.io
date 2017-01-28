@@ -116,7 +116,7 @@ photos:
     title: 272-IMG_0501
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/273-img_0504.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/273-img_0504.jpg
-    title: a:1:{s:5:"en_US";s:12:"273-IMG_0504";}
+    title: a:1:{s:5:"en_US";s:12:"273-IMG_0504
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/274-img_0506.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/274-img_0506.jpg
     title: 274-IMG_0506
@@ -158,7 +158,7 @@ photos:
     title: 286-IMG_0552
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/287-img_0553.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/287-img_0553.jpg
-    title: a:1:{s:5:"en_US";s:12:"287-IMG_0553";}
+    title: a:1:{s:5:"en_US";s:12:"287-IMG_0553
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/288-img_0557.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/288-img_0557.jpg
     title: 288-IMG_0557
@@ -203,7 +203,7 @@ photos:
     title: 301-IMG_0582
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/302-img_0583.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/302-img_0583.jpg
-    title: a:1:{s:5:"en_US";s:12:"302-IMG_0583";}
+    title: a:1:{s:5:"en_US";s:12:"302-IMG_0583
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/303-img_0584.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/303-img_0584.jpg
     title: 303-IMG_0584
@@ -221,7 +221,7 @@ photos:
     title: 307-IMG_0589
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/308-img_0590.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/308-img_0590.jpg
-    title: a:1:{s:5:"en_US";s:12:"308-IMG_0590";}
+    title: a:1:{s:5:"en_US";s:12:"308-IMG_0590
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/309-img_0592.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/309-img_0592.jpg
     title: 309-IMG_0592
@@ -233,10 +233,10 @@ photos:
     title: 311-IMG_0596
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/312-img_0598.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/312-img_0598.jpg
-    title: a:1:{s:5:"en_US";s:12:"312-IMG_0598";}
+    title: a:1:{s:5:"en_US";s:12:"312-IMG_0598
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/313-img_0599.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/313-img_0599.jpg
-    title: a:1:{s:5:"en_US";s:12:"313-IMG_0599";}
+    title: a:1:{s:5:"en_US";s:12:"313-IMG_0599
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/314-img_0600.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/314-img_0600.jpg
     title: 314-IMG_0600
@@ -251,16 +251,16 @@ photos:
     title: 317-IMG_0605
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/318-img_0606.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/318-img_0606.jpg
-    title: a:1:{s:5:"en_US";s:12:"318-IMG_0606";}
+    title: a:1:{s:5:"en_US";s:12:"318-IMG_0606
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/319-img_0607.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/319-img_0607.jpg
     title: 319-IMG_0607
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/320-img_0608.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/320-img_0608.jpg
-    title: a:1:{s:5:"en_US";s:12:"320-IMG_0608";}
+    title: a:1:{s:5:"en_US";s:12:"320-IMG_0608
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/321-img_0613.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/321-img_0613.jpg
-    title: a:1:{s:5:"en_US";s:12:"321-IMG_0613";}
+    title: a:1:{s:5:"en_US";s:12:"321-IMG_0613
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/322-img_0614.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/322-img_0614.jpg
     title: 322-IMG_0614
@@ -269,61 +269,61 @@ photos:
     title: 323-IMG_0615
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/324-img_0616.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/324-img_0616.jpg
-    title: a:1:{s:5:"en_US";s:12:"324-IMG_0616";}
+    title: a:1:{s:5:"en_US";s:12:"324-IMG_0616
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/325-img_0618.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/325-img_0618.jpg
-    title: a:1:{s:5:"en_US";s:12:"325-IMG_0618";}
+    title: a:1:{s:5:"en_US";s:12:"325-IMG_0618
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/326-img_0619.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/326-img_0619.jpg
     title: 326-IMG_0619
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/327-img_0620.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/327-img_0620.jpg
-    title: a:1:{s:5:"en_US";s:12:"327-IMG_0620";}
+    title: a:1:{s:5:"en_US";s:12:"327-IMG_0620
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/328-img_0623.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/328-img_0623.jpg
     title: 328-IMG_0623
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/329-img_0624.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/329-img_0624.jpg
-    title: a:1:{s:5:"en_US";s:12:"329-IMG_0624";}
+    title: a:1:{s:5:"en_US";s:12:"329-IMG_0624
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/330-img_0625.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/330-img_0625.jpg
     title: 330-IMG_0625
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/331-img_0630.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/331-img_0630.jpg
-    title: a:1:{s:5:"en_US";s:12:"331-IMG_0630";}
+    title: a:1:{s:5:"en_US";s:12:"331-IMG_0630
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/332-img_0633.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/332-img_0633.jpg
-    title: a:1:{s:5:"en_US";s:12:"332-IMG_0633";}
+    title: a:1:{s:5:"en_US";s:12:"332-IMG_0633
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/333-img_0634.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/333-img_0634.jpg
-    title: a:1:{s:5:"en_US";s:12:"333-IMG_0634";}
+    title: a:1:{s:5:"en_US";s:12:"333-IMG_0634
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/334-img_0640.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/334-img_0640.jpg
     title: 334-IMG_0640
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/335-img_0641.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/335-img_0641.jpg
-    title: a:1:{s:5:"en_US";s:12:"335-IMG_0641";}
+    title: a:1:{s:5:"en_US";s:12:"335-IMG_0641
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/336-img_0647.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/336-img_0647.jpg
-    title: a:1:{s:5:"en_US";s:12:"336-IMG_0647";}
+    title: a:1:{s:5:"en_US";s:12:"336-IMG_0647
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/337-img_0651.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/337-img_0651.jpg
-    title: a:1:{s:5:"en_US";s:12:"337-IMG_0651";}
+    title: a:1:{s:5:"en_US";s:12:"337-IMG_0651
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/338-img_0655.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/338-img_0655.jpg
-    title: a:1:{s:5:"en_US";s:12:"338-IMG_0655";}
+    title: a:1:{s:5:"en_US";s:12:"338-IMG_0655
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/339-img_0656.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/339-img_0656.jpg
     title: 339-IMG_0656
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/340-img_0657.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/340-img_0657.jpg
-    title: a:1:{s:5:"en_US";s:12:"340-IMG_0657";}
+    title: a:1:{s:5:"en_US";s:12:"340-IMG_0657
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/341-img_0662.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/341-img_0662.jpg
     title: 341-IMG_0662
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/342-img_0670.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/342-img_0670.jpg
-    title: a:1:{s:5:"en_US";s:12:"342-IMG_0670";}
+    title: a:1:{s:5:"en_US";s:12:"342-IMG_0670
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/343-img_0671.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/343-img_0671.jpg
     title: 343-IMG_0671
@@ -335,34 +335,34 @@ photos:
     title: 345-IMG_0673
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/346-img_0676.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/346-img_0676.jpg
-    title: a:1:{s:5:"en_US";s:12:"346-IMG_0676";}
+    title: a:1:{s:5:"en_US";s:12:"346-IMG_0676
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/347-img_0683.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/347-img_0683.jpg
     title: 347-IMG_0683
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/348-img_0685.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/348-img_0685.jpg
-    title: a:1:{s:5:"en_US";s:12:"348-IMG_0685";}
+    title: a:1:{s:5:"en_US";s:12:"348-IMG_0685
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/349-img_0686.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/349-img_0686.jpg
-    title: a:1:{s:5:"en_US";s:12:"349-IMG_0686";}
+    title: a:1:{s:5:"en_US";s:12:"349-IMG_0686
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/350-img_0688.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/350-img_0688.jpg
-    title: a:1:{s:5:"en_US";s:12:"350-IMG_0688";}
+    title: a:1:{s:5:"en_US";s:12:"350-IMG_0688
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/351-img_0690.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/351-img_0690.jpg
-    title: a:1:{s:5:"en_US";s:12:"351-IMG_0690";}
+    title: a:1:{s:5:"en_US";s:12:"351-IMG_0690
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/352-img_0691.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/352-img_0691.jpg
-    title: a:1:{s:5:"en_US";s:12:"352-IMG_0691";}
+    title: a:1:{s:5:"en_US";s:12:"352-IMG_0691
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/353-img_0694.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/353-img_0694.jpg
     title: 353-IMG_0694
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/354-img_0696.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/354-img_0696.jpg
-    title: a:1:{s:5:"en_US";s:12:"354-IMG_0696";}
+    title: a:1:{s:5:"en_US";s:12:"354-IMG_0696
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/355-img_0697.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/355-img_0697.jpg
-    title: a:1:{s:5:"en_US";s:12:"355-IMG_0697";}
+    title: a:1:{s:5:"en_US";s:12:"355-IMG_0697
   - original: /2015/07/shannon-gaels-v-mountnugent/second-half/356-img_0703.jpg
     thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/second-half/356-img_0703.jpg
     title: 356-IMG_0703

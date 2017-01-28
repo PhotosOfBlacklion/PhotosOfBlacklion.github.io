@@ -1,5 +1,5 @@
 ---
-title: 19-11-2015 U16 Girls County Final Drumlane V Lurgan
+title: U16 Girls County Final Drumlane V Lurgan
 date: 2015-11-19 12:00
 thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/001-img_0261.jpg
 photos:
@@ -32,7 +32,7 @@ photos:
     title: 009-IMG_0259
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/010-img_0007.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/010-img_0007.jpg
-    title: a:1:{s:5:"en_US";s:12:"010-IMG_0007";}
+    title: a:1:{s:5:"en_US";s:12:"010-IMG_0007
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/011-img_0009.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/011-img_0009.jpg
     title: 011-IMG_0009
@@ -80,10 +80,10 @@ photos:
     title: 025-IMG_0050
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/026-img_0051.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/026-img_0051.jpg
-    title: a:1:{s:5:"en_US";s:12:"026-IMG_0051";}
+    title: a:1:{s:5:"en_US";s:12:"026-IMG_0051
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/027-img_0052.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/027-img_0052.jpg
-    title: a:1:{s:5:"en_US";s:12:"027-IMG_0052";}
+    title: a:1:{s:5:"en_US";s:12:"027-IMG_0052
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/028-img_0053.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/028-img_0053.jpg
     title: 028-IMG_0053
@@ -95,10 +95,10 @@ photos:
     title: 030-IMG_0057
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/031-img_0058.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/031-img_0058.jpg
-    title: a:1:{s:5:"en_US";s:12:"031-IMG_0058";}
+    title: a:1:{s:5:"en_US";s:12:"031-IMG_0058
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/032-img_0061.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/032-img_0061.jpg
-    title: a:1:{s:5:"en_US";s:12:"032-IMG_0061";}
+    title: a:1:{s:5:"en_US";s:12:"032-IMG_0061
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/033-img_0062.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/033-img_0062.jpg
     title: 033-IMG_0062
@@ -116,7 +116,7 @@ photos:
     title: 037-IMG_0075
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/038-img_0076.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/038-img_0076.jpg
-    title: a:1:{s:5:"en_US";s:12:"038-IMG_0076";}
+    title: a:1:{s:5:"en_US";s:12:"038-IMG_0076
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/039-img_0077.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/039-img_0077.jpg
     title: 039-IMG_0077
@@ -170,10 +170,10 @@ photos:
     title: 055-IMG_0098
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/056-img_0102.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/056-img_0102.jpg
-    title: a:1:{s:5:"en_US";s:12:"056-IMG_0102";}
+    title: a:1:{s:5:"en_US";s:12:"056-IMG_0102
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/057-img_0103.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/057-img_0103.jpg
-    title: a:1:{s:5:"en_US";s:12:"057-IMG_0103";}
+    title: a:1:{s:5:"en_US";s:12:"057-IMG_0103
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/058-img_0105.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/058-img_0105.jpg
     title: 058-IMG_0105
@@ -206,7 +206,7 @@ photos:
     title: 067-IMG_0117
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/068-img_0118.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/068-img_0118.jpg
-    title: a:1:{s:5:"en_US";s:12:"068-IMG_0118";}
+    title: a:1:{s:5:"en_US";s:12:"068-IMG_0118
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/069-img_0125.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/069-img_0125.jpg
     title: 069-IMG_0125
@@ -245,10 +245,10 @@ photos:
     title: 080-IMG_0145
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/081-img_0146.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/081-img_0146.jpg
-    title: a:1:{s:5:"en_US";s:12:"081-IMG_0146";}
+    title: a:1:{s:5:"en_US";s:12:"081-IMG_0146
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/082-img_0148.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/082-img_0148.jpg
-    title: a:1:{s:5:"en_US";s:12:"082-IMG_0148";}
+    title: a:1:{s:5:"en_US";s:12:"082-IMG_0148
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/083-img_0149.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/083-img_0149.jpg
     title: 083-IMG_0149
@@ -275,7 +275,7 @@ photos:
     title: 090-IMG_0163
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/091-img_0165.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/091-img_0165.jpg
-    title: a:1:{s:5:"en_US";s:12:"091-IMG_0165";}
+    title: a:1:{s:5:"en_US";s:12:"091-IMG_0165
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/092-img_0168.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/092-img_0168.jpg
     title: 092-IMG_0168
@@ -302,13 +302,13 @@ photos:
     title: 099-IMG_0185
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/100-img_0186.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/100-img_0186.jpg
-    title: a:1:{s:5:"en_US";s:12:"100-IMG_0186";}
+    title: a:1:{s:5:"en_US";s:12:"100-IMG_0186
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/101-img_0189.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/101-img_0189.jpg
     title: 101-IMG_0189
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/102-img_0190.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/102-img_0190.jpg
-    title: a:1:{s:5:"en_US";s:12:"102-IMG_0190";}
+    title: a:1:{s:5:"en_US";s:12:"102-IMG_0190
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/103-img_0196.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/103-img_0196.jpg
     title: 103-IMG_0196
@@ -329,7 +329,7 @@ photos:
     title: 108-IMG_0203
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/109-img_0204.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/109-img_0204.jpg
-    title: a:1:{s:5:"en_US";s:12:"109-IMG_0204";}
+    title: a:1:{s:5:"en_US";s:12:"109-IMG_0204
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/110-img_0205.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/110-img_0205.jpg
     title: 110-IMG_0205
@@ -344,7 +344,7 @@ photos:
     title: 113-IMG_0208
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/114-img_0209.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/114-img_0209.jpg
-    title: a:1:{s:5:"en_US";s:12:"114-IMG_0209";}
+    title: a:1:{s:5:"en_US";s:12:"114-IMG_0209
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/115-img_0210.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/115-img_0210.jpg
     title: 115-IMG_0210
@@ -368,13 +368,13 @@ photos:
     title: 121-IMG_0218
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/122-img_0219.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/122-img_0219.jpg
-    title: a:1:{s:5:"en_US";s:12:"122-IMG_0219";}
+    title: a:1:{s:5:"en_US";s:12:"122-IMG_0219
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/123-img_0220.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/123-img_0220.jpg
     title: 123-IMG_0220
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/124-img_0222.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/124-img_0222.jpg
-    title: a:1:{s:5:"en_US";s:12:"124-IMG_0222";}
+    title: a:1:{s:5:"en_US";s:12:"124-IMG_0222
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/125-img_0223.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/125-img_0223.jpg
     title: 125-IMG_0223
@@ -401,7 +401,7 @@ photos:
     title: 132-IMG_0230
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/133-img_0232.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/133-img_0232.jpg
-    title: a:1:{s:5:"en_US";s:12:"133-IMG_0232";}
+    title: a:1:{s:5:"en_US";s:12:"133-IMG_0232
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/134-img_0233.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/134-img_0233.jpg
     title: 134-IMG_0233
@@ -419,7 +419,7 @@ photos:
     title: 138-IMG_0237
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/139-img_0238.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/139-img_0238.jpg
-    title: a:1:{s:5:"en_US";s:12:"139-IMG_0238";}
+    title: a:1:{s:5:"en_US";s:12:"139-IMG_0238
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/140-img_0239.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/140-img_0239.jpg
     title: 140-IMG_0239
@@ -428,47 +428,47 @@ photos:
     title: 141-IMG_0240
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/142-img_0241.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/142-img_0241.jpg
-    title: a:1:{s:5:"en_US";s:12:"142-IMG_0241";}
+    title: a:1:{s:5:"en_US";s:12:"142-IMG_0241
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/143-img_0242.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/143-img_0242.jpg
-    title: a:1:{s:5:"en_US";s:12:"143-IMG_0242";}
+    title: a:1:{s:5:"en_US";s:12:"143-IMG_0242
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/144-img_0243.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/144-img_0243.jpg
-    title: a:1:{s:5:"en_US";s:12:"144-IMG_0243";}
+    title: a:1:{s:5:"en_US";s:12:"144-IMG_0243
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/145-img_0244.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/145-img_0244.jpg
-    title: a:1:{s:5:"en_US";s:12:"145-IMG_0244";}
+    title: a:1:{s:5:"en_US";s:12:"145-IMG_0244
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/146-img_0246.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/146-img_0246.jpg
-    title: a:1:{s:5:"en_US";s:12:"146-IMG_0246";}
+    title: a:1:{s:5:"en_US";s:12:"146-IMG_0246
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/147-img_0247.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/147-img_0247.jpg
-    title: a:1:{s:5:"en_US";s:12:"147-IMG_0247";}
+    title: a:1:{s:5:"en_US";s:12:"147-IMG_0247
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/148-img_0248.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/148-img_0248.jpg
-    title: a:1:{s:5:"en_US";s:12:"148-IMG_0248";}
+    title: a:1:{s:5:"en_US";s:12:"148-IMG_0248
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/149-img_0249.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/149-img_0249.jpg
-    title: a:1:{s:5:"en_US";s:12:"149-IMG_0249";}
+    title: a:1:{s:5:"en_US";s:12:"149-IMG_0249
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/150-img_0250.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/150-img_0250.jpg
-    title: a:1:{s:5:"en_US";s:12:"150-IMG_0250";}
+    title: a:1:{s:5:"en_US";s:12:"150-IMG_0250
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/151-img_0251.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/151-img_0251.jpg
-    title: a:1:{s:5:"en_US";s:12:"151-IMG_0251";}
+    title: a:1:{s:5:"en_US";s:12:"151-IMG_0251
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/152-img_0252.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/152-img_0252.jpg
-    title: a:1:{s:5:"en_US";s:12:"152-IMG_0252";}
+    title: a:1:{s:5:"en_US";s:12:"152-IMG_0252
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/153-img_0253.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/153-img_0253.jpg
-    title: a:1:{s:5:"en_US";s:12:"153-IMG_0253";}
+    title: a:1:{s:5:"en_US";s:12:"153-IMG_0253
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/154-img_0254.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/154-img_0254.jpg
-    title: a:1:{s:5:"en_US";s:12:"154-IMG_0254";}
+    title: a:1:{s:5:"en_US";s:12:"154-IMG_0254
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/155-img_0255.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/155-img_0255.jpg
-    title: a:1:{s:5:"en_US";s:12:"155-IMG_0255";}
+    title: a:1:{s:5:"en_US";s:12:"155-IMG_0255
   - original: /2015/11/u16-girls-county-final-drumlane-v-lurgan-1/156-img_0256.jpg
     thumbnail: /t/2015/11/u16-girls-county-final-drumlane-v-lurgan-1/156-img_0256.jpg
-    title: a:1:{s:5:"en_US";s:12:"156-IMG_0256";}
+    title: a:1:{s:5:"en_US";s:12:"156-IMG_0256
 ---

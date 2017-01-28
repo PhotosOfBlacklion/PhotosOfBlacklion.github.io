@@ -1010,7 +1010,7 @@ photos:
     title: 310-IMG_0408
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/311-img_0409.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/311-img_0409.jpg
-    title: a:1:{s:5:"en_US";s:12:"311-IMG_0409";}
+    title: a:1:{s:5:"en_US";s:12:"311-IMG_0409
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/312-img_0410.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/312-img_0410.jpg
     title: 312-IMG_0410
@@ -1343,10 +1343,10 @@ photos:
     title: 421-IMG_0546
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/422-img_0547.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/422-img_0547.jpg
-    title: a:1:{s:5:"en_US";s:12:"422-IMG_0547";}
+    title: a:1:{s:5:"en_US";s:12:"422-IMG_0547
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/423-img_0549.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/423-img_0549.jpg
-    title: a:1:{s:5:"en_US";s:12:"423-IMG_0549";}
+    title: a:1:{s:5:"en_US";s:12:"423-IMG_0549
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/424-img_0550.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/424-img_0550.jpg
     title: 424-IMG_0550
@@ -1520,29 +1520,29 @@ photos:
     title: 480-IMG_0666
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/481-img_0668.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/481-img_0668.jpg
-    title: a:1:{s:5:"en_US";s:12:"481-IMG_0668";}
+    title: a:1:{s:5:"en_US";s:12:"481-IMG_0668
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/482-img_0671.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/482-img_0671.jpg
     title: 482-IMG_0671
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/483-img_0673.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/483-img_0673.jpg
-    title: a:1:{s:5:"en_US";s:12:"483-IMG_0673";}
+    title: a:1:{s:5:"en_US";s:12:"483-IMG_0673
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/484-img_0674.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/484-img_0674.jpg
-    title: a:1:{s:5:"en_US";s:12:"484-IMG_0674";}
+    title: a:1:{s:5:"en_US";s:12:"484-IMG_0674
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/485-img_0675.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/485-img_0675.jpg
-    title: a:1:{s:5:"en_US";s:12:"485-IMG_0675";}
+    title: a:1:{s:5:"en_US";s:12:"485-IMG_0675
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/486-img_0676.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/486-img_0676.jpg
     title: 486-IMG_0676
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/487-img_0680.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/487-img_0680.jpg
-    title: a:1:{s:5:"en_US";s:12:"487-IMG_0680";}
+    title: a:1:{s:5:"en_US";s:12:"487-IMG_0680
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/488-img_0681.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/488-img_0681.jpg
-    title: a:1:{s:5:"en_US";s:12:"488-IMG_0681";}
+    title: a:1:{s:5:"en_US";s:12:"488-IMG_0681
   - original: /2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/489-img_0684.jpg
     thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/489-img_0684.jpg
-    title: a:1:{s:5:"en_US";s:12:"489-IMG_0684";}
+    title: a:1:{s:5:"en_US";s:12:"489-IMG_0684
 ---

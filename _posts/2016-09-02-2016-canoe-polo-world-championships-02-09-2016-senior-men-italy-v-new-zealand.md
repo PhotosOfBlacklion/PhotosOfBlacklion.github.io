@@ -29,7 +29,7 @@ photos:
     title: 008-IMG_0005
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/009-img_0006.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/009-img_0006.jpg
-    title: a:1:{s:5:"en_US";s:12:"009-IMG_0006";}
+    title: a:1:{s:5:"en_US";s:12:"009-IMG_0006
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/010-img_0007.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/010-img_0007.jpg
     title: 010-IMG_0007
@@ -68,7 +68,7 @@ photos:
     title: 021-IMG_0025
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/022-img_0026.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/022-img_0026.jpg
-    title: a:1:{s:5:"en_US";s:12:"022-IMG_0026";}
+    title: a:1:{s:5:"en_US";s:12:"022-IMG_0026
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/023-img_0027.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/023-img_0027.jpg
     title: 023-IMG_0027
@@ -107,7 +107,7 @@ photos:
     title: 034-IMG_0038
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/035-img_0040.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/035-img_0040.jpg
-    title: a:1:{s:5:"en_US";s:12:"035-IMG_0040";}
+    title: a:1:{s:5:"en_US";s:12:"035-IMG_0040
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/036-img_0041.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/036-img_0041.jpg
     title: 036-IMG_0041
@@ -140,7 +140,7 @@ photos:
     title: 045-IMG_0050
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/046-img_0051.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/046-img_0051.jpg
-    title: a:1:{s:5:"en_US";s:12:"046-IMG_0051";}
+    title: a:1:{s:5:"en_US";s:12:"046-IMG_0051
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/047-img_0052.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/047-img_0052.jpg
     title: 047-IMG_0052
@@ -182,7 +182,7 @@ photos:
     title: 059-IMG_0064
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/060-img_0065.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/060-img_0065.jpg
-    title: a:1:{s:5:"en_US";s:12:"060-IMG_0065";}
+    title: a:1:{s:5:"en_US";s:12:"060-IMG_0065
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/061-img_0066.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/061-img_0066.jpg
     title: 061-IMG_0066
@@ -242,7 +242,7 @@ photos:
     title: 079-IMG_0086
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/080-img_0087.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/080-img_0087.jpg
-    title: a:1:{s:5:"en_US";s:12:"080-IMG_0087";}
+    title: a:1:{s:5:"en_US";s:12:"080-IMG_0087
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/081-img_0088.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/081-img_0088.jpg
     title: 081-IMG_0088
@@ -266,7 +266,7 @@ photos:
     title: 087-IMG_0094
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/088-img_0095.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/088-img_0095.jpg
-    title: a:1:{s:5:"en_US";s:12:"088-IMG_0095";}
+    title: a:1:{s:5:"en_US";s:12:"088-IMG_0095
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/089-img_0096.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/089-img_0096.jpg
     title: 089-IMG_0096
@@ -293,7 +293,7 @@ photos:
     title: 096-IMG_0103
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/097-img_0104.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/097-img_0104.jpg
-    title: a:1:{s:5:"en_US";s:12:"097-IMG_0104";}
+    title: a:1:{s:5:"en_US";s:12:"097-IMG_0104
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/098-img_0105.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/098-img_0105.jpg
     title: 098-IMG_0105
@@ -305,7 +305,7 @@ photos:
     title: 100-IMG_0107
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/101-img_0108.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/101-img_0108.jpg
-    title: a:1:{s:5:"en_US";s:12:"101-IMG_0108";}
+    title: a:1:{s:5:"en_US";s:12:"101-IMG_0108
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/102-img_0109.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/102-img_0109.jpg
     title: 102-IMG_0109
@@ -347,10 +347,10 @@ photos:
     title: 114-IMG_0121
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/115-img_0122.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/115-img_0122.jpg
-    title: a:1:{s:5:"en_US";s:12:"115-IMG_0122";}
+    title: a:1:{s:5:"en_US";s:12:"115-IMG_0122
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/116-img_0123.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/116-img_0123.jpg
-    title: a:1:{s:5:"en_US";s:12:"116-IMG_0123";}
+    title: a:1:{s:5:"en_US";s:12:"116-IMG_0123
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/117-img_0124.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/117-img_0124.jpg
     title: 117-IMG_0124
@@ -392,7 +392,7 @@ photos:
     title: 129-IMG_0136
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/130-img_0137.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/130-img_0137.jpg
-    title: a:1:{s:5:"en_US";s:12:"130-IMG_0137";}
+    title: a:1:{s:5:"en_US";s:12:"130-IMG_0137
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/131-img_0138.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/131-img_0138.jpg
     title: 131-IMG_0138
@@ -437,7 +437,7 @@ photos:
     title: 144-IMG_0153
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/145-img_0154.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/145-img_0154.jpg
-    title: a:1:{s:5:"en_US";s:12:"145-IMG_0154";}
+    title: a:1:{s:5:"en_US";s:12:"145-IMG_0154
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/146-img_0155.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/146-img_0155.jpg
     title: 146-IMG_0155
@@ -464,7 +464,7 @@ photos:
     title: 153-IMG_0162
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/154-img_0163.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/154-img_0163.jpg
-    title: a:1:{s:5:"en_US";s:12:"154-IMG_0163";}
+    title: a:1:{s:5:"en_US";s:12:"154-IMG_0163
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/155-img_0165.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/155-img_0165.jpg
     title: 155-IMG_0165
@@ -473,50 +473,50 @@ photos:
     title: 156-IMG_0166
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/157-img_0167.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/157-img_0167.jpg
-    title: a:1:{s:5:"en_US";s:12:"157-IMG_0167";}
+    title: a:1:{s:5:"en_US";s:12:"157-IMG_0167
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/158-img_0168.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/158-img_0168.jpg
-    title: a:1:{s:5:"en_US";s:12:"158-IMG_0168";}
+    title: a:1:{s:5:"en_US";s:12:"158-IMG_0168
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/159-img_0169.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/159-img_0169.jpg
-    title: a:1:{s:5:"en_US";s:12:"159-IMG_0169";}
+    title: a:1:{s:5:"en_US";s:12:"159-IMG_0169
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/160-img_0170.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/160-img_0170.jpg
-    title: a:1:{s:5:"en_US";s:12:"160-IMG_0170";}
+    title: a:1:{s:5:"en_US";s:12:"160-IMG_0170
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/161-img_0171.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/161-img_0171.jpg
-    title: a:1:{s:5:"en_US";s:12:"161-IMG_0171";}
+    title: a:1:{s:5:"en_US";s:12:"161-IMG_0171
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/162-img_0172.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/162-img_0172.jpg
-    title: a:1:{s:5:"en_US";s:12:"162-IMG_0172";}
+    title: a:1:{s:5:"en_US";s:12:"162-IMG_0172
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/163-img_0173.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/163-img_0173.jpg
-    title: a:1:{s:5:"en_US";s:12:"163-IMG_0173";}
+    title: a:1:{s:5:"en_US";s:12:"163-IMG_0173
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/164-img_0174.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/164-img_0174.jpg
-    title: a:1:{s:5:"en_US";s:12:"164-IMG_0174";}
+    title: a:1:{s:5:"en_US";s:12:"164-IMG_0174
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/165-img_0175.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/165-img_0175.jpg
-    title: a:1:{s:5:"en_US";s:12:"165-IMG_0175";}
+    title: a:1:{s:5:"en_US";s:12:"165-IMG_0175
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/166-img_0176.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/166-img_0176.jpg
-    title: a:1:{s:5:"en_US";s:12:"166-IMG_0176";}
+    title: a:1:{s:5:"en_US";s:12:"166-IMG_0176
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/167-img_0177.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/167-img_0177.jpg
-    title: a:1:{s:5:"en_US";s:12:"167-IMG_0177";}
+    title: a:1:{s:5:"en_US";s:12:"167-IMG_0177
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/168-img_0178.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/168-img_0178.jpg
-    title: a:1:{s:5:"en_US";s:12:"168-IMG_0178";}
+    title: a:1:{s:5:"en_US";s:12:"168-IMG_0178
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/169-img_0179.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/169-img_0179.jpg
-    title: a:1:{s:5:"en_US";s:12:"169-IMG_0179";}
+    title: a:1:{s:5:"en_US";s:12:"169-IMG_0179
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/170-img_0180.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/170-img_0180.jpg
-    title: a:1:{s:5:"en_US";s:12:"170-IMG_0180";}
+    title: a:1:{s:5:"en_US";s:12:"170-IMG_0180
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/171-img_0181.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/171-img_0181.jpg
-    title: a:1:{s:5:"en_US";s:12:"171-IMG_0181";}
+    title: a:1:{s:5:"en_US";s:12:"171-IMG_0181
   - original: /2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/172-img_0182.jpg
     thumbnail: /t/2016/09/2016-canoe-polo-world-championships/02-09-2016/senior-men-italy-v-new-zealand/172-img_0182.jpg
-    title: a:1:{s:5:"en_US";s:12:"172-IMG_0182";}
+    title: a:1:{s:5:"en_US";s:12:"172-IMG_0182
 ---
