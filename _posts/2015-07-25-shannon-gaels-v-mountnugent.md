@@ -1,5 +1,5 @@
 ---
-title: 25-07-2915  Shannon Gaels V Mountnugent
+title: Shannon Gaels V Mountnugent
 date: 2015-07-25 12:00
 thumbnail: /t/2015/07/shannon-gaels-v-mountnugent/first-half/001-img_0016.jpg
 photos:

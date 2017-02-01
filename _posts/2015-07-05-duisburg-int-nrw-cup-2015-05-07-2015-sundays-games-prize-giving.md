@@ -1,5 +1,5 @@
 ---
-title: 05-07-2015  Sundays games & Prize giving..
+title: Duisburg -- Sundays games & Prize giving..
 date: 2015-07-05 12:00
 thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/05-07-2015-sundays-games-prize-giving/002-img_0013.jpg
 photos:
