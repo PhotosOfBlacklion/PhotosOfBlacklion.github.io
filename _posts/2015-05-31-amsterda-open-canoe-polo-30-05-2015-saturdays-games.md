@@ -1,6 +1,6 @@
 ---
-title: 30-05-2015  Saturdays  Games.
-date: 2015-05-31 12:00
+title: Amsterdam open -- Saturdays Games
+date: 2015-05-30 12:00
 thumbnail: /t/2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/001-img_0012_1433013968.jpg
 photos:
   - original: /2015/05/amsterda-open-canoe-polo/30-05-2015-saturdays-games/001-img_0012_1433013968.jpg

@@ -1,5 +1,5 @@
 ---
-title: Rijnland S  V Sunvenlo.
+title: Helmond International -- Rijnland S  V Sunvenlo.
 date: 2015-04-12 12:00
 thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/rijnland-s-v-sunvenlo/199-img_0574.jpg
 photos:

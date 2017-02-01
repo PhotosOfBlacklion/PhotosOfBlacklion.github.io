@@ -1,5 +1,5 @@
 ---
-title: Groningen B  V  Germany U21 Women.
+title: Helmond International -- Groningen B  V  Germany U21 Women.
 date: 2015-04-12 12:00
 thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/groningen-b-v-germany-u21-women/415-img_0902.jpg
 photos:

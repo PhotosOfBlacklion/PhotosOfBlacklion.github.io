@@ -1,5 +1,5 @@
 ---
-title: Mens Final
+title: Berlin -- Mens Final
 date: 2015-04-19 12:00
 thumbnail: /t/2015/04/sunday/mens-final/542-img_0699.jpg
 photos:

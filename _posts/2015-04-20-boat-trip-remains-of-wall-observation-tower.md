@@ -1,5 +1,5 @@
 ---
-title: 20-04-2015 Boat trip, Remains of Wall & Observation tower.
+title: Boat trip, Remains of Wall & Observation tower.
 date: 2015-04-20 12:00
 thumbnail: /t/2015/04/boat-trip-remains-of-wall-observation-tower/01-img_0870.jpg
 photos:

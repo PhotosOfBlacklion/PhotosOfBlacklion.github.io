@@ -1,6 +1,6 @@
 ---
-title: 23 to 26-04-2015 Gottigan, Germany.
-date: 2015-04-26 12:00
+title: Gottigan, Germany -- 23 to 26 April 2015
+date: 2015-04-23 12:00
 thumbnail: /t/2015/04/gottigan-germany/001-img_0998.jpg
 photos:
   - original: /2015/04/gottigan-germany/001-img_0998.jpg

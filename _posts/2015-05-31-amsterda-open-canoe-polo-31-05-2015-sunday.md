@@ -1,5 +1,5 @@
 ---
-title: 31-05-2015  Sunday.
+title: Amsterdam Open -- Sunday
 date: 2015-05-31 12:00
 thumbnail: /t/2015/05/amsterda-open-canoe-polo/31-05-2015-sunday/001-img_0212.jpg
 photos:

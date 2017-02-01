@@ -1,5 +1,5 @@
 ---
-title: Presentation of prizes.
+title: Berlin -- Presentation of prizes.
 date: 2015-04-19 12:00
 thumbnail: /t/2015/04/sunday/presentation-of-prizes/371-img_0577.jpg
 photos:

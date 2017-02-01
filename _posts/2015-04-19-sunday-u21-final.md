@@ -1,5 +1,5 @@
 ---
-title: U21 Final
+title: Berlin -- U21 Final
 date: 2015-04-19 12:00
 thumbnail: /t/2015/04/sunday/u21-final/499-img_0647.jpg
 photos:

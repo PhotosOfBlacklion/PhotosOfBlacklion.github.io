@@ -1,5 +1,5 @@
 ---
-title: 21-04-2015 Sachenhausen Concentration Camp.
+title: Sachenhausen Concentration Camp.
 date: 2015-04-21 12:00
 thumbnail: /t/2015/04/sachenhausen-concentration-camp/01-img_0997.jpg
 photos:

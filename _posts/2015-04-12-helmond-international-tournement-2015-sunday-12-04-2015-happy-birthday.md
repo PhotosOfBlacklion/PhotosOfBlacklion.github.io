@@ -1,5 +1,5 @@
 ---
-title: Happy Birthday.
+title: Helmond International -- Happy Birthday.
 date: 2015-04-12 12:00
 thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/happy-birthday/498-img_0017.jpg
 photos:

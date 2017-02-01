@@ -1,5 +1,5 @@
 ---
-title: Odysseus  V Groningen A.
+title: Helmond International -- Odysseus  V Groningen A.
 date: 2015-04-12 12:00
 thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/odysseus-v-groningen-a/168-img_0527.jpg
 photos:

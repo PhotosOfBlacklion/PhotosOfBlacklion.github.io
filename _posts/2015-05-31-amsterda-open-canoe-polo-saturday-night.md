@@ -1,6 +1,6 @@
 ---
-title: Saturday Night
-date: 2015-05-31 12:00
+title: Amsterdam Open -- Saturday Night
+date: 2015-05-30 12:00
 thumbnail: /t/2015/05/amsterda-open-canoe-polo/saturday-night/001-img_0013.jpg
 photos:
   - original: /2015/05/amsterda-open-canoe-polo/saturday-night/001-img_0013.jpg

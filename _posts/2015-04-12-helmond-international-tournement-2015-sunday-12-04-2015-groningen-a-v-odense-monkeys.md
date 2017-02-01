@@ -1,5 +1,5 @@
 ---
-title: Groningen A  V Odense Monkeys.
+title: Helmond International -- Groningen A  V Odense Monkeys.
 date: 2015-04-12 12:00
 thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/groningen-a-v-odense-monkeys/305-img_0738.jpg
 photos:

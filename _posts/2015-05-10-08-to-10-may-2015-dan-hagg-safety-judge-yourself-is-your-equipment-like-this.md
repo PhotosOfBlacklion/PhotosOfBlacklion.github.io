@@ -1,5 +1,5 @@
 ---
-title: SAFETY ?   Judge yourself Is your equipment like this.
+title: Den Haag -- SAFETY? Judge yourself, is your equipment like this?
 date: 2015-05-10 12:00
 thumbnail: /t/2015/05/08-to-10-may-2015-dan-hagg/safety-judge-yourself-is-your-equipment-like-this/01-img_0023.jpg
 photos:

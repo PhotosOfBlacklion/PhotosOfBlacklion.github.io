@@ -1,5 +1,5 @@
 ---
-title: Prize giving.
+title: Helmond International -- Prize giving.
 date: 2015-04-12 12:00
 thumbnail: /t/2015/04/helmond-international-tournement-2015/sunday-12-04-2015/prize-giving/626-img_0154.jpg
 photos:
