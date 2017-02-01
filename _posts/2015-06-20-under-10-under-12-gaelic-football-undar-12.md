@@ -1,5 +1,5 @@
 ---
-title: Undar  12.
+title: Undar 12 Gaelic Football
 date: 2015-06-20 12:00
 thumbnail: /t/2015/06/under-10-under-12-gaelic-football/undar-12/169-img_0218.jpg
 photos:

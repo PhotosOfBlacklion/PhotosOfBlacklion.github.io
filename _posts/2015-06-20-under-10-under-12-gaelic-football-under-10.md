@@ -1,5 +1,5 @@
 ---
-title: Under  10.
+title: Under 10 Gaelic Football
 date: 2015-06-20 12:00
 thumbnail: /t/2015/06/under-10-under-12-gaelic-football/under-10/001-img_0014.jpg
 photos:

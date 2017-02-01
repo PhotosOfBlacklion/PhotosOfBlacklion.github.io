@@ -1,5 +1,5 @@
 ---
-title: 18-06-2015 Curravagh N.S. Travel Flag.
+title: Curravagh N.S. Travel Flag
 date: 2015-06-18 12:00
 thumbnail: /t/2015/06/curravagh-ns-travel-flag/001-img_0541.jpg
 photos:
