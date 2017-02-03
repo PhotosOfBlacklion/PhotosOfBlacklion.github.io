@@ -1,5 +1,5 @@
 ---
-title: Duisburg -- Saturday Games.
+title: Duisburg -- Saturday Games
 date: 2015-07-04 12:00
 thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/04-07-2015-saturday-games/001-img_0229.jpg
 photos:

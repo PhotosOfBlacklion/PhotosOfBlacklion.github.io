@@ -1,5 +1,5 @@
 ---
-title: Duisburg -- Friday evening swim.
+title: Duisburg -- Friday evening swim
 date: 2015-07-03 12:00
 thumbnail: /t/2015/07/duisburg-int-nrw-cup-2015/03-07-2015-friday-evening-swim/001-img_0082.jpg
 photos:

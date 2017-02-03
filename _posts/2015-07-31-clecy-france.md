@@ -1,5 +1,5 @@
 ---
-title: Clecy  France
+title: Clecy, France
 date: 2015-07-31 12:00
 thumbnail: /t/2015/07/clecy-france/01-img_0772.jpg
 photos:

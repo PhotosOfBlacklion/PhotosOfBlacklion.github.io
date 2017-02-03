@@ -1,5 +1,5 @@
 ---
-title: 09-07-2015 Karlovy Vary day visit.
+title: Karlovy Vary day visit
 date: 2015-07-09 12:00
 thumbnail: /t/2015/07/karlovy-vary-day-visit/01-img_0051.jpg
 photos:
