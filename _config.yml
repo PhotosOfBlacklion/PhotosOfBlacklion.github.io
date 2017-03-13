@@ -5,6 +5,9 @@ site:
   title: Photos of Blacklion
   url: http://photosofblacklion.net
 
+gems:
+  - jekyll-sitemap
+
 defaults:
   -
     scope:
