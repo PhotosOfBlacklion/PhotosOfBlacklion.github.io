@@ -1137,4 +1137,7 @@ photos:
   - original: /2017/03/saint-patricks-day-parade-belcoo-and-blacklion/img_0109.jpg
     thumbnail: /t/2017/03/saint-patricks-day-parade-belcoo-and-blacklion/img_0109.jpg
     title: img_0109.jpg
+  - original: /2017/03/saint-patricks-day-parade-belcoo-and-blacklion/img_0188.jpg
+    thumbnail: /t/2017/03/saint-patricks-day-parade-belcoo-and-blacklion/img_0188.jpg
+    title: img_0188.jpg
 ---
