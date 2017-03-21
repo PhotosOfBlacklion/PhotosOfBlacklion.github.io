@@ -591,4 +591,7 @@ photos:
   - original: /2017/03/senior-ladies-shannon-gaels-v-saint-killians/img_0212.jpg
     thumbnail: /t/2017/03/senior-ladies-shannon-gaels-v-saint-killians/img_0212.jpg
     title: img_0212.jpg
+  - original: /2017/03/senior-ladies-shannon-gaels-v-saint-killians/img_0206.jpg
+    thumbnail: /t/2017/03/senior-ladies-shannon-gaels-v-saint-killians/img_0206.jpg
+    title: img_0206.jpg
 ---
