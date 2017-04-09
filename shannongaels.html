@@ -1,0 +1,26 @@
+---
+layout: layout
+title: Shannon Gaels
+---
+{% include navbar.html %}
+<div class="jumbotron">
+  <div class="container">
+  </div>
+</div>
+<div class="container marketing">
+  <div class="row">
+    <h2>Shannon Gaels</h2>
+  </div>
+  <div class="row">
+    {% for album in site.tags.shannongaels %}
+    {% assign album_year1 = album.date | date: '%Y' %}
+    {% if album_year1 != album_year2 %}
+    <h2>{{ album_year1 }}</h2>
+    {% assign album_year2 = album.date | date: '%Y' %}
+    {% endif %}
+    <h3>{{ album_month1 }}</h3>
+    <h5><a href="{{ album.url }}">{{ album.title }}</a>
+      <time datetime="{{ album.date | date: '%Y-%m-%d' }}">{{ album.date | date: '%d %b' }}</time></h5>
+    {% endfor %}
+  </div>
+</div>
