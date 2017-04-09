@@ -1,6 +1,8 @@
 ---
 title: Third Quarter
 date: 2014-04-01 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2014/04/shannongaels/2014-shannon-gaels-gaa-club/under-12-girls-shannon-gaels-v-drumlane/third-quarter/064-01-04-2014-girls-u12-shannon-gaels-v-drumlane-221.jpg
 photos:
   - original: /2014/04/shannongaels/2014-shannon-gaels-gaa-club/under-12-girls-shannon-gaels-v-drumlane/third-quarter/064-01-04-2014-girls-u12-shannon-gaels-v-drumlane-221.jpg

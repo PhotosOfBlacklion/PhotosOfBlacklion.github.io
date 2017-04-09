@@ -1,6 +1,8 @@
 ---
 title: Senior Ladies Shannon Gaels V Saint Killians
 date: 2017-03-12 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2017/03/senior-ladies-shannon-gaels-v-saint-killians/img_0241.jpg
 photos:
   - original: /2017/03/senior-ladies-shannon-gaels-v-saint-killians/img_0016.jpg

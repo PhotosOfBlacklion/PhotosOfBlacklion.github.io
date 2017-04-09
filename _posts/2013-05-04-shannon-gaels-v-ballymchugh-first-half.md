@@ -1,6 +1,8 @@
 ---
 title: First Half
 date: 2013-05-04 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2013/05/shannon-gaels-v-ballymchugh/first-half/001-shannon-gaels-v-ballymchugh-006.jpg
 photos:
   - original: /2013/05/shannon-gaels-v-ballymchugh/first-half/001-shannon-gaels-v-ballymchugh-006.jpg

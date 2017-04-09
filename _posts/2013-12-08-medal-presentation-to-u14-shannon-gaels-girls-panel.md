@@ -1,6 +1,8 @@
 ---
 title: 08-12-2013  Medal presentation to U14 Shannon Gaels Girls panel.
 date: 2013-12-08 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2013/12/medal-presentation-to-u14-shannon-gaels-girls-panel/01-001.jpg
 photos:
   - original: /2013/12/medal-presentation-to-u14-shannon-gaels-girls-panel/01-001.jpg

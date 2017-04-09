@@ -1,6 +1,8 @@
 ---
 title: Shannon Gaels V McNean All Stars.
 date: 2015-12-26 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2015/12/shannon-gaels-v-mcneane-all-stars/img_0001.jpg
 photos:
   - original: /2015/12/shannon-gaels-v-mcneane-all-stars/first-half/001-img_0001.jpg

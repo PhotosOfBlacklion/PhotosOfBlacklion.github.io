@@ -1,6 +1,8 @@
 ---
 title: Belcoo V Shannon Gaels
 date: 2010-08-15 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2010/08/belcoo-festival-2010/sunday-15th/belcoo-v-shannon-gaels/_MG_0334.jpg
 photos:
   - original: /2010/08/belcoo-festival-2010/sunday-15th/belcoo-v-shannon-gaels/_MG_0334.jpg

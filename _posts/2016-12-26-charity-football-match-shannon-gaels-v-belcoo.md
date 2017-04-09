@@ -1,6 +1,8 @@
 ---
 title: Charity Football Match Shannon Gaels v Belcoo
 date: 2016-12-26 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2016/12/charity-football-match-shannon-gaels-v-belcoo/001-img_0007.jpg
 photos:
   - original: /2016/12/charity-football-match-shannon-gaels-v-belcoo/001-img_0007.jpg

@@ -1,6 +1,8 @@
 ---
 title: U16 Girls semifinal Shannon Gaels V Drumlane.
 date: 2015-11-07 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2015/11/u16-girls-semifinal-shannon-gaels-v-drumlane/009-img_0055.jpg
 thumbnail: /t/2015/11/u16-girls-semifinal-shannon-gaels-v-drumlane/first-half/001-img_0036.jpg
 photos:

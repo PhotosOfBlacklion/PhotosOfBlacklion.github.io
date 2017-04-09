@@ -1,6 +1,8 @@
 ---
 title: Ladies 9 A Side Shannon Gaels V Cavan Gaels
 date: 2017-02-26 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2017/02/ladies-9-a-side-shannon-gaels-v-cavan-gaels/001-img_0002.jpg
 photos:
   - original: /2017/02/ladies-9-a-side-shannon-gaels-v-cavan-gaels/001-img_0002.jpg
