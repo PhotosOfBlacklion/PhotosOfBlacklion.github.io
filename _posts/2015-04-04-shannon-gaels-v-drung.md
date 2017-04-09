@@ -1,6 +1,8 @@
 ---
 title: Shannon Gaels V Drung.
 date: 2015-04-04 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2015/04/shannon-gaels-v-drung/001-img_0004.jpg
 photos:
   - original: /2015/04/shannon-gaels-v-drung/001-img_0004.jpg

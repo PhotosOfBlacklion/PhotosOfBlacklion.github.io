@@ -1,6 +1,8 @@
 ---
 title: Second Quarter
 date: 2014-04-01 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2014/04/shannongaels/2014-shannon-gaels-gaa-club/under-12-girls-shannon-gaels-v-drumlane/second-quarter/037-01-04-2014-girls-u12-shannon-gaels-v-drumlane-118.jpg
 photos:
   - original: /2014/04/shannongaels/2014-shannon-gaels-gaa-club/under-12-girls-shannon-gaels-v-drumlane/second-quarter/037-01-04-2014-girls-u12-shannon-gaels-v-drumlane-118.jpg

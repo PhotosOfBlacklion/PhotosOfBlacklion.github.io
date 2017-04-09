@@ -1,6 +1,8 @@
 ---
 title: Girls U16 Shannon Gaels V Knockbride
 date: 2015-06-15 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/001-img_0012.jpg
 photos:
   - original: /2015/06/girls-u16-shannon-gaels-v-knockbride/first-half/001-img_0012.jpg

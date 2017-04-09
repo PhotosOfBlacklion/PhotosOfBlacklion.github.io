@@ -1,6 +1,8 @@
 ---
 title: Cul Camp at Shannon Gaels
 date: 2013-07-23 12:00
+tags:
+  - shannongaels
 thumbnail: /t/2013/07/adult-workshop-at-shannon-gaels-cul-camp/cul-camp-at-shannon-gaels/1-cul-camp-at-shannon-gaels-001.jpg
 photos:
   - original: /2013/07/adult-workshop-at-shannon-gaels-cul-camp/cul-camp-at-shannon-gaels/1-cul-camp-at-shannon-gaels-001.jpg
