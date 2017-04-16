@@ -1,5 +1,5 @@
 ---
-title: 29-12-2014 Frost scene at Shannon Gaels Pitch, Blacklion, Co Cavan.
+title: Frost scene at Shannon Gaels Pitch, Blacklion, Co Cavan
 date: 2014-12-29 12:00
 tags:
   - shannongaels
