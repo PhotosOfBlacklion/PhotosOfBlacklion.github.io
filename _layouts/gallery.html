@@ -13,6 +13,9 @@ title: {{ page.title }}
     </h3>
   </div>
   </div>
+  <div class="row">
+    {{ content }}
+  </div>
   <div id="links">
     {% for photo in page.photos %}
     <a href="https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ photo.original }}" title="{{ photo.title }}" data-gallery>
