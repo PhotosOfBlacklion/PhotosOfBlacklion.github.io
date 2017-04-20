@@ -82,3 +82,13 @@ photos:
     thumbnail: /t/2017/03/last-post-from-blacklion-post-office/26-2017-03-30-18.23.53-2-copy.jpg
     title: 26-2017-03-30-18.23.53-2-copy.jpg
 ---
+The Post Office in Blacklion opened in 1850.
+It was situated in Bracken's shop which was later taken over by John Armstrong in 1924.
+His son, Bertie, continued until 1974 and it included the telephone exchange which in recent years was run by Pauline Murray.
+
+John Kiernan took over until the premises was sold and rebuilt but the Post Office was moved and run by Dympna Stewart until her retirement.
+
+At its peak in the 1880's, there were fifteen postmen with two on horseback for distant deliveries.
+Post came to Blacklion by coach and was delivered to Florencecourt, Belcoo, Boho, and Holywell.
+It was the main post office for the area.
+After 1920, post came by train from Sligo instead of from Enniskillen.
