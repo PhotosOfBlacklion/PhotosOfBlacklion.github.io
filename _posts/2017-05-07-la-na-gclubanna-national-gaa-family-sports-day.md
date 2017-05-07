@@ -720,6 +720,9 @@ photos:
   - original: /2017/05/la-na-gclubanna-national-gaa-family-sports-day/07-05-2017-la-na-gclubanna-national-gaa-family-sports-day/247-img_0293.jpg
     thumbnail: /t/2017/05/la-na-gclubanna-national-gaa-family-sports-day/07-05-2017-la-na-gclubanna-national-gaa-family-sports-day/247-img_0293.jpg
     title: 247-img_0293.jpg
+  - original: /2017/05/la-na-gclubanna-national-gaa-family-sports-day/07-05-2017-la-na-gclubanna-national-gaa-family-sports-day/248-img_0294.jpg
+    thumbnail: /t/2017/05/la-na-gclubanna-national-gaa-family-sports-day/07-05-2017-la-na-gclubanna-national-gaa-family-sports-day/248-img_0294.jpg
+    title: 248-img_0294.jpg
   - original: /2017/05/la-na-gclubanna-national-gaa-family-sports-day/07-05-2017-la-na-gclubanna-national-gaa-family-sports-day/249-img_0295.jpg
     thumbnail: /t/2017/05/la-na-gclubanna-national-gaa-family-sports-day/07-05-2017-la-na-gclubanna-national-gaa-family-sports-day/249-img_0295.jpg
     title: 249-img_0295.jpg
