@@ -30,6 +30,9 @@ photos:
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/009-img_0025.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/009-img_0025.jpg
     title: 009-img_0025.jpg
+  - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/012-img_0031.jpg
+    thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/012-img_0031.jpg
+    title: 012-img_0031.jpg
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/015-img_0034.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/015-img_0034.jpg
     title: 015-img_0034.jpg
@@ -114,6 +117,9 @@ photos:
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/046-img_0082.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/046-img_0082.jpg
     title: 046-img_0082.jpg
+  - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/047-img_0084.jpg
+    thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/047-img_0084.jpg
+    title: 047-img_0084.jpg
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/048-img_0085.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/048-img_0085.jpg
     title: 048-img_0085.jpg
@@ -144,6 +150,9 @@ photos:
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/062-img_0100.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/062-img_0100.jpg
     title: 062-img_0100.jpg
+  - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/064-img_0102.jpg
+    thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/064-img_0102.jpg
+    title: 064-img_0102.jpg
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/066-img_0105.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/066-img_0105.jpg
     title: 066-img_0105.jpg
@@ -225,6 +234,9 @@ photos:
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/102-img_0152.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/102-img_0152.jpg
     title: 102-img_0152.jpg
+  - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/103-img_0154.jpg
+    thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/103-img_0154.jpg
+    title: 103-img_0154.jpg
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/105-img_0161.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/105-img_0161.jpg
     title: 105-img_0161.jpg
@@ -489,6 +501,9 @@ photos:
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/205-img_0345.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/205-img_0345.jpg
     title: 205-img_0345.jpg
+  - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/206-img_0346.jpg
+    thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/206-img_0346.jpg
+    title: 206-img_0346.jpg
   - original: /2017/05/girls-u14-shannon-gaels-v-drumlane/207-img_0348.jpg
     thumbnail: /t/2017/05/girls-u14-shannon-gaels-v-drumlane/207-img_0348.jpg
     title: 207-img_0348.jpg
