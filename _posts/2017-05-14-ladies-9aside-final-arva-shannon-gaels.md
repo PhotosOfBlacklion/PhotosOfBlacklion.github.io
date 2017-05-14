@@ -12,6 +12,9 @@ photos:
   - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/003-img_0016.jpg
     thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/003-img_0016.jpg
     title: 003-img_0016.jpg
+  - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/004-img_0017.jpg
+    thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/004-img_0017.jpg
+    title: 004-img_0017.jpg
   - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/005-img_0009.jpg
     thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/005-img_0009.jpg
     title: 005-img_0009.jpg
@@ -738,6 +741,9 @@ photos:
   - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/246-img_0418.jpg
     thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/246-img_0418.jpg
     title: 246-img_0418.jpg
+  - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/247-img_0421.jpg
+    thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/247-img_0421.jpg
+    title: 247-img_0421.jpg
   - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/248-img_0423.jpg
     thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/248-img_0423.jpg
     title: 248-img_0423.jpg
@@ -1278,6 +1284,12 @@ photos:
   - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/427-img_0660.jpg
     thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/427-img_0660.jpg
     title: 427-img_0660.jpg
+  - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/428-img_0661.jpg
+    thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/428-img_0661.jpg
+    title: 428-img_0661.jpg
+  - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/429-img_0662.jpg
+    thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/429-img_0662.jpg
+    title: 429-img_0662.jpg
   - original: /2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/430-img_0663.jpg
     thumbnail: /t/2017/05/ladies-9aside-final-arva-shannon-gaels/2017-05-14-ladies-9aside-final-arva-v-shannon-gaels/430-img_0663.jpg
     title: 430-img_0663.jpg
