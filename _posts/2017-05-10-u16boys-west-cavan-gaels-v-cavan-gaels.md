@@ -1,7 +1,7 @@
 ---
 title: U16boys West Cavan Gaels V Cavan Gaels
 date: 2017-05-10 12:00
-thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/023-img_0042.jpg
+thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/001-img_0011.jpg
 photos:
   - original: /2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/001-img_0011.jpg
     thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/001-img_0011.jpg
