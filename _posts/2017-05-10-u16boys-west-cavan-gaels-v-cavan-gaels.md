@@ -240,9 +240,9 @@ photos:
   - original: /2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/079-img_0130.jpg
     thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/079-img_0130.jpg
     title: 079-img_0130.jpg
-  - original: /2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/080-img_0128.jpg
-    thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/080-img_0128.jpg
-    title: 080-img_0128.jpg
+  - original: /2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/080-img_0131.jpg
+    thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/080-img_0131.jpg
+    title: 080-img_0131.jpg
   - original: /2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/081-img_0132.jpg
     thumbnail: /t/2017/05/u16boys-west-cavan-gaels-v-cavan-gaels/2017-05-10-u16boys-west-cavan-gaels-v-cavan-gaels/081-img_0132.jpg
     title: 081-img_0132.jpg
