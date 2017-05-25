@@ -141,6 +141,9 @@ photos:
   - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/078-img_0144.jpg
     thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/078-img_0144.jpg
     title: 078-img_0144.jpg
+  - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/079-img_0145.jpg
+    thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/079-img_0145.jpg
+    title: 079-img_0145.jpg
   - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/080-img_0146.jpg
     thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/080-img_0146.jpg
     title: 080-img_0146.jpg
@@ -207,6 +210,9 @@ photos:
   - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/119-img_0219.jpg
     thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/119-img_0219.jpg
     title: 119-img_0219.jpg
+  - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/127-img_0229.jpg
+    thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/127-img_0229.jpg
+    title: 127-img_0229.jpg
   - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/128-img_0230.jpg
     thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/128-img_0230.jpg
     title: 128-img_0230.jpg
@@ -315,6 +321,12 @@ photos:
   - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/191-img_0328.jpg
     thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/191-img_0328.jpg
     title: 191-img_0328.jpg
+  - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/193-img_0330.jpg
+    thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/193-img_0330.jpg
+    title: 193-img_0330.jpg
+  - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/194-img_0332.jpg
+    thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/194-img_0332.jpg
+    title: 194-img_0332.jpg
   - original: /2017/05/girls-u-14-shannon-gaels-v-killygarry/195-img_0335.jpg
     thumbnail: /t/2017/05/girls-u-14-shannon-gaels-v-killygarry/195-img_0335.jpg
     title: 195-img_0335.jpg
