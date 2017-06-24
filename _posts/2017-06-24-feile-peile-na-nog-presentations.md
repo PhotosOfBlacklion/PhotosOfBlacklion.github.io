@@ -30,6 +30,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-presentations/126-img_0175.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-presentations/126-img_0175.jpg
     title: 126-img_0175.jpg
+  - original: /2017/06/feile-peile-na-nog-presentations/127-img_0178.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-presentations/127-img_0178.jpg
+    title: 127-img_0178.jpg
   - original: /2017/06/feile-peile-na-nog-presentations/131-img_0186.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-presentations/131-img_0186.jpg
     title: 131-img_0186.jpg
@@ -63,6 +66,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-presentations/144-img_0225.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-presentations/144-img_0225.jpg
     title: 144-img_0225.jpg
+  - original: /2017/06/feile-peile-na-nog-presentations/146-img_0208.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-presentations/146-img_0208.jpg
+    title: 146-img_0208.jpg
   - original: /2017/06/feile-peile-na-nog-presentations/147-img_0209.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-presentations/147-img_0209.jpg
     title: 147-img_0209.jpg
