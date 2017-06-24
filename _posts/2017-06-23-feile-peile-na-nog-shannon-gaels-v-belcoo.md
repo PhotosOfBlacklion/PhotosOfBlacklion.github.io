@@ -3,6 +3,9 @@ title: Feile Peile Na Nog Shannon Gaels V Belcoo
 date: 2017-06-23 12:00
 thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/036-img_0054.jpg
 photos:
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/022-img_0009.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/022-img_0009.jpg
+    title: 022-img_0009.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/023-img_0010.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/023-img_0010.jpg
     title: 023-img_0010.jpg
@@ -57,6 +60,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/040-img_0059.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/040-img_0059.jpg
     title: 040-img_0059.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/041-img_0060.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/041-img_0060.jpg
+    title: 041-img_0060.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/043-img_0062.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/043-img_0062.jpg
     title: 043-img_0062.jpg
