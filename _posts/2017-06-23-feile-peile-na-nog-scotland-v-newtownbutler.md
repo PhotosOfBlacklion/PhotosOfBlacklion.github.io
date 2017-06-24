@@ -45,6 +45,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/217-img_0326.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/217-img_0326.jpg
     title: 217-img_0326.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/218-img_0330.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/218-img_0330.jpg
+    title: 218-img_0330.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/220-img_0332.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/220-img_0332.jpg
     title: 220-img_0332.jpg
