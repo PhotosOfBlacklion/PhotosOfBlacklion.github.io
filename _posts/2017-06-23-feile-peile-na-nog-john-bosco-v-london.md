@@ -24,6 +24,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/140-img_0213.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/140-img_0213.jpg
     title: 140-img_0213.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/142-img_0216.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/142-img_0216.jpg
+    title: 142-img_0216.jpg
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/144-img_0220.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/144-img_0220.jpg
     title: 144-img_0220.jpg
