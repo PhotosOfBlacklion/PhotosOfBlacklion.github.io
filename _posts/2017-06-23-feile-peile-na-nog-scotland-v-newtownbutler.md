@@ -3,6 +3,9 @@ title: Feile Peile Na Nog Scotland V Newtownbutler
 date: 2017-06-23 12:00
 thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/238-img_0352.jpg
 photos:
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/197-img_0296.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/197-img_0296.jpg
+    title: 197-img_0296.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/198-img_0294.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/198-img_0294.jpg
     title: 198-img_0294.jpg
