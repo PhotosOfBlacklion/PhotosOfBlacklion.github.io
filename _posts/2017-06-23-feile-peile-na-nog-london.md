@@ -24,9 +24,15 @@ photos:
   - original: /2017/06/feile-peile-na-nog-london/010-img_0024.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-london/010-img_0024.jpg
     title: 010-img_0024.jpg
+  - original: /2017/06/feile-peile-na-nog-london/012-img_0026.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-london/012-img_0026.jpg
+    title: 012-img_0026.jpg
   - original: /2017/06/feile-peile-na-nog-london/013-img_0027.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-london/013-img_0027.jpg
     title: 013-img_0027.jpg
+  - original: /2017/06/feile-peile-na-nog-london/014-img_0028.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-london/014-img_0028.jpg
+    title: 014-img_0028.jpg
   - original: /2017/06/feile-peile-na-nog-london/015-img_0029.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-london/015-img_0029.jpg
     title: 015-img_0029.jpg
