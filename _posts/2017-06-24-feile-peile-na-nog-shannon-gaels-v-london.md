@@ -63,6 +63,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/034-img_0046.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/034-img_0046.jpg
     title: 034-img_0046.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/035-img_0047.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/035-img_0047.jpg
+    title: 035-img_0047.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/037-img_0049.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/037-img_0049.jpg
     title: 037-img_0049.jpg
@@ -156,6 +159,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/095-img_0126.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/095-img_0126.jpg
     title: 095-img_0126.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/100-img_0132.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/100-img_0132.jpg
+    title: 100-img_0132.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/104-img_0137.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/104-img_0137.jpg
     title: 104-img_0137.jpg
