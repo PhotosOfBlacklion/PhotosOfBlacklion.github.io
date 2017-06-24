@@ -54,6 +54,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/052-img_0083.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/052-img_0083.jpg
     title: 052-img_0083.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/053-img_0085.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/053-img_0085.jpg
+    title: 053-img_0085.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/054-img_0087.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/054-img_0087.jpg
     title: 054-img_0087.jpg
@@ -81,6 +84,12 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/063-img_0103.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/063-img_0103.jpg
     title: 063-img_0103.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/065-img_0108.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/065-img_0108.jpg
+    title: 065-img_0108.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/073-img_0119.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/073-img_0119.jpg
+    title: 073-img_0119.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/079-img_0126.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/079-img_0126.jpg
     title: 079-img_0126.jpg
@@ -156,6 +165,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/114-img_0176.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/114-img_0176.jpg
     title: 114-img_0176.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/117-img_0180.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/117-img_0180.jpg
+    title: 117-img_0180.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/118-img_0181.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/118-img_0181.jpg
     title: 118-img_0181.jpg
