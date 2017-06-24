@@ -24,6 +24,12 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/009-img_0018.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/009-img_0018.jpg
     title: 009-img_0018.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/012-img_0021.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/012-img_0021.jpg
+    title: 012-img_0021.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/013-img_0022.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/013-img_0022.jpg
+    title: 013-img_0022.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/015-img_0024.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/015-img_0024.jpg
     title: 015-img_0024.jpg
@@ -42,6 +48,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/034-img_0046.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/034-img_0046.jpg
     title: 034-img_0046.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/039-img_0053.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/039-img_0053.jpg
+    title: 039-img_0053.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/042-img_0060.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/042-img_0060.jpg
     title: 042-img_0060.jpg
@@ -111,6 +120,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/090-img_0121.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/090-img_0121.jpg
     title: 090-img_0121.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/107-img_0140.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/107-img_0140.jpg
+    title: 107-img_0140.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-london/112-img_0150.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-london/112-img_0150.jpg
     title: 112-img_0150.jpg
