@@ -33,6 +33,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/212-img_0319.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/212-img_0319.jpg
     title: 212-img_0319.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/213-img_0320.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/213-img_0320.jpg
+    title: 213-img_0320.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/214-img_0321.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/214-img_0321.jpg
     title: 214-img_0321.jpg
@@ -72,6 +75,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/229-img_0343.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/229-img_0343.jpg
     title: 229-img_0343.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/230-img_0344.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/230-img_0344.jpg
+    title: 230-img_0344.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/231-img_0345.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/231-img_0345.jpg
     title: 231-img_0345.jpg
