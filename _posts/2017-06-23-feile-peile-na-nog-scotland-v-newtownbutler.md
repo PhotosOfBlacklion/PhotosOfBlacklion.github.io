@@ -15,6 +15,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/224-img_0337.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/224-img_0337.jpg
     title: 224-img_0337.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/225-img_0338.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/225-img_0338.jpg
+    title: 225-img_0338.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/229-img_0343.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/229-img_0343.jpg
     title: 229-img_0343.jpg
@@ -30,6 +33,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/236-img_0350.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/236-img_0350.jpg
     title: 236-img_0350.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/237-img_0351.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/237-img_0351.jpg
+    title: 237-img_0351.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/238-img_0352.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/238-img_0352.jpg
     title: 238-img_0352.jpg
@@ -60,6 +66,12 @@ photos:
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/257-img_0378.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/257-img_0378.jpg
     title: 257-img_0378.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/264-img_0386.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/264-img_0386.jpg
+    title: 264-img_0386.jpg
+  - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/267-img_0390.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/267-img_0390.jpg
+    title: 267-img_0390.jpg
   - original: /2017/06/feile-peile-na-nog-scotland-v-newtownbutler/268-img_0391.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-scotland-v-newtownbutler/268-img_0391.jpg
     title: 268-img_0391.jpg
