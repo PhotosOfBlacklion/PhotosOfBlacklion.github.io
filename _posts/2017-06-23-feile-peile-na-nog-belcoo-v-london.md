@@ -108,4 +108,7 @@ photos:
   - original: /2017/06/feile-peile-na-nog-belcoo-v-london/304-img_0441.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-belcoo-v-london/304-img_0441.jpg
     title: 304-img_0441.jpg
+  - original: /2017/06/feile-peile-na-nog-belcoo-v-london/305-img_0443.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-belcoo-v-london/305-img_0443.jpg
+    title: 305-img_0443.jpg
 ---
