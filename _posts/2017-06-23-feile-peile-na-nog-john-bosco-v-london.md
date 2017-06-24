@@ -12,6 +12,12 @@ photos:
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/139-img_0211.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/139-img_0211.jpg
     title: 139-img_0211.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/145-img_0221.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/145-img_0221.jpg
+    title: 145-img_0221.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/148-img_0224.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/148-img_0224.jpg
+    title: 148-img_0224.jpg
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/155-img_0235.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/155-img_0235.jpg
     title: 155-img_0235.jpg
@@ -30,6 +36,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/168-img_0252.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/168-img_0252.jpg
     title: 168-img_0252.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/169-img_0253.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/169-img_0253.jpg
+    title: 169-img_0253.jpg
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/175-img_0263.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/175-img_0263.jpg
     title: 175-img_0263.jpg
@@ -42,6 +51,12 @@ photos:
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/187-img_0277.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/187-img_0277.jpg
     title: 187-img_0277.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/188-img_0278.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/188-img_0278.jpg
+    title: 188-img_0278.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/189-img_0279.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/189-img_0279.jpg
+    title: 189-img_0279.jpg
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/193-img_0286.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/193-img_0286.jpg
     title: 193-img_0286.jpg
