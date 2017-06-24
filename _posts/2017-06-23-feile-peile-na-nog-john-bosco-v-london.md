@@ -3,6 +3,9 @@ title: Feile Peile Na Nog John Bosco V London
 date: 2017-06-23 12:00
 thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/135-img_0204.jpg
 photos:
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/132-img_0199.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/132-img_0199.jpg
+    title: 132-img_0199.jpg
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/133-img_0200.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/133-img_0200.jpg
     title: 133-img_0200.jpg
@@ -96,6 +99,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/169-img_0253.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/169-img_0253.jpg
     title: 169-img_0253.jpg
+  - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/170-img_0254.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/170-img_0254.jpg
+    title: 170-img_0254.jpg
   - original: /2017/06/feile-peile-na-nog-john-bosco-v-london/174-img_0259.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-john-bosco-v-london/174-img_0259.jpg
     title: 174-img_0259.jpg
