@@ -45,6 +45,12 @@ photos:
   - original: /2017/06/feile-peile-na-nog-presentations/147-img_0209.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-presentations/147-img_0209.jpg
     title: 147-img_0209.jpg
+  - original: /2017/06/feile-peile-na-nog-presentations/148-img_0211.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-presentations/148-img_0211.jpg
+    title: 148-img_0211.jpg
+  - original: /2017/06/feile-peile-na-nog-presentations/151-img_0217.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-presentations/151-img_0217.jpg
+    title: 151-img_0217.jpg
   - original: /2017/06/feile-peile-na-nog-presentations/154-img_0222.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-presentations/154-img_0222.jpg
     title: 154-img_0222.jpg
