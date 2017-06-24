@@ -33,6 +33,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/032-img_0043.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/032-img_0043.jpg
     title: 032-img_0043.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/033-img_0048.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/033-img_0048.jpg
+    title: 033-img_0048.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/034-img_0049.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/034-img_0049.jpg
     title: 034-img_0049.jpg
@@ -123,6 +126,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/065-img_0108.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/065-img_0108.jpg
     title: 065-img_0108.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/068-img_0111.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/068-img_0111.jpg
+    title: 068-img_0111.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/069-img_0112.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/069-img_0112.jpg
     title: 069-img_0112.jpg
@@ -177,6 +183,9 @@ photos:
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/086-img_0134.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/086-img_0134.jpg
     title: 086-img_0134.jpg
+  - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/087-img_0135.jpg
+    thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/087-img_0135.jpg
+    title: 087-img_0135.jpg
   - original: /2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/088-img_0138.jpg
     thumbnail: /t/2017/06/feile-peile-na-nog-shannon-gaels-v-belcoo/088-img_0138.jpg
     title: 088-img_0138.jpg
