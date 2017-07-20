@@ -72,12 +72,21 @@ photos:
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/023-img_0040.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/023-img_0040.jpg
     title: 023-img_0040.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/025-img_0042.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/025-img_0042.jpg
+    title: 025-img_0042.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/028-img_0048.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/028-img_0048.jpg
+    title: 028-img_0048.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/031-img_0056.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/031-img_0056.jpg
     title: 031-img_0056.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/035-img_0065.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/035-img_0065.jpg
     title: 035-img_0065.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/036-img_0066.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/036-img_0066.jpg
+    title: 036-img_0066.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/037-img_0069.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/037-img_0069.jpg
     title: 037-img_0069.jpg
@@ -96,6 +105,9 @@ photos:
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/044-img_0081.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/044-img_0081.jpg
     title: 044-img_0081.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/045-img_0082.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/045-img_0082.jpg
+    title: 045-img_0082.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/054-img_0092.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/054-img_0092.jpg
     title: 054-img_0092.jpg
@@ -108,15 +120,27 @@ photos:
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/058-img_0102.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/058-img_0102.jpg
     title: 058-img_0102.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/059-img_0103.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/059-img_0103.jpg
+    title: 059-img_0103.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/060-img_0106.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/060-img_0106.jpg
     title: 060-img_0106.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/061-img_0107.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/061-img_0107.jpg
+    title: 061-img_0107.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/064-img_0111.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/064-img_0111.jpg
+    title: 064-img_0111.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/065-img_0112.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/065-img_0112.jpg
     title: 065-img_0112.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/066-img_0113.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/066-img_0113.jpg
     title: 066-img_0113.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/068-img_0123.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/068-img_0123.jpg
+    title: 068-img_0123.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/069-img_0124.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/069-img_0124.jpg
     title: 069-img_0124.jpg
@@ -153,6 +177,12 @@ photos:
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/082-img_0143.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/082-img_0143.jpg
     title: 082-img_0143.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/084-img_0145.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/084-img_0145.jpg
+    title: 084-img_0145.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/085-img_0148.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/085-img_0148.jpg
+    title: 085-img_0148.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/086-img_0150.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/086-img_0150.jpg
     title: 086-img_0150.jpg
@@ -237,6 +267,12 @@ photos:
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/132-img_0224.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/132-img_0224.jpg
     title: 132-img_0224.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/135-img_0228.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/135-img_0228.jpg
+    title: 135-img_0228.jpg
+  - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/136-img_0229.jpg
+    thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/136-img_0229.jpg
+    title: 136-img_0229.jpg
   - original: /2017/07/u13-girls-shannon-gaels-v-saint-finbars/137-img_0230.jpg
     thumbnail: /t/2017/07/u13-girls-shannon-gaels-v-saint-finbars/137-img_0230.jpg
     title: 137-img_0230.jpg
