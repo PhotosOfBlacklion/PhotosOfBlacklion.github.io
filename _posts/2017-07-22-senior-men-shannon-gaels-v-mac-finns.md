@@ -27,12 +27,18 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/016-img_0020.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/016-img_0020.jpg
     title: 016-img_0020.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/018-img_0025.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/018-img_0025.jpg
+    title: 018-img_0025.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/019-img_0027.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/019-img_0027.jpg
     title: 019-img_0027.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/020-img_0031.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/020-img_0031.jpg
     title: 020-img_0031.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/022-img_0033.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/022-img_0033.jpg
+    title: 022-img_0033.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/023-img_0035.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/023-img_0035.jpg
     title: 023-img_0035.jpg
@@ -114,6 +120,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/053-img_0081.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/053-img_0081.jpg
     title: 053-img_0081.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/054-img_0082.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/054-img_0082.jpg
+    title: 054-img_0082.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/055-img_0085.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/055-img_0085.jpg
     title: 055-img_0085.jpg
@@ -285,6 +294,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/120-img_0200.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/120-img_0200.jpg
     title: 120-img_0200.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/121-img_0201.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/121-img_0201.jpg
+    title: 121-img_0201.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/122-img_0202.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/122-img_0202.jpg
     title: 122-img_0202.jpg
@@ -294,6 +306,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/127-img_0209.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/127-img_0209.jpg
     title: 127-img_0209.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/129-img_0212.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/129-img_0212.jpg
+    title: 129-img_0212.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/132-img_0216.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/132-img_0216.jpg
     title: 132-img_0216.jpg
@@ -405,6 +420,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/175-img_0281.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/175-img_0281.jpg
     title: 175-img_0281.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/176-img_0282.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/176-img_0282.jpg
+    title: 176-img_0282.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/177-img_0284.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/177-img_0284.jpg
     title: 177-img_0284.jpg
@@ -456,6 +474,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/195-img_0306.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/195-img_0306.jpg
     title: 195-img_0306.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/196-img_0307.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/196-img_0307.jpg
+    title: 196-img_0307.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/197-img_0308.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/197-img_0308.jpg
     title: 197-img_0308.jpg
