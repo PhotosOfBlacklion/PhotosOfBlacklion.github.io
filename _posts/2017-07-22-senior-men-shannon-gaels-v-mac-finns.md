@@ -48,6 +48,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/043-img_0063.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/043-img_0063.jpg
     title: 043-img_0063.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/044-img_0064.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/044-img_0064.jpg
+    title: 044-img_0064.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/045-img_0065.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/045-img_0065.jpg
     title: 045-img_0065.jpg
@@ -117,6 +120,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/096-img_0155.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/096-img_0155.jpg
     title: 096-img_0155.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/097-img_0158.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/097-img_0158.jpg
+    title: 097-img_0158.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/100-img_0164.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/100-img_0164.jpg
     title: 100-img_0164.jpg
@@ -138,6 +144,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/114-img_0189.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/114-img_0189.jpg
     title: 114-img_0189.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/118-img_0198.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/118-img_0198.jpg
+    title: 118-img_0198.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/119-img_0199.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/119-img_0199.jpg
     title: 119-img_0199.jpg
@@ -156,6 +165,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/138-img_0223.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/138-img_0223.jpg
     title: 138-img_0223.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/139-img_0225.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/139-img_0225.jpg
+    title: 139-img_0225.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/143-img_0229.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/143-img_0229.jpg
     title: 143-img_0229.jpg
@@ -183,6 +195,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/155-img_0247.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/155-img_0247.jpg
     title: 155-img_0247.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/156-img_0248.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/156-img_0248.jpg
+    title: 156-img_0248.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/159-img_0253.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/159-img_0253.jpg
     title: 159-img_0253.jpg
@@ -195,6 +210,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/162-img_0256.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/162-img_0256.jpg
     title: 162-img_0256.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/168-img_0269.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/168-img_0269.jpg
+    title: 168-img_0269.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/174-img_0279.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/174-img_0279.jpg
     title: 174-img_0279.jpg
@@ -228,6 +246,9 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/194-img_0305.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/194-img_0305.jpg
     title: 194-img_0305.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/197-img_0308.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/197-img_0308.jpg
+    title: 197-img_0308.jpg
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/200-img_0319.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/200-img_0319.jpg
     title: 200-img_0319.jpg
@@ -240,4 +261,7 @@ photos:
   - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/203-img_0322.jpg
     thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/203-img_0322.jpg
     title: 203-img_0322.jpg
+  - original: /2017/07/senior-men-shannon-gaels-v-mac-finns/204-img_0323.jpg
+    thumbnail: /t/2017/07/senior-men-shannon-gaels-v-mac-finns/204-img_0323.jpg
+    title: 204-img_0323.jpg
 ---
