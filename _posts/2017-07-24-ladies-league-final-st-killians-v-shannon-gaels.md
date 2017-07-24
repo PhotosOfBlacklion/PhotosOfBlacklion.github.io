@@ -51,6 +51,9 @@ photos:
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/016-img_0027.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/016-img_0027.jpg
     title: 016-img_0027.jpg
+  - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/017-img_0030.jpg
+    thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/017-img_0030.jpg
+    title: 017-img_0030.jpg
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/018-img_0031.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/018-img_0031.jpg
     title: 018-img_0031.jpg
@@ -84,6 +87,9 @@ photos:
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/028-img_0044.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/028-img_0044.jpg
     title: 028-img_0044.jpg
+  - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/029-img_0045.jpg
+    thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/029-img_0045.jpg
+    title: 029-img_0045.jpg
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/030-img_0046.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/030-img_0046.jpg
     title: 030-img_0046.jpg
@@ -552,6 +558,9 @@ photos:
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/188-img_0339.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/188-img_0339.jpg
     title: 188-img_0339.jpg
+  - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/189-img_0340.jpg
+    thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/189-img_0340.jpg
+    title: 189-img_0340.jpg
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/190-img_0341.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/190-img_0341.jpg
     title: 190-img_0341.jpg
@@ -1275,6 +1284,9 @@ photos:
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/442-img_0689.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/442-img_0689.jpg
     title: 442-img_0689.jpg
+  - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/443-img_0692.jpg
+    thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/443-img_0692.jpg
+    title: 443-img_0692.jpg
   - original: /2017/07/ladies-league-final-st-killians-v-shannon-gaels/445-img_0694.jpg
     thumbnail: /t/2017/07/ladies-league-final-st-killians-v-shannon-gaels/445-img_0694.jpg
     title: 445-img_0694.jpg
