@@ -45,6 +45,9 @@ photos:
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/029-img_0051.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/029-img_0051.jpg
     title: 029-img_0051.jpg
+  - original: /2017/07/junior-championship-corlough-v-shannon-gaels/034-img_0058.jpg
+    thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/034-img_0058.jpg
+    title: 034-img_0058.jpg
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/038-img_0064.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/038-img_0064.jpg
     title: 038-img_0064.jpg
@@ -90,6 +93,9 @@ photos:
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/061-img_0102.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/061-img_0102.jpg
     title: 061-img_0102.jpg
+  - original: /2017/07/junior-championship-corlough-v-shannon-gaels/064-img_0106.jpg
+    thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/064-img_0106.jpg
+    title: 064-img_0106.jpg
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/067-img_0109.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/067-img_0109.jpg
     title: 067-img_0109.jpg
@@ -177,6 +183,12 @@ photos:
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/120-img_0192.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/120-img_0192.jpg
     title: 120-img_0192.jpg
+  - original: /2017/07/junior-championship-corlough-v-shannon-gaels/121-img_0194.jpg
+    thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/121-img_0194.jpg
+    title: 121-img_0194.jpg
+  - original: /2017/07/junior-championship-corlough-v-shannon-gaels/122-img_0195.jpg
+    thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/122-img_0195.jpg
+    title: 122-img_0195.jpg
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/123-img_0196.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/123-img_0196.jpg
     title: 123-img_0196.jpg
@@ -237,6 +249,9 @@ photos:
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/159-img_0251.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/159-img_0251.jpg
     title: 159-img_0251.jpg
+  - original: /2017/07/junior-championship-corlough-v-shannon-gaels/161-img_0256.jpg
+    thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/161-img_0256.jpg
+    title: 161-img_0256.jpg
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/163-img_0259.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/163-img_0259.jpg
     title: 163-img_0259.jpg
@@ -279,6 +294,9 @@ photos:
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/190-img_0317.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/190-img_0317.jpg
     title: 190-img_0317.jpg
+  - original: /2017/07/junior-championship-corlough-v-shannon-gaels/194-img_0328.jpg
+    thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/194-img_0328.jpg
+    title: 194-img_0328.jpg
   - original: /2017/07/junior-championship-corlough-v-shannon-gaels/195-img_0329.jpg
     thumbnail: /t/2017/07/junior-championship-corlough-v-shannon-gaels/195-img_0329.jpg
     title: 195-img_0329.jpg
