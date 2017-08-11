@@ -75,15 +75,33 @@ photos:
   - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/25-img_0046.jpg
     thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/25-img_0046.jpg
     title: 25-img_0046.jpg
+  - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/27-img_0048.jpg
+    thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/27-img_0048.jpg
+    title: 27-img_0048.jpg
   - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/32-img_0053.jpg
     thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/32-img_0053.jpg
     title: 32-img_0053.jpg
   - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/33-img_0054.jpg
     thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/33-img_0054.jpg
     title: 33-img_0054.jpg
+  - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/38-img_0059.jpg
+    thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/38-img_0059.jpg
+    title: 38-img_0059.jpg
+  - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/39-img_0060.jpg
+    thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/39-img_0060.jpg
+    title: 39-img_0060.jpg
+  - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/40-img_0061.jpg
+    thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/40-img_0061.jpg
+    title: 40-img_0061.jpg
+  - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/43-img_0064.jpg
+    thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/43-img_0064.jpg
+    title: 43-img_0064.jpg
   - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/48-img_0071.jpg
     thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/48-img_0071.jpg
     title: 48-img_0071.jpg
+  - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/50-img_0073.jpg
+    thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/50-img_0073.jpg
+    title: 50-img_0073.jpg
   - original: /2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/51-img_0074.jpg
     thumbnail: /t/2017/08/soften-the-border-at-belcoo-co-fermanagh-and-blacklion-co-cavan/51-img_0074.jpg
     title: 51-img_0074.jpg
