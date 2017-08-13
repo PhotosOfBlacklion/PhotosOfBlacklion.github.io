@@ -15,9 +15,24 @@ photos:
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/004-img_0007.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/004-img_0007.jpg
     title: 004-img_0007.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/005-img_0008.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/005-img_0008.jpg
+    title: 005-img_0008.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/006-img_0009.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/006-img_0009.jpg
+    title: 006-img_0009.jpg
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/009-img_0017.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/009-img_0017.jpg
     title: 009-img_0017.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/010-img_0019.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/010-img_0019.jpg
+    title: 010-img_0019.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/011-img_0020.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/011-img_0020.jpg
+    title: 011-img_0020.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/012-img_0024.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/012-img_0024.jpg
+    title: 012-img_0024.jpg
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/013-img_0029.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/013-img_0029.jpg
     title: 013-img_0029.jpg
@@ -48,6 +63,9 @@ photos:
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/022-img_0046.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/022-img_0046.jpg
     title: 022-img_0046.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/023-img_0047.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/023-img_0047.jpg
+    title: 023-img_0047.jpg
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/026-img_0051.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/026-img_0051.jpg
     title: 026-img_0051.jpg
@@ -75,9 +93,18 @@ photos:
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/034-img_0065.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/034-img_0065.jpg
     title: 034-img_0065.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/035-img_0071.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/035-img_0071.jpg
+    title: 035-img_0071.jpg
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/037-img_0076.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/037-img_0076.jpg
     title: 037-img_0076.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/038-img_0077.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/038-img_0077.jpg
+    title: 038-img_0077.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/039-img_0078.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/039-img_0078.jpg
+    title: 039-img_0078.jpg
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/040-img_0079.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/040-img_0079.jpg
     title: 040-img_0079.jpg
@@ -87,6 +114,12 @@ photos:
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/042-img_0081.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/042-img_0081.jpg
     title: 042-img_0081.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/043-img_0086.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/043-img_0086.jpg
+    title: 043-img_0086.jpg
+  - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/044-img_0088.jpg
+    thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/044-img_0088.jpg
+    title: 044-img_0088.jpg
   - original: /2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/045-img_0089.jpg
     thumbnail: /t/2017/08/senior-ladies-shannon-gaels-v-corr-na-fin/045-img_0089.jpg
     title: 045-img_0089.jpg
