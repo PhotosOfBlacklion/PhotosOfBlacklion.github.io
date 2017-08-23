@@ -1,5 +1,5 @@
 ---
-title: 11-11-2013 Launch of DVD  On The Shores of Lough Mac Neane.
+title: Launch of DVD  On The Shores of Lough Mac Neane
 date: 2013-11-11 12:00
 thumbnail: /t/2013/11/launch-of-dvd-on-the-shores-of-lough-mac-neane/01-11-11-2013-022.jpg
 photos:

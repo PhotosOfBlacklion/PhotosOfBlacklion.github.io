@@ -1,5 +1,5 @@
 ---
-title: 30-11-2013 Cookery Demonstration & Craft Fair in aid of St Patricks School, Blacklion.
+title: Cookery Demonstration & Craft Fair in aid of St Patricks School, Blacklion
 date: 2013-11-30 12:00
 thumbnail: /t/2013/11/cookery-demonstration-craft-fair-in-aid-of-st-patricks-school-blacklion/001-cookery-demonstration-craft-fare-in-rainbow-ballroom-of-romanc-010.jpg
 photos:

@@ -1,5 +1,5 @@
 ---
-title: Mac Neane Icebreakers Christhas Day Charity Swim 2013
+title: Mac Neane Icebreakers Christmas Day Charity Swim 2013
 date: 2013-12-25 12:00
 thumbnail: /t/2013/12/mac-nean-icebreakers-christmas-day-charity-swim/001-004.jpg
 photos:
