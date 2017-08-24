@@ -1,14 +1,6 @@
 body {
   color: #5a5a5a;
 }
-.navbar-wrapper {
-  margin-top: 20px;
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  z-index: 20;
-}
 .jumbotron {
   height: 200px;
   margin-bottom: 60px;
