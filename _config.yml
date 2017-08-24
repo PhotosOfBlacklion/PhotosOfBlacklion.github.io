@@ -15,3 +15,6 @@ defaults:
       type: "posts"
     values:
       layout: "gallery"
+      custom_js:
+        - "blueimp-gallery.min"
+        - "gallery"
