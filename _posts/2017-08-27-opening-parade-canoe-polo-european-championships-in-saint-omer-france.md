@@ -156,6 +156,9 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/065-img_0845.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/065-img_0845.jpg
     title: 065-img_0845.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/066-img_0847.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/066-img_0847.jpg
+    title: 066-img_0847.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/068-img_0850.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/068-img_0850.jpg
     title: 068-img_0850.jpg
@@ -183,6 +186,12 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/093-img_0881.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/093-img_0881.jpg
     title: 093-img_0881.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/094-img_0882.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/094-img_0882.jpg
+    title: 094-img_0882.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/095-img_0883.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/095-img_0883.jpg
+    title: 095-img_0883.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/100-img_0888.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/100-img_0888.jpg
     title: 100-img_0888.jpg
@@ -231,6 +240,9 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/136-img_0929.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/136-img_0929.jpg
     title: 136-img_0929.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/137-img_0930.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/137-img_0930.jpg
+    title: 137-img_0930.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/138-img_0931.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/138-img_0931.jpg
     title: 138-img_0931.jpg
@@ -255,6 +267,9 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/147-img_0943.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/147-img_0943.jpg
     title: 147-img_0943.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/148-img_0945.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/148-img_0945.jpg
+    title: 148-img_0945.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/149-img_0946.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/149-img_0946.jpg
     title: 149-img_0946.jpg
@@ -366,6 +381,9 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/265-img_1072.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/265-img_1072.jpg
     title: 265-img_1072.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/266-img_1073.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/266-img_1073.jpg
+    title: 266-img_1073.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/270-img_1077.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/270-img_1077.jpg
     title: 270-img_1077.jpg
