@@ -234,6 +234,9 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/186-img_0993.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/186-img_0993.jpg
     title: 186-img_0993.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/204-img_1011.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/204-img_1011.jpg
+    title: 204-img_1011.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/212-img_1019.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/212-img_1019.jpg
     title: 212-img_1019.jpg
@@ -243,15 +246,27 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/260-img_1067.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/260-img_1067.jpg
     title: 260-img_1067.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/265-img_1072.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/265-img_1072.jpg
+    title: 265-img_1072.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/320-img_1127.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/320-img_1127.jpg
     title: 320-img_1127.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/323-img_1130.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/323-img_1130.jpg
+    title: 323-img_1130.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/324-img_1131.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/324-img_1131.jpg
     title: 324-img_1131.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/347-img_1154.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/347-img_1154.jpg
+    title: 347-img_1154.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/349-img_1156.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/349-img_1156.jpg
     title: 349-img_1156.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/352-img_1159.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/352-img_1159.jpg
+    title: 352-img_1159.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/355-img_1162.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/355-img_1162.jpg
     title: 355-img_1162.jpg
@@ -279,6 +294,12 @@ photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/366-img_1173.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/366-img_1173.jpg
     title: 366-img_1173.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/367-img_1174.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/367-img_1174.jpg
+    title: 367-img_1174.jpg
+  - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/368-img_1175.jpg
+    thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/368-img_1175.jpg
+    title: 368-img_1175.jpg
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/369-img_1176.jpg
     thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/369-img_1176.jpg
     title: 369-img_1176.jpg
