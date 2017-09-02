@@ -45,12 +45,21 @@ photos:
   - original: /2017/08/senior-men-italy-sweden/193-img_1503.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/193-img_1503.jpg
     title: 193-img_1503.jpg
+  - original: /2017/08/senior-men-italy-sweden/194-img_1504.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/194-img_1504.jpg
+    title: 194-img_1504.jpg
   - original: /2017/08/senior-men-italy-sweden/195-img_1505.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/195-img_1505.jpg
     title: 195-img_1505.jpg
   - original: /2017/08/senior-men-italy-sweden/196-img_1506.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/196-img_1506.jpg
     title: 196-img_1506.jpg
+  - original: /2017/08/senior-men-italy-sweden/197-img_1507.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/197-img_1507.jpg
+    title: 197-img_1507.jpg
+  - original: /2017/08/senior-men-italy-sweden/198-img_1508.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/198-img_1508.jpg
+    title: 198-img_1508.jpg
   - original: /2017/08/senior-men-italy-sweden/199-img_1509.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/199-img_1509.jpg
     title: 199-img_1509.jpg
@@ -72,6 +81,9 @@ photos:
   - original: /2017/08/senior-men-italy-sweden/205-img_1515.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/205-img_1515.jpg
     title: 205-img_1515.jpg
+  - original: /2017/08/senior-men-italy-sweden/206-img_1517.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/206-img_1517.jpg
+    title: 206-img_1517.jpg
   - original: /2017/08/senior-men-italy-sweden/207-img_1519.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/207-img_1519.jpg
     title: 207-img_1519.jpg
