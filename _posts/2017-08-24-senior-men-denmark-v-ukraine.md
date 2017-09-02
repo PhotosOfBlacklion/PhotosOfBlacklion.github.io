@@ -102,6 +102,27 @@ photos:
   - original: /2017/08/senior-men-denmark-v-ukraine/294-img_1643.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/294-img_1643.jpg
     title: 294-img_1643.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/295-img_1190.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/295-img_1190.jpg
+    title: 295-img_1190.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/296-img_1191.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/296-img_1191.jpg
+    title: 296-img_1191.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/297-img_1192.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/297-img_1192.jpg
+    title: 297-img_1192.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/298-img_1193.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/298-img_1193.jpg
+    title: 298-img_1193.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/299-img_1205.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/299-img_1205.jpg
+    title: 299-img_1205.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/300-img_1450.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/300-img_1450.jpg
+    title: 300-img_1450.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/301-img_1644.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/301-img_1644.jpg
+    title: 301-img_1644.jpg
   - original: /2017/08/senior-men-denmark-v-ukraine/302-img_1645.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/302-img_1645.jpg
     title: 302-img_1645.jpg
