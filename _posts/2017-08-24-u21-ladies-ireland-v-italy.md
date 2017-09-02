@@ -57,15 +57,45 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-italy/494-img_1842.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/494-img_1842.jpg
     title: 494-img_1842.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/495-img_1843.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/495-img_1843.jpg
+    title: 495-img_1843.jpg
   - original: /2017/08/u21-ladies-ireland-v-italy/496-img_1844.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/496-img_1844.jpg
     title: 496-img_1844.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/497-img_1845.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/497-img_1845.jpg
+    title: 497-img_1845.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/498-img_1846.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/498-img_1846.jpg
+    title: 498-img_1846.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/499-img_1847.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/499-img_1847.jpg
+    title: 499-img_1847.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/500-img_1849.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/500-img_1849.jpg
+    title: 500-img_1849.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/501-img_1850.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/501-img_1850.jpg
+    title: 501-img_1850.jpg
   - original: /2017/08/u21-ladies-ireland-v-italy/502-img_1851.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/502-img_1851.jpg
     title: 502-img_1851.jpg
   - original: /2017/08/u21-ladies-ireland-v-italy/503-img_1852.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/503-img_1852.jpg
     title: 503-img_1852.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/504-img_1853.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/504-img_1853.jpg
+    title: 504-img_1853.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/505-img_1854.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/505-img_1854.jpg
+    title: 505-img_1854.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/506-img_1855.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/506-img_1855.jpg
+    title: 506-img_1855.jpg
+  - original: /2017/08/u21-ladies-ireland-v-italy/507-img_1856.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/507-img_1856.jpg
+    title: 507-img_1856.jpg
   - original: /2017/08/u21-ladies-ireland-v-italy/508-img_1859.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-italy/508-img_1859.jpg
     title: 508-img_1859.jpg
