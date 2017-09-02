@@ -3,6 +3,9 @@ title: U21 Men Denmark V Ireland
 date: 2017-08-24 12:00
 thumbnail: /t/2017/08/u21-men-denmark-v-ireland/210-img_1528.jpg
 photos:
+  - original: /2017/08/u21-men-denmark-v-ireland/2017-08-24-senior-men-denmark-v-ukraine/262-img_1592.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/2017-08-24-senior-men-denmark-v-ukraine/262-img_1592.jpg
+    title: 262-img_1592.jpg
   - original: /2017/08/u21-men-denmark-v-ireland/210-img_1528.jpg
     thumbnail: /t/2017/08/u21-men-denmark-v-ireland/210-img_1528.jpg
     title: 210-img_1528.jpg
