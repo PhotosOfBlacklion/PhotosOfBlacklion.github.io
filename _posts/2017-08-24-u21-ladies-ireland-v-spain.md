@@ -30,4 +30,49 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-spain/093-img_1345.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/093-img_1345.jpg
     title: 093-img_1345.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/094-img_1347.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/094-img_1347.jpg
+    title: 094-img_1347.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/097-img_1351.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/097-img_1351.jpg
+    title: 097-img_1351.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/100-img_1355.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/100-img_1355.jpg
+    title: 100-img_1355.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/107-img_1369.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/107-img_1369.jpg
+    title: 107-img_1369.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/111-img_1375.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/111-img_1375.jpg
+    title: 111-img_1375.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/113-img_1377.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/113-img_1377.jpg
+    title: 113-img_1377.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/125-img_1407.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/125-img_1407.jpg
+    title: 125-img_1407.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/129-img_1411.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/129-img_1411.jpg
+    title: 129-img_1411.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/134-img_1419.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/134-img_1419.jpg
+    title: 134-img_1419.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/138-img_1423.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/138-img_1423.jpg
+    title: 138-img_1423.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/140-img_1426.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/140-img_1426.jpg
+    title: 140-img_1426.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/146-img_1438.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/146-img_1438.jpg
+    title: 146-img_1438.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/147-img_1439.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/147-img_1439.jpg
+    title: 147-img_1439.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/151-img_1446.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/151-img_1446.jpg
+    title: 151-img_1446.jpg
+  - original: /2017/08/u21-ladies-ireland-v-spain/153-img_1451.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-spain/153-img_1451.jpg
+    title: 153-img_1451.jpg
 ---
