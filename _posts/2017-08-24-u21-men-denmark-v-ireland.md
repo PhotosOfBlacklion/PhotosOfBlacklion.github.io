@@ -6,13 +6,79 @@ photos:
   - original: /2017/08/u21-men-denmark-v-ireland/210-img_1528.jpg
     thumbnail: /t/2017/08/u21-men-denmark-v-ireland/210-img_1528.jpg
     title: 210-img_1528.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/211-img_1522.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/211-img_1522.jpg
+    title: 211-img_1522.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/212-img_1523.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/212-img_1523.jpg
+    title: 212-img_1523.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/213-img_1525.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/213-img_1525.jpg
+    title: 213-img_1525.jpg
   - original: /2017/08/u21-men-denmark-v-ireland/214-img_1526.jpg
     thumbnail: /t/2017/08/u21-men-denmark-v-ireland/214-img_1526.jpg
     title: 214-img_1526.jpg
   - original: /2017/08/u21-men-denmark-v-ireland/215-img_1527.jpg
     thumbnail: /t/2017/08/u21-men-denmark-v-ireland/215-img_1527.jpg
     title: 215-img_1527.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/216-img_1529.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/216-img_1529.jpg
+    title: 216-img_1529.jpg
   - original: /2017/08/u21-men-denmark-v-ireland/217-img_1530.jpg
     thumbnail: /t/2017/08/u21-men-denmark-v-ireland/217-img_1530.jpg
     title: 217-img_1530.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/218-img_1531.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/218-img_1531.jpg
+    title: 218-img_1531.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/219-img_1532.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/219-img_1532.jpg
+    title: 219-img_1532.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/220-img_1533.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/220-img_1533.jpg
+    title: 220-img_1533.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/226-img_1541.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/226-img_1541.jpg
+    title: 226-img_1541.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/227-img_1542.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/227-img_1542.jpg
+    title: 227-img_1542.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/228-img_1543.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/228-img_1543.jpg
+    title: 228-img_1543.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/229-img_1544.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/229-img_1544.jpg
+    title: 229-img_1544.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/230-img_1545.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/230-img_1545.jpg
+    title: 230-img_1545.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/231-img_1547.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/231-img_1547.jpg
+    title: 231-img_1547.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/232-img_1548.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/232-img_1548.jpg
+    title: 232-img_1548.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/233-img_1549.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/233-img_1549.jpg
+    title: 233-img_1549.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/234-img_1550.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/234-img_1550.jpg
+    title: 234-img_1550.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/235-img_1551.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/235-img_1551.jpg
+    title: 235-img_1551.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/236-img_1553.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/236-img_1553.jpg
+    title: 236-img_1553.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/238-img_1555.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/238-img_1555.jpg
+    title: 238-img_1555.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/248-img_1568.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/248-img_1568.jpg
+    title: 248-img_1568.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/259-img_1579.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/259-img_1579.jpg
+    title: 259-img_1579.jpg
+  - original: /2017/08/u21-men-denmark-v-ireland/260-img_1580.jpg
+    thumbnail: /t/2017/08/u21-men-denmark-v-ireland/260-img_1580.jpg
+    title: 260-img_1580.jpg
 ---
