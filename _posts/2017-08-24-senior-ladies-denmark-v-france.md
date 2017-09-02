@@ -84,4 +84,55 @@ photos:
   - original: /2017/08/senior-ladies-denmark-v-france/376-img_1708.jpg
     thumbnail: /t/2017/08/senior-ladies-denmark-v-france/376-img_1708.jpg
     title: 376-img_1708.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/377-img_1709.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/377-img_1709.jpg
+    title: 377-img_1709.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/378-img_1710.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/378-img_1710.jpg
+    title: 378-img_1710.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/379-img_1711.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/379-img_1711.jpg
+    title: 379-img_1711.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/380-img_1712.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/380-img_1712.jpg
+    title: 380-img_1712.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/381-img_1716.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/381-img_1716.jpg
+    title: 381-img_1716.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/382-img_1720.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/382-img_1720.jpg
+    title: 382-img_1720.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/383-img_1721.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/383-img_1721.jpg
+    title: 383-img_1721.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/384-img_1722.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/384-img_1722.jpg
+    title: 384-img_1722.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/385-img_1723.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/385-img_1723.jpg
+    title: 385-img_1723.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/386-img_1724.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/386-img_1724.jpg
+    title: 386-img_1724.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/387-img_1725.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/387-img_1725.jpg
+    title: 387-img_1725.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/388-img_1729.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/388-img_1729.jpg
+    title: 388-img_1729.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/389-img_1730.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/389-img_1730.jpg
+    title: 389-img_1730.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/390-img_1731.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/390-img_1731.jpg
+    title: 390-img_1731.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/391-img_1732.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/391-img_1732.jpg
+    title: 391-img_1732.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/392-img_1733.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/392-img_1733.jpg
+    title: 392-img_1733.jpg
+  - original: /2017/08/senior-ladies-denmark-v-france/393-img_1734.jpg
+    thumbnail: /t/2017/08/senior-ladies-denmark-v-france/393-img_1734.jpg
+    title: 393-img_1734.jpg
 ---
