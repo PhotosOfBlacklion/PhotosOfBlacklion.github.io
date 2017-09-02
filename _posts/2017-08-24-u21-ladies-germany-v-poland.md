@@ -126,4 +126,31 @@ photos:
   - original: /2017/08/u21-ladies-germany-v-poland/044-img_1268.jpg
     thumbnail: /t/2017/08/u21-ladies-germany-v-poland/044-img_1268.jpg
     title: 044-img_1268.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/049-img_1276.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/049-img_1276.jpg
+    title: 049-img_1276.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/050-img_1277.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/050-img_1277.jpg
+    title: 050-img_1277.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/052-img_1279.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/052-img_1279.jpg
+    title: 052-img_1279.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/053-img_1280.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/053-img_1280.jpg
+    title: 053-img_1280.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/054-img_1283.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/054-img_1283.jpg
+    title: 054-img_1283.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/070-img_1307.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/070-img_1307.jpg
+    title: 070-img_1307.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/071-img_1308.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/071-img_1308.jpg
+    title: 071-img_1308.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/079-img_1327.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/079-img_1327.jpg
+    title: 079-img_1327.jpg
+  - original: /2017/08/u21-ladies-germany-v-poland/084-img_1333.jpg
+    thumbnail: /t/2017/08/u21-ladies-germany-v-poland/084-img_1333.jpg
+    title: 084-img_1333.jpg
 ---
