@@ -102,4 +102,7 @@ photos:
   - original: /2017/08/senior-men-denmark-v-ukraine/294-img_1643.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/294-img_1643.jpg
     title: 294-img_1643.jpg
+  - original: /2017/08/senior-men-denmark-v-ukraine/302-img_1645.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ukraine/302-img_1645.jpg
+    title: 302-img_1645.jpg
 ---
