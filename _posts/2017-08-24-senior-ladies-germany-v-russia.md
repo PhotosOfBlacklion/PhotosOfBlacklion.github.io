@@ -24,6 +24,15 @@ photos:
   - original: /2017/08/senior-ladies-germany-v-russia/400-img_1742.jpg
     thumbnail: /t/2017/08/senior-ladies-germany-v-russia/400-img_1742.jpg
     title: 400-img_1742.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/402-img_1744.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/402-img_1744.jpg
+    title: 402-img_1744.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/403-img_1745.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/403-img_1745.jpg
+    title: 403-img_1745.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/404-img_1746.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/404-img_1746.jpg
+    title: 404-img_1746.jpg
   - original: /2017/08/senior-ladies-germany-v-russia/405-img_1747.jpg
     thumbnail: /t/2017/08/senior-ladies-germany-v-russia/405-img_1747.jpg
     title: 405-img_1747.jpg
@@ -45,6 +54,12 @@ photos:
   - original: /2017/08/senior-ladies-germany-v-russia/427-img_1770.jpg
     thumbnail: /t/2017/08/senior-ladies-germany-v-russia/427-img_1770.jpg
     title: 427-img_1770.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/431-img_1775.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/431-img_1775.jpg
+    title: 431-img_1775.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/432-img_1776.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/432-img_1776.jpg
+    title: 432-img_1776.jpg
   - original: /2017/08/senior-ladies-germany-v-russia/433-img_1777.jpg
     thumbnail: /t/2017/08/senior-ladies-germany-v-russia/433-img_1777.jpg
     title: 433-img_1777.jpg
@@ -93,7 +108,13 @@ photos:
   - original: /2017/08/senior-ladies-germany-v-russia/455-img_1803.jpg
     thumbnail: /t/2017/08/senior-ladies-germany-v-russia/455-img_1803.jpg
     title: 455-img_1803.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/457-img_1805.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/457-img_1805.jpg
+    title: 457-img_1805.jpg
   - original: /2017/08/senior-ladies-germany-v-russia/458-img_1806.jpg
     thumbnail: /t/2017/08/senior-ladies-germany-v-russia/458-img_1806.jpg
     title: 458-img_1806.jpg
+  - original: /2017/08/senior-ladies-germany-v-russia/460-img_1808.jpg
+    thumbnail: /t/2017/08/senior-ladies-germany-v-russia/460-img_1808.jpg
+    title: 460-img_1808.jpg
 ---
