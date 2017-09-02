@@ -45,22 +45,40 @@ photos:
   - original: /2017/08/senior-men-italy-sweden/193-img_1503.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/193-img_1503.jpg
     title: 193-img_1503.jpg
+  - original: /2017/08/senior-men-italy-sweden/195-img_1505.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/195-img_1505.jpg
+    title: 195-img_1505.jpg
+  - original: /2017/08/senior-men-italy-sweden/196-img_1506.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/196-img_1506.jpg
+    title: 196-img_1506.jpg
   - original: /2017/08/senior-men-italy-sweden/199-img_1509.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/199-img_1509.jpg
     title: 199-img_1509.jpg
   - original: /2017/08/senior-men-italy-sweden/200-img_1510.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/200-img_1510.jpg
     title: 200-img_1510.jpg
+  - original: /2017/08/senior-men-italy-sweden/201-img_1511.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/201-img_1511.jpg
+    title: 201-img_1511.jpg
   - original: /2017/08/senior-men-italy-sweden/202-img_1512.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/202-img_1512.jpg
     title: 202-img_1512.jpg
   - original: /2017/08/senior-men-italy-sweden/203-img_1513.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/203-img_1513.jpg
     title: 203-img_1513.jpg
+  - original: /2017/08/senior-men-italy-sweden/204-img_1514.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/204-img_1514.jpg
+    title: 204-img_1514.jpg
+  - original: /2017/08/senior-men-italy-sweden/205-img_1515.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/205-img_1515.jpg
+    title: 205-img_1515.jpg
   - original: /2017/08/senior-men-italy-sweden/207-img_1519.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/207-img_1519.jpg
     title: 207-img_1519.jpg
   - original: /2017/08/senior-men-italy-sweden/208-img_1520.jpg
     thumbnail: /t/2017/08/senior-men-italy-sweden/208-img_1520.jpg
     title: 208-img_1520.jpg
+  - original: /2017/08/senior-men-italy-sweden/209-img_1521.jpg
+    thumbnail: /t/2017/08/senior-men-italy-sweden/209-img_1521.jpg
+    title: 209-img_1521.jpg
 ---
