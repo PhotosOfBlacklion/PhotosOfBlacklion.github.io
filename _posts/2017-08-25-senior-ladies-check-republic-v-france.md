@@ -6,6 +6,9 @@ photos:
   - original: /2017/08/senior-ladies-check-republic-v-france/1181-img_1680.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1181-img_1680.jpg
     title: 1181-img_1680.jpg
+  - original: /2017/08/senior-ladies-check-republic-v-france/1182-img_1681.jpg
+    thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1182-img_1681.jpg
+    title: 1182-img_1681.jpg
   - original: /2017/08/senior-ladies-check-republic-v-france/1183-img_1682.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1183-img_1682.jpg
     title: 1183-img_1682.jpg
@@ -33,6 +36,9 @@ photos:
   - original: /2017/08/senior-ladies-check-republic-v-france/1194-img_1692.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1194-img_1692.jpg
     title: 1194-img_1692.jpg
+  - original: /2017/08/senior-ladies-check-republic-v-france/1197-img_1696.jpg
+    thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1197-img_1696.jpg
+    title: 1197-img_1696.jpg
   - original: /2017/08/senior-ladies-check-republic-v-france/1198-img_1698.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1198-img_1698.jpg
     title: 1198-img_1698.jpg
@@ -144,6 +150,12 @@ photos:
   - original: /2017/08/senior-ladies-check-republic-v-france/1236-img_1750.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1236-img_1750.jpg
     title: 1236-img_1750.jpg
+  - original: /2017/08/senior-ladies-check-republic-v-france/1239-img_1755.jpg
+    thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1239-img_1755.jpg
+    title: 1239-img_1755.jpg
+  - original: /2017/08/senior-ladies-check-republic-v-france/1241-img_1762.jpg
+    thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1241-img_1762.jpg
+    title: 1241-img_1762.jpg
   - original: /2017/08/senior-ladies-check-republic-v-france/1242-img_1764.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1242-img_1764.jpg
     title: 1242-img_1764.jpg
@@ -222,6 +234,9 @@ photos:
   - original: /2017/08/senior-ladies-check-republic-v-france/1279-img_1824.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1279-img_1824.jpg
     title: 1279-img_1824.jpg
+  - original: /2017/08/senior-ladies-check-republic-v-france/1280-img_1826.jpg
+    thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1280-img_1826.jpg
+    title: 1280-img_1826.jpg
   - original: /2017/08/senior-ladies-check-republic-v-france/1281-img_1829.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1281-img_1829.jpg
     title: 1281-img_1829.jpg
@@ -252,6 +267,9 @@ photos:
   - original: /2017/08/senior-ladies-check-republic-v-france/1290-img_1845.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1290-img_1845.jpg
     title: 1290-img_1845.jpg
+  - original: /2017/08/senior-ladies-check-republic-v-france/1291-img_1851.jpg
+    thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1291-img_1851.jpg
+    title: 1291-img_1851.jpg
   - original: /2017/08/senior-ladies-check-republic-v-france/1294-img_1858.jpg
     thumbnail: /t/2017/08/senior-ladies-check-republic-v-france/1294-img_1858.jpg
     title: 1294-img_1858.jpg
