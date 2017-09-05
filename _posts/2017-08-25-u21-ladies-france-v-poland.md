@@ -48,6 +48,9 @@ photos:
   - original: /2017/08/u21-ladies-france-v-poland/1124-img_1580.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1124-img_1580.jpg
     title: 1124-img_1580.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1125-img_1582.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1125-img_1582.jpg
+    title: 1125-img_1582.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1131-img_1597.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1131-img_1597.jpg
     title: 1131-img_1597.jpg
@@ -66,9 +69,27 @@ photos:
   - original: /2017/08/u21-ladies-france-v-poland/1146-img_1623.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1146-img_1623.jpg
     title: 1146-img_1623.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1148-img_1626.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1148-img_1626.jpg
+    title: 1148-img_1626.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1161-img_1650.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1161-img_1650.jpg
+    title: 1161-img_1650.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1163-img_1652.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1163-img_1652.jpg
+    title: 1163-img_1652.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1164-img_1654.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1164-img_1654.jpg
+    title: 1164-img_1654.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1165-img_1655.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1165-img_1655.jpg
+    title: 1165-img_1655.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1173-img_1664.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1173-img_1664.jpg
     title: 1173-img_1664.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1177-img_1670.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1177-img_1670.jpg
+    title: 1177-img_1670.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1180-img_1674.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1180-img_1674.jpg
     title: 1180-img_1674.jpg
