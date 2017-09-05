@@ -126,6 +126,9 @@ photos:
   - original: /2017/08/players-and-supporters/0376-img_0611.jpg
     thumbnail: /t/2017/08/players-and-supporters/0376-img_0611.jpg
     title: 0376-img_0611.jpg
+  - original: /2017/08/players-and-supporters/0989-img_1406.jpg
+    thumbnail: /t/2017/08/players-and-supporters/0989-img_1406.jpg
+    title: 0989-img_1406.jpg
   - original: /2017/08/players-and-supporters/1063-img_1494.jpg
     thumbnail: /t/2017/08/players-and-supporters/1063-img_1494.jpg
     title: 1063-img_1494.jpg
