@@ -315,6 +315,9 @@ photos:
   - original: /2017/08/senior-ladies-russia-v-spain/0889-img_1251.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0889-img_1251.jpg
     title: 0889-img_1251.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0892-img_1262.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0892-img_1262.jpg
+    title: 0892-img_1262.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0894-img_1264.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0894-img_1264.jpg
     title: 0894-img_1264.jpg
