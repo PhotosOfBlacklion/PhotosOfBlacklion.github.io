@@ -57,6 +57,9 @@ photos:
   - original: /2017/08/senior-men-germany-v-portugal/0018-img_0019.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-portugal/0018-img_0019.jpg
     title: 0018-img_0019.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0019-img_0020.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0019-img_0020.jpg
+    title: 0019-img_0020.jpg
   - original: /2017/08/senior-men-germany-v-portugal/0020-img_0022.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-portugal/0020-img_0022.jpg
     title: 0020-img_0022.jpg
@@ -69,13 +72,52 @@ photos:
   - original: /2017/08/senior-men-germany-v-portugal/0023-img_0026.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-portugal/0023-img_0026.jpg
     title: 0023-img_0026.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0024-img_0027.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0024-img_0027.jpg
+    title: 0024-img_0027.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0025-img_0028.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0025-img_0028.jpg
+    title: 0025-img_0028.jpg
   - original: /2017/08/senior-men-germany-v-portugal/0026-img_0029.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-portugal/0026-img_0029.jpg
     title: 0026-img_0029.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0027-img_0031.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0027-img_0031.jpg
+    title: 0027-img_0031.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0028-img_0033.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0028-img_0033.jpg
+    title: 0028-img_0033.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0029-img_0034.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0029-img_0034.jpg
+    title: 0029-img_0034.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0030-img_0037.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0030-img_0037.jpg
+    title: 0030-img_0037.jpg
   - original: /2017/08/senior-men-germany-v-portugal/0031-img_0039.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-portugal/0031-img_0039.jpg
     title: 0031-img_0039.jpg
   - original: /2017/08/senior-men-germany-v-portugal/0032-img_0040.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-portugal/0032-img_0040.jpg
     title: 0032-img_0040.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0033-img_0042.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0033-img_0042.jpg
+    title: 0033-img_0042.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0034-img_0043.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0034-img_0043.jpg
+    title: 0034-img_0043.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0035-img_0044.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0035-img_0044.jpg
+    title: 0035-img_0044.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0036-img_0045.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0036-img_0045.jpg
+    title: 0036-img_0045.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0037-img_0046.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0037-img_0046.jpg
+    title: 0037-img_0046.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0038-img_0047.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0038-img_0047.jpg
+    title: 0038-img_0047.jpg
+  - original: /2017/08/senior-men-germany-v-portugal/0039-img_0048.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-portugal/0039-img_0048.jpg
+    title: 0039-img_0048.jpg
 ---
