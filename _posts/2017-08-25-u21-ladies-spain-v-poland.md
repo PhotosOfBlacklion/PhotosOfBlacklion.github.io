@@ -48,6 +48,9 @@ photos:
   - original: /2017/08/u21-ladies-spain-v-poland/0676-img_0923.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0676-img_0923.jpg
     title: 0676-img_0923.jpg
+  - original: /2017/08/u21-ladies-spain-v-poland/0677-img_0925.jpg
+    thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0677-img_0925.jpg
+    title: 0677-img_0925.jpg
   - original: /2017/08/u21-ladies-spain-v-poland/0680-img_0928.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0680-img_0928.jpg
     title: 0680-img_0928.jpg
