@@ -48,12 +48,18 @@ photos:
   - original: /2017/08/senior-ladies-russia-v-spain/0799-img_1099.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0799-img_1099.jpg
     title: 0799-img_1099.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0800-img_1100.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0800-img_1100.jpg
+    title: 0800-img_1100.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0801-img_1102.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0801-img_1102.jpg
     title: 0801-img_1102.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0802-img_1103.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0802-img_1103.jpg
     title: 0802-img_1103.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0803-img_1104.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0803-img_1104.jpg
+    title: 0803-img_1104.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0805-img_1106.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0805-img_1106.jpg
     title: 0805-img_1106.jpg
@@ -66,6 +72,9 @@ photos:
   - original: /2017/08/senior-ladies-russia-v-spain/0810-img_1114.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0810-img_1114.jpg
     title: 0810-img_1114.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0813-img_1117.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0813-img_1117.jpg
+    title: 0813-img_1117.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0814-img_1118.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0814-img_1118.jpg
     title: 0814-img_1118.jpg
@@ -87,6 +96,9 @@ photos:
   - original: /2017/08/senior-ladies-russia-v-spain/0824-img_1129.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0824-img_1129.jpg
     title: 0824-img_1129.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0825-img_1131.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0825-img_1131.jpg
+    title: 0825-img_1131.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0826-img_1132.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0826-img_1132.jpg
     title: 0826-img_1132.jpg
@@ -126,6 +138,9 @@ photos:
   - original: /2017/08/senior-ladies-russia-v-spain/0855-img_1182.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0855-img_1182.jpg
     title: 0855-img_1182.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0856-img_1183.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0856-img_1183.jpg
+    title: 0856-img_1183.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0857-img_1187.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0857-img_1187.jpg
     title: 0857-img_1187.jpg
@@ -213,6 +228,9 @@ photos:
   - original: /2017/08/senior-ladies-russia-v-spain/0901-img_1273.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0901-img_1273.jpg
     title: 0901-img_1273.jpg
+  - original: /2017/08/senior-ladies-russia-v-spain/0902-img_1275.jpg
+    thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0902-img_1275.jpg
+    title: 0902-img_1275.jpg
   - original: /2017/08/senior-ladies-russia-v-spain/0903-img_1276.jpg
     thumbnail: /t/2017/08/senior-ladies-russia-v-spain/0903-img_1276.jpg
     title: 0903-img_1276.jpg
