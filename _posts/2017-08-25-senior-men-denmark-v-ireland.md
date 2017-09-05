@@ -60,6 +60,12 @@ photos:
   - original: /2017/08/senior-men-denmark-v-ireland/0593-img_0838.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0593-img_0838.jpg
     title: 0593-img_0838.jpg
+  - original: /2017/08/senior-men-denmark-v-ireland/0594-img_0839.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0594-img_0839.jpg
+    title: 0594-img_0839.jpg
+  - original: /2017/08/senior-men-denmark-v-ireland/0596-img_0841.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0596-img_0841.jpg
+    title: 0596-img_0841.jpg
   - original: /2017/08/senior-men-denmark-v-ireland/0598-img_0843.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0598-img_0843.jpg
     title: 0598-img_0843.jpg
@@ -75,6 +81,9 @@ photos:
   - original: /2017/08/senior-men-denmark-v-ireland/0608-img_0860.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0608-img_0860.jpg
     title: 0608-img_0860.jpg
+  - original: /2017/08/senior-men-denmark-v-ireland/0614-img_0867.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0614-img_0867.jpg
+    title: 0614-img_0867.jpg
   - original: /2017/08/senior-men-denmark-v-ireland/0615-img_0868.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0615-img_0868.jpg
     title: 0615-img_0868.jpg
@@ -84,9 +93,15 @@ photos:
   - original: /2017/08/senior-men-denmark-v-ireland/0622-img_0875.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0622-img_0875.jpg
     title: 0622-img_0875.jpg
+  - original: /2017/08/senior-men-denmark-v-ireland/0626-img_0881.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0626-img_0881.jpg
+    title: 0626-img_0881.jpg
   - original: /2017/08/senior-men-denmark-v-ireland/0628-img_0884.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0628-img_0884.jpg
     title: 0628-img_0884.jpg
+  - original: /2017/08/senior-men-denmark-v-ireland/0629-img_0885.jpg
+    thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0629-img_0885.jpg
+    title: 0629-img_0885.jpg
   - original: /2017/08/senior-men-denmark-v-ireland/0630-img_0888.jpg
     thumbnail: /t/2017/08/senior-men-denmark-v-ireland/0630-img_0888.jpg
     title: 0630-img_0888.jpg
