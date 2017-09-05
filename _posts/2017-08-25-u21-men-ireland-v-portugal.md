@@ -87,9 +87,18 @@ photos:
   - original: /2017/08/u21-men-ireland-v-portugal/0933-img_1312.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0933-img_1312.jpg
     title: 0933-img_1312.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0934-img_1313.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0934-img_1313.jpg
+    title: 0934-img_1313.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0935-img_1314.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0935-img_1314.jpg
+    title: 0935-img_1314.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0936-img_1316.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0936-img_1316.jpg
     title: 0936-img_1316.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0937-img_1318.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0937-img_1318.jpg
+    title: 0937-img_1318.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0939-img_1322.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0939-img_1322.jpg
     title: 0939-img_1322.jpg
@@ -111,12 +120,42 @@ photos:
   - original: /2017/08/u21-men-ireland-v-portugal/0945-img_1329.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0945-img_1329.jpg
     title: 0945-img_1329.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0946-img_1330.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0946-img_1330.jpg
+    title: 0946-img_1330.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0947-img_1331.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0947-img_1331.jpg
+    title: 0947-img_1331.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0948-img_1332.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0948-img_1332.jpg
+    title: 0948-img_1332.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0949-img_1333.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0949-img_1333.jpg
+    title: 0949-img_1333.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0950-img_1337.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0950-img_1337.jpg
+    title: 0950-img_1337.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0951-img_1338.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0951-img_1338.jpg
     title: 0951-img_1338.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0952-img_1340.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0952-img_1340.jpg
+    title: 0952-img_1340.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0953-img_1341.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0953-img_1341.jpg
+    title: 0953-img_1341.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0954-img_1342.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0954-img_1342.jpg
+    title: 0954-img_1342.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0955-img_1343.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0955-img_1343.jpg
+    title: 0955-img_1343.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0956-img_1345.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0956-img_1345.jpg
     title: 0956-img_1345.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0959-img_1350.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0959-img_1350.jpg
+    title: 0959-img_1350.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0960-img_1351.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0960-img_1351.jpg
     title: 0960-img_1351.jpg
@@ -144,13 +183,22 @@ photos:
   - original: /2017/08/u21-men-ireland-v-portugal/0969-img_1370.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0969-img_1370.jpg
     title: 0969-img_1370.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0970-img_1371.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0970-img_1371.jpg
+    title: 0970-img_1371.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0971-img_1375.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0971-img_1375.jpg
     title: 0971-img_1375.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0976-img_1385.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0976-img_1385.jpg
     title: 0976-img_1385.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0977-img_1386.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0977-img_1386.jpg
+    title: 0977-img_1386.jpg
   - original: /2017/08/u21-men-ireland-v-portugal/0980-img_1391.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0980-img_1391.jpg
     title: 0980-img_1391.jpg
+  - original: /2017/08/u21-men-ireland-v-portugal/0981-img_1393.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-portugal/0981-img_1393.jpg
+    title: 0981-img_1393.jpg
 ---
