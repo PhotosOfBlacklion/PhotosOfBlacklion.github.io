@@ -144,6 +144,9 @@ photos:
   - original: /2017/08/players-and-supporters/0994-img_1405.jpg
     thumbnail: /t/2017/08/players-and-supporters/0994-img_1405.jpg
     title: 0994-img_1405.jpg
+  - original: /2017/08/players-and-supporters/0995-img_1410.jpg
+    thumbnail: /t/2017/08/players-and-supporters/0995-img_1410.jpg
+    title: 0995-img_1410.jpg
   - original: /2017/08/players-and-supporters/0996-img_1411.jpg
     thumbnail: /t/2017/08/players-and-supporters/0996-img_1411.jpg
     title: 0996-img_1411.jpg
@@ -159,12 +162,24 @@ photos:
   - original: /2017/08/players-and-supporters/1000-img_1415.jpg
     thumbnail: /t/2017/08/players-and-supporters/1000-img_1415.jpg
     title: 1000-img_1415.jpg
+  - original: /2017/08/players-and-supporters/1001-img_1416.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1001-img_1416.jpg
+    title: 1001-img_1416.jpg
   - original: /2017/08/players-and-supporters/1002-img_1417.jpg
     thumbnail: /t/2017/08/players-and-supporters/1002-img_1417.jpg
     title: 1002-img_1417.jpg
   - original: /2017/08/players-and-supporters/1003-img_1418.jpg
     thumbnail: /t/2017/08/players-and-supporters/1003-img_1418.jpg
     title: 1003-img_1418.jpg
+  - original: /2017/08/players-and-supporters/1004-img_1419.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1004-img_1419.jpg
+    title: 1004-img_1419.jpg
+  - original: /2017/08/players-and-supporters/1005-img_1420.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1005-img_1420.jpg
+    title: 1005-img_1420.jpg
+  - original: /2017/08/players-and-supporters/1006-img_1421.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1006-img_1421.jpg
+    title: 1006-img_1421.jpg
   - original: /2017/08/players-and-supporters/1007-img_1422.jpg
     thumbnail: /t/2017/08/players-and-supporters/1007-img_1422.jpg
     title: 1007-img_1422.jpg
@@ -183,9 +198,24 @@ photos:
   - original: /2017/08/players-and-supporters/1012-img_1427.jpg
     thumbnail: /t/2017/08/players-and-supporters/1012-img_1427.jpg
     title: 1012-img_1427.jpg
+  - original: /2017/08/players-and-supporters/1013-img_1429.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1013-img_1429.jpg
+    title: 1013-img_1429.jpg
+  - original: /2017/08/players-and-supporters/1014-img_1430.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1014-img_1430.jpg
+    title: 1014-img_1430.jpg
+  - original: /2017/08/players-and-supporters/1015-img_1432.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1015-img_1432.jpg
+    title: 1015-img_1432.jpg
+  - original: /2017/08/players-and-supporters/1016-img_1433.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1016-img_1433.jpg
+    title: 1016-img_1433.jpg
   - original: /2017/08/players-and-supporters/1017-img_1434.jpg
     thumbnail: /t/2017/08/players-and-supporters/1017-img_1434.jpg
     title: 1017-img_1434.jpg
+  - original: /2017/08/players-and-supporters/1018-img_1435.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1018-img_1435.jpg
+    title: 1018-img_1435.jpg
   - original: /2017/08/players-and-supporters/1019-img_1436.jpg
     thumbnail: /t/2017/08/players-and-supporters/1019-img_1436.jpg
     title: 1019-img_1436.jpg
@@ -201,6 +231,9 @@ photos:
   - original: /2017/08/players-and-supporters/1023-img_1440.jpg
     thumbnail: /t/2017/08/players-and-supporters/1023-img_1440.jpg
     title: 1023-img_1440.jpg
+  - original: /2017/08/players-and-supporters/1024-img_1441.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1024-img_1441.jpg
+    title: 1024-img_1441.jpg
   - original: /2017/08/players-and-supporters/1025-img_1442.jpg
     thumbnail: /t/2017/08/players-and-supporters/1025-img_1442.jpg
     title: 1025-img_1442.jpg
@@ -210,6 +243,9 @@ photos:
   - original: /2017/08/players-and-supporters/1027-img_1444.jpg
     thumbnail: /t/2017/08/players-and-supporters/1027-img_1444.jpg
     title: 1027-img_1444.jpg
+  - original: /2017/08/players-and-supporters/1028-img_1445.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1028-img_1445.jpg
+    title: 1028-img_1445.jpg
   - original: /2017/08/players-and-supporters/1029-img_1446.jpg
     thumbnail: /t/2017/08/players-and-supporters/1029-img_1446.jpg
     title: 1029-img_1446.jpg
@@ -285,6 +321,9 @@ photos:
   - original: /2017/08/players-and-supporters/1053-img_1479.jpg
     thumbnail: /t/2017/08/players-and-supporters/1053-img_1479.jpg
     title: 1053-img_1479.jpg
+  - original: /2017/08/players-and-supporters/1054-img_1480.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1054-img_1480.jpg
+    title: 1054-img_1480.jpg
   - original: /2017/08/players-and-supporters/1055-img_1481.jpg
     thumbnail: /t/2017/08/players-and-supporters/1055-img_1481.jpg
     title: 1055-img_1481.jpg
@@ -306,6 +345,9 @@ photos:
   - original: /2017/08/players-and-supporters/1061-img_1491.jpg
     thumbnail: /t/2017/08/players-and-supporters/1061-img_1491.jpg
     title: 1061-img_1491.jpg
+  - original: /2017/08/players-and-supporters/1062-img_1492.jpg
+    thumbnail: /t/2017/08/players-and-supporters/1062-img_1492.jpg
+    title: 1062-img_1492.jpg
   - original: /2017/08/players-and-supporters/1063-img_1494.jpg
     thumbnail: /t/2017/08/players-and-supporters/1063-img_1494.jpg
     title: 1063-img_1494.jpg
