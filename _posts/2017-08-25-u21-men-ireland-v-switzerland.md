@@ -42,6 +42,9 @@ photos:
   - original: /2017/08/u21-men-ireland-v-switzerland/0097-img_0129.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0097-img_0129.jpg
     title: 0097-img_0129.jpg
+  - original: /2017/08/u21-men-ireland-v-switzerland/0098-img_0130.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0098-img_0130.jpg
+    title: 0098-img_0130.jpg
   - original: /2017/08/u21-men-ireland-v-switzerland/0102-img_0136.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0102-img_0136.jpg
     title: 0102-img_0136.jpg
@@ -60,6 +63,9 @@ photos:
   - original: /2017/08/u21-men-ireland-v-switzerland/0111-img_0158.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0111-img_0158.jpg
     title: 0111-img_0158.jpg
+  - original: /2017/08/u21-men-ireland-v-switzerland/0113-img_0160.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0113-img_0160.jpg
+    title: 0113-img_0160.jpg
   - original: /2017/08/u21-men-ireland-v-switzerland/0114-img_0161.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0114-img_0161.jpg
     title: 0114-img_0161.jpg
@@ -243,6 +249,9 @@ photos:
   - original: /2017/08/u21-men-ireland-v-switzerland/0198-img_0289.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0198-img_0289.jpg
     title: 0198-img_0289.jpg
+  - original: /2017/08/u21-men-ireland-v-switzerland/0199-img_0290.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0199-img_0290.jpg
+    title: 0199-img_0290.jpg
   - original: /2017/08/u21-men-ireland-v-switzerland/0202-img_0298.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0202-img_0298.jpg
     title: 0202-img_0298.jpg
@@ -258,6 +267,9 @@ photos:
   - original: /2017/08/u21-men-ireland-v-switzerland/0206-img_0307.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0206-img_0307.jpg
     title: 0206-img_0307.jpg
+  - original: /2017/08/u21-men-ireland-v-switzerland/0207-img_0309.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0207-img_0309.jpg
+    title: 0207-img_0309.jpg
   - original: /2017/08/u21-men-ireland-v-switzerland/0208-img_0310.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0208-img_0310.jpg
     title: 0208-img_0310.jpg
@@ -276,6 +288,9 @@ photos:
   - original: /2017/08/u21-men-ireland-v-switzerland/0213-img_0316.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0213-img_0316.jpg
     title: 0213-img_0316.jpg
+  - original: /2017/08/u21-men-ireland-v-switzerland/0214-img_0317.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0214-img_0317.jpg
+    title: 0214-img_0317.jpg
   - original: /2017/08/u21-men-ireland-v-switzerland/0215-img_0320.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0215-img_0320.jpg
     title: 0215-img_0320.jpg
@@ -291,6 +306,9 @@ photos:
   - original: /2017/08/u21-men-ireland-v-switzerland/0221-img_0328.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0221-img_0328.jpg
     title: 0221-img_0328.jpg
+  - original: /2017/08/u21-men-ireland-v-switzerland/0223-img_0331.jpg
+    thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0223-img_0331.jpg
+    title: 0223-img_0331.jpg
   - original: /2017/08/u21-men-ireland-v-switzerland/0224-img_0332.jpg
     thumbnail: /t/2017/08/u21-men-ireland-v-switzerland/0224-img_0332.jpg
     title: 0224-img_0332.jpg
