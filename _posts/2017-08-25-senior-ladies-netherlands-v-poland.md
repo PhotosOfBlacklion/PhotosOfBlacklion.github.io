@@ -18,6 +18,9 @@ photos:
   - original: /2017/08/senior-ladies-netherlands-v-poland/0533-img_0728.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0533-img_0728.jpg
     title: 0533-img_0728.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0534-img_0729.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0534-img_0729.jpg
+    title: 0534-img_0729.jpg
   - original: /2017/08/senior-ladies-netherlands-v-poland/0535-img_0730.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0535-img_0730.jpg
     title: 0535-img_0730.jpg
@@ -36,6 +39,9 @@ photos:
   - original: /2017/08/senior-ladies-netherlands-v-poland/0540-img_0736.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0540-img_0736.jpg
     title: 0540-img_0736.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0541-img_0737.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0541-img_0737.jpg
+    title: 0541-img_0737.jpg
   - original: /2017/08/senior-ladies-netherlands-v-poland/0542-img_0738.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0542-img_0738.jpg
     title: 0542-img_0738.jpg
@@ -45,9 +51,27 @@ photos:
   - original: /2017/08/senior-ladies-netherlands-v-poland/0544-img_0740.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0544-img_0740.jpg
     title: 0544-img_0740.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0545-img_0741.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0545-img_0741.jpg
+    title: 0545-img_0741.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0546-img_0742.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0546-img_0742.jpg
+    title: 0546-img_0742.jpg
   - original: /2017/08/senior-ladies-netherlands-v-poland/0547-img_0743.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0547-img_0743.jpg
     title: 0547-img_0743.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0548-img_0745.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0548-img_0745.jpg
+    title: 0548-img_0745.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0549-img_0746.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0549-img_0746.jpg
+    title: 0549-img_0746.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0550-img_0747.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0550-img_0747.jpg
+    title: 0550-img_0747.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0551-img_0749.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0551-img_0749.jpg
+    title: 0551-img_0749.jpg
   - original: /2017/08/senior-ladies-netherlands-v-poland/0552-img_0750.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0552-img_0750.jpg
     title: 0552-img_0750.jpg
@@ -66,6 +90,9 @@ photos:
   - original: /2017/08/senior-ladies-netherlands-v-poland/0557-img_0757.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0557-img_0757.jpg
     title: 0557-img_0757.jpg
+  - original: /2017/08/senior-ladies-netherlands-v-poland/0558-img_0760.jpg
+    thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0558-img_0760.jpg
+    title: 0558-img_0760.jpg
   - original: /2017/08/senior-ladies-netherlands-v-poland/0559-img_0762.jpg
     thumbnail: /t/2017/08/senior-ladies-netherlands-v-poland/0559-img_0762.jpg
     title: 0559-img_0762.jpg
