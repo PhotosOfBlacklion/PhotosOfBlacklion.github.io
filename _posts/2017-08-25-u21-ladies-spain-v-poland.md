@@ -69,6 +69,9 @@ photos:
   - original: /2017/08/u21-ladies-spain-v-poland/0687-img_0936.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0687-img_0936.jpg
     title: 0687-img_0936.jpg
+  - original: /2017/08/u21-ladies-spain-v-poland/0689-img_0938.jpg
+    thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0689-img_0938.jpg
+    title: 0689-img_0938.jpg
   - original: /2017/08/u21-ladies-spain-v-poland/0690-img_0939.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0690-img_0939.jpg
     title: 0690-img_0939.jpg
@@ -102,6 +105,9 @@ photos:
   - original: /2017/08/u21-ladies-spain-v-poland/0705-img_0956.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0705-img_0956.jpg
     title: 0705-img_0956.jpg
+  - original: /2017/08/u21-ladies-spain-v-poland/0706-img_0957.jpg
+    thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0706-img_0957.jpg
+    title: 0706-img_0957.jpg
   - original: /2017/08/u21-ladies-spain-v-poland/0707-img_0958.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0707-img_0958.jpg
     title: 0707-img_0958.jpg
@@ -114,6 +120,12 @@ photos:
   - original: /2017/08/u21-ladies-spain-v-poland/0710-img_0961.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0710-img_0961.jpg
     title: 0710-img_0961.jpg
+  - original: /2017/08/u21-ladies-spain-v-poland/0713-img_0964.jpg
+    thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0713-img_0964.jpg
+    title: 0713-img_0964.jpg
+  - original: /2017/08/u21-ladies-spain-v-poland/0714-img_0965.jpg
+    thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0714-img_0965.jpg
+    title: 0714-img_0965.jpg
   - original: /2017/08/u21-ladies-spain-v-poland/0715-img_0966.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0715-img_0966.jpg
     title: 0715-img_0966.jpg
@@ -165,6 +177,9 @@ photos:
   - original: /2017/08/u21-ladies-spain-v-poland/0733-img_0995.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0733-img_0995.jpg
     title: 0733-img_0995.jpg
+  - original: /2017/08/u21-ladies-spain-v-poland/0734-img_0997.jpg
+    thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0734-img_0997.jpg
+    title: 0734-img_0997.jpg
   - original: /2017/08/u21-ladies-spain-v-poland/0735-img_0998.jpg
     thumbnail: /t/2017/08/u21-ladies-spain-v-poland/0735-img_0998.jpg
     title: 0735-img_0998.jpg
