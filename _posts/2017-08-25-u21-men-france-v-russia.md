@@ -15,4 +15,13 @@ photos:
   - original: /2017/08/u21-men-france-v-russia/1067-img_1499.jpg
     thumbnail: /t/2017/08/u21-men-france-v-russia/1067-img_1499.jpg
     title: 1067-img_1499.jpg
+  - original: /2017/08/u21-men-france-v-russia/1070-img_1502.jpg
+    thumbnail: /t/2017/08/u21-men-france-v-russia/1070-img_1502.jpg
+    title: 1070-img_1502.jpg
+  - original: /2017/08/u21-men-france-v-russia/1072-img_1504.jpg
+    thumbnail: /t/2017/08/u21-men-france-v-russia/1072-img_1504.jpg
+    title: 1072-img_1504.jpg
+  - original: /2017/08/u21-men-france-v-russia/1073-img_1505.jpg
+    thumbnail: /t/2017/08/u21-men-france-v-russia/1073-img_1505.jpg
+    title: 1073-img_1505.jpg
 ---
