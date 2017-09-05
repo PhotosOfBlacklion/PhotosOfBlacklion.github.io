@@ -45,6 +45,12 @@ photos:
   - original: /2017/08/u21-ladies-france-v-poland/1120-img_1574.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1120-img_1574.jpg
     title: 1120-img_1574.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1122-img_1577.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1122-img_1577.jpg
+    title: 1122-img_1577.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1123-img_1578.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1123-img_1578.jpg
+    title: 1123-img_1578.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1124-img_1580.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1124-img_1580.jpg
     title: 1124-img_1580.jpg
@@ -54,12 +60,18 @@ photos:
   - original: /2017/08/u21-ladies-france-v-poland/1129-img_1590.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1129-img_1590.jpg
     title: 1129-img_1590.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1130-img_1593.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1130-img_1593.jpg
+    title: 1130-img_1593.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1131-img_1597.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1131-img_1597.jpg
     title: 1131-img_1597.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1132-img_1598.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1132-img_1598.jpg
     title: 1132-img_1598.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1133-img_1599.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1133-img_1599.jpg
+    title: 1133-img_1599.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1134-img_1600.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1134-img_1600.jpg
     title: 1134-img_1600.jpg
@@ -87,6 +99,9 @@ photos:
   - original: /2017/08/u21-ladies-france-v-poland/1153-img_1633.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1153-img_1633.jpg
     title: 1153-img_1633.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1155-img_1638.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1155-img_1638.jpg
+    title: 1155-img_1638.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1156-img_1639.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1156-img_1639.jpg
     title: 1156-img_1639.jpg
@@ -108,6 +123,9 @@ photos:
   - original: /2017/08/u21-ladies-france-v-poland/1168-img_1659.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1168-img_1659.jpg
     title: 1168-img_1659.jpg
+  - original: /2017/08/u21-ladies-france-v-poland/1169-img_1660.jpg
+    thumbnail: /t/2017/08/u21-ladies-france-v-poland/1169-img_1660.jpg
+    title: 1169-img_1660.jpg
   - original: /2017/08/u21-ladies-france-v-poland/1170-img_1661.jpg
     thumbnail: /t/2017/08/u21-ladies-france-v-poland/1170-img_1661.jpg
     title: 1170-img_1661.jpg
