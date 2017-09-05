@@ -9,6 +9,15 @@ photos:
   - original: /2017/08/u21-men-great-britain-v-poland/0243-img_0368.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0243-img_0368.jpg
     title: 0243-img_0368.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0244-img_0370.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0244-img_0370.jpg
+    title: 0244-img_0370.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0245-img_0371.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0245-img_0371.jpg
+    title: 0245-img_0371.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0246-img_0372.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0246-img_0372.jpg
+    title: 0246-img_0372.jpg
   - original: /2017/08/u21-men-great-britain-v-poland/0247-img_0380.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0247-img_0380.jpg
     title: 0247-img_0380.jpg
@@ -24,6 +33,12 @@ photos:
   - original: /2017/08/u21-men-great-britain-v-poland/0251-img_0384.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0251-img_0384.jpg
     title: 0251-img_0384.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0252-img_0385.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0252-img_0385.jpg
+    title: 0252-img_0385.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0253-img_0386.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0253-img_0386.jpg
+    title: 0253-img_0386.jpg
   - original: /2017/08/u21-men-great-britain-v-poland/0254-img_0388.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0254-img_0388.jpg
     title: 0254-img_0388.jpg
@@ -36,12 +51,24 @@ photos:
   - original: /2017/08/u21-men-great-britain-v-poland/0257-img_0391.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0257-img_0391.jpg
     title: 0257-img_0391.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0258-img_0394.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0258-img_0394.jpg
+    title: 0258-img_0394.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0259-img_0395.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0259-img_0395.jpg
+    title: 0259-img_0395.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0260-img_0396.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0260-img_0396.jpg
+    title: 0260-img_0396.jpg
   - original: /2017/08/u21-men-great-britain-v-poland/0261-img_0397.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0261-img_0397.jpg
     title: 0261-img_0397.jpg
   - original: /2017/08/u21-men-great-britain-v-poland/0262-img_0400.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0262-img_0400.jpg
     title: 0262-img_0400.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0263-img_0401.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0263-img_0401.jpg
+    title: 0263-img_0401.jpg
   - original: /2017/08/u21-men-great-britain-v-poland/0264-img_0402.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0264-img_0402.jpg
     title: 0264-img_0402.jpg
@@ -87,6 +114,12 @@ photos:
   - original: /2017/08/u21-men-great-britain-v-poland/0278-img_0425.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0278-img_0425.jpg
     title: 0278-img_0425.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0279-img_0448.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0279-img_0448.jpg
+    title: 0279-img_0448.jpg
+  - original: /2017/08/u21-men-great-britain-v-poland/0280-img_0450.jpg
+    thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0280-img_0450.jpg
+    title: 0280-img_0450.jpg
   - original: /2017/08/u21-men-great-britain-v-poland/0281-img_0451.jpg
     thumbnail: /t/2017/08/u21-men-great-britain-v-poland/0281-img_0451.jpg
     title: 0281-img_0451.jpg
