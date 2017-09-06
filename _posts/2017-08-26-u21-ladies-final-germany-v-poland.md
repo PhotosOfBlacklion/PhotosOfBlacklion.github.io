@@ -45,6 +45,9 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0816-img_1259.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0816-img_1259.jpg
     title: 0816-img_1259.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0817-img_1260.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0817-img_1260.jpg
+    title: 0817-img_1260.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0818-img_1261.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0818-img_1261.jpg
     title: 0818-img_1261.jpg
@@ -66,6 +69,15 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0832-img_1280.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0832-img_1280.jpg
     title: 0832-img_1280.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0833-img_1281.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0833-img_1281.jpg
+    title: 0833-img_1281.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0840-img_1288.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0840-img_1288.jpg
+    title: 0840-img_1288.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0844-img_1292.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0844-img_1292.jpg
+    title: 0844-img_1292.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0867-img_1315.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0867-img_1315.jpg
     title: 0867-img_1315.jpg
@@ -96,15 +108,30 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0897-img_1345.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0897-img_1345.jpg
     title: 0897-img_1345.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0898-img_1346.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0898-img_1346.jpg
+    title: 0898-img_1346.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0899-img_1347.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0899-img_1347.jpg
     title: 0899-img_1347.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0903-img_1351.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0903-img_1351.jpg
+    title: 0903-img_1351.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0904-img_1352.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0904-img_1352.jpg
+    title: 0904-img_1352.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0906-img_1354.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0906-img_1354.jpg
+    title: 0906-img_1354.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0908-img_1356.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0908-img_1356.jpg
     title: 0908-img_1356.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0911-img_1359.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0911-img_1359.jpg
     title: 0911-img_1359.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0916-img_1364.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0916-img_1364.jpg
+    title: 0916-img_1364.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0917-img_1365.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0917-img_1365.jpg
     title: 0917-img_1365.jpg
@@ -120,6 +147,18 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0922-img_1370.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0922-img_1370.jpg
     title: 0922-img_1370.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0925-img_1373.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0925-img_1373.jpg
+    title: 0925-img_1373.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0927-img_1375.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0927-img_1375.jpg
+    title: 0927-img_1375.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0928-img_1376.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0928-img_1376.jpg
+    title: 0928-img_1376.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0929-img_1377.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0929-img_1377.jpg
+    title: 0929-img_1377.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0931-img_1379.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0931-img_1379.jpg
     title: 0931-img_1379.jpg
@@ -129,6 +168,9 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0933-img_1381.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0933-img_1381.jpg
     title: 0933-img_1381.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0934-img_1382.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0934-img_1382.jpg
+    title: 0934-img_1382.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0940-img_1388.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0940-img_1388.jpg
     title: 0940-img_1388.jpg
@@ -141,6 +183,9 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0951-img_1399.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0951-img_1399.jpg
     title: 0951-img_1399.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0956-img_1404.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0956-img_1404.jpg
+    title: 0956-img_1404.jpg
   - original: /2017/08/u21-ladies-final-germany-v-poland/0960-img_1408.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0960-img_1408.jpg
     title: 0960-img_1408.jpg
@@ -153,4 +198,25 @@ photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0968-img_1416.jpg
     thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0968-img_1416.jpg
     title: 0968-img_1416.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/0999-img_1447.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0999-img_1447.jpg
+    title: 0999-img_1447.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/1001-img_1449.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/1001-img_1449.jpg
+    title: 1001-img_1449.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/1003-img_1451.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/1003-img_1451.jpg
+    title: 1003-img_1451.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/1004-img_1452.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/1004-img_1452.jpg
+    title: 1004-img_1452.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/1016-img_1464.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/1016-img_1464.jpg
+    title: 1016-img_1464.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/1017-img_1465.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/1017-img_1465.jpg
+    title: 1017-img_1465.jpg
+  - original: /2017/08/u21-ladies-final-germany-v-poland/1018-img_1466.jpg
+    thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/1018-img_1466.jpg
+    title: 1018-img_1466.jpg
 ---
