@@ -3,6 +3,12 @@ title: Senior Men Ireland V Poland
 date: 2017-08-26 12:00
 thumbnail: /t/2017/08/senior-men-ireland-v-poland/0421-img_0613.jpg
 photos:
+  - original: /2017/08/senior-men-ireland-v-poland/0419-img_0611.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0419-img_0611.jpg
+    title: 0419-img_0611.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0420-img_0612.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0420-img_0612.jpg
+    title: 0420-img_0612.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0421-img_0613.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0421-img_0613.jpg
     title: 0421-img_0613.jpg
