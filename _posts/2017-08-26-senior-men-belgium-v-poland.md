@@ -15,6 +15,9 @@ photos:
   - original: /2017/08/senior-men-belgium-v-poland/0715-img_1085.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0715-img_1085.jpg
     title: 0715-img_1085.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0716-img_1089.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0716-img_1089.jpg
+    title: 0716-img_1089.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0718-img_1091.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0718-img_1091.jpg
     title: 0718-img_1091.jpg
@@ -30,24 +33,60 @@ photos:
   - original: /2017/08/senior-men-belgium-v-poland/0722-img_1095.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0722-img_1095.jpg
     title: 0722-img_1095.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0723-img_1096.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0723-img_1096.jpg
+    title: 0723-img_1096.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0727-img_1104.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0727-img_1104.jpg
+    title: 0727-img_1104.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0728-img_1105.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0728-img_1105.jpg
+    title: 0728-img_1105.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0730-img_1110.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0730-img_1110.jpg
     title: 0730-img_1110.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0732-img_1114.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0732-img_1114.jpg
+    title: 0732-img_1114.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0735-img_1117.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0735-img_1117.jpg
+    title: 0735-img_1117.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0737-img_1121.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0737-img_1121.jpg
+    title: 0737-img_1121.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0738-img_1123.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0738-img_1123.jpg
     title: 0738-img_1123.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0739-img_1124.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0739-img_1124.jpg
+    title: 0739-img_1124.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0741-img_1126.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0741-img_1126.jpg
     title: 0741-img_1126.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0742-img_1128.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0742-img_1128.jpg
+    title: 0742-img_1128.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0743-img_1130.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0743-img_1130.jpg
+    title: 0743-img_1130.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0744-img_1132.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0744-img_1132.jpg
+    title: 0744-img_1132.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0745-img_1133.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0745-img_1133.jpg
     title: 0745-img_1133.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0746-img_1134.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0746-img_1134.jpg
     title: 0746-img_1134.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0748-img_1137.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0748-img_1137.jpg
+    title: 0748-img_1137.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0749-img_1138.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0749-img_1138.jpg
     title: 0749-img_1138.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0750-img_1139.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0750-img_1139.jpg
+    title: 0750-img_1139.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0751-img_1140.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0751-img_1140.jpg
     title: 0751-img_1140.jpg
@@ -81,6 +120,9 @@ photos:
   - original: /2017/08/senior-men-belgium-v-poland/0761-img_1152.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0761-img_1152.jpg
     title: 0761-img_1152.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0762-img_1156.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0762-img_1156.jpg
+    title: 0762-img_1156.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0763-img_1158.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0763-img_1158.jpg
     title: 0763-img_1158.jpg
@@ -93,18 +135,27 @@ photos:
   - original: /2017/08/senior-men-belgium-v-poland/0766-img_1163.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0766-img_1163.jpg
     title: 0766-img_1163.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0768-img_1165.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0768-img_1165.jpg
+    title: 0768-img_1165.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0769-img_1166.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0769-img_1166.jpg
     title: 0769-img_1166.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0770-img_1167.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0770-img_1167.jpg
     title: 0770-img_1167.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0771-img_1168.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0771-img_1168.jpg
+    title: 0771-img_1168.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0772-img_1170.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0772-img_1170.jpg
     title: 0772-img_1170.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0773-img_1176.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0773-img_1176.jpg
     title: 0773-img_1176.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0774-img_1179.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0774-img_1179.jpg
+    title: 0774-img_1179.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0775-img_1183.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0775-img_1183.jpg
     title: 0775-img_1183.jpg
@@ -123,12 +174,21 @@ photos:
   - original: /2017/08/senior-men-belgium-v-poland/0780-img_1193.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0780-img_1193.jpg
     title: 0780-img_1193.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0781-img_1194.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0781-img_1194.jpg
+    title: 0781-img_1194.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0782-img_1196.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0782-img_1196.jpg
+    title: 0782-img_1196.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0783-img_1198.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0783-img_1198.jpg
     title: 0783-img_1198.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0784-img_1199.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0784-img_1199.jpg
     title: 0784-img_1199.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0785-img_1204.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0785-img_1204.jpg
+    title: 0785-img_1204.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0786-img_1206.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0786-img_1206.jpg
     title: 0786-img_1206.jpg
@@ -147,9 +207,15 @@ photos:
   - original: /2017/08/senior-men-belgium-v-poland/0791-img_1214.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0791-img_1214.jpg
     title: 0791-img_1214.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0792-img_1215.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0792-img_1215.jpg
+    title: 0792-img_1215.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0794-img_1217.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0794-img_1217.jpg
     title: 0794-img_1217.jpg
+  - original: /2017/08/senior-men-belgium-v-poland/0795-img_1218.jpg
+    thumbnail: /t/2017/08/senior-men-belgium-v-poland/0795-img_1218.jpg
+    title: 0795-img_1218.jpg
   - original: /2017/08/senior-men-belgium-v-poland/0796-img_1219.jpg
     thumbnail: /t/2017/08/senior-men-belgium-v-poland/0796-img_1219.jpg
     title: 0796-img_1219.jpg
