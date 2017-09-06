@@ -186,6 +186,9 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0075-img_0109.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0075-img_0109.jpg
     title: 0075-img_0109.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0076-img_0110.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0076-img_0110.jpg
+    title: 0076-img_0110.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0077-img_0112.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0077-img_0112.jpg
     title: 0077-img_0112.jpg
