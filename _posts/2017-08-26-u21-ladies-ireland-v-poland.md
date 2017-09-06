@@ -72,9 +72,18 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0023-img_0034.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0023-img_0034.jpg
     title: 0023-img_0034.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0024-img_0037.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0024-img_0037.jpg
+    title: 0024-img_0037.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0025-img_0038.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0025-img_0038.jpg
     title: 0025-img_0038.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0026-img_0041.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0026-img_0041.jpg
+    title: 0026-img_0041.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0027-img_0042.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0027-img_0042.jpg
+    title: 0027-img_0042.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0028-img_0043.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0028-img_0043.jpg
     title: 0028-img_0043.jpg
@@ -87,9 +96,18 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0031-img_0046.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0031-img_0046.jpg
     title: 0031-img_0046.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0032-img_0047.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0032-img_0047.jpg
+    title: 0032-img_0047.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0033-img_0049.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0033-img_0049.jpg
     title: 0033-img_0049.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0034-img_0050.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0034-img_0050.jpg
+    title: 0034-img_0050.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0035-img_0051.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0035-img_0051.jpg
+    title: 0035-img_0051.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0036-img_0053.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0036-img_0053.jpg
     title: 0036-img_0053.jpg
@@ -114,6 +132,9 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0043-img_0063.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0043-img_0063.jpg
     title: 0043-img_0063.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0044-img_0066.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0044-img_0066.jpg
+    title: 0044-img_0066.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0045-img_0067.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0045-img_0067.jpg
     title: 0045-img_0067.jpg
@@ -129,6 +150,9 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0049-img_0072.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0049-img_0072.jpg
     title: 0049-img_0072.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0050-img_0074.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0050-img_0074.jpg
+    title: 0050-img_0074.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0051-img_0075.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0051-img_0075.jpg
     title: 0051-img_0075.jpg
@@ -141,15 +165,30 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0054-img_0080.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0054-img_0080.jpg
     title: 0054-img_0080.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0055-img_0081.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0055-img_0081.jpg
+    title: 0055-img_0081.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0056-img_0083.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0056-img_0083.jpg
     title: 0056-img_0083.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0057-img_0084.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0057-img_0084.jpg
+    title: 0057-img_0084.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0058-img_0085.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0058-img_0085.jpg
+    title: 0058-img_0085.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0059-img_0086.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0059-img_0086.jpg
+    title: 0059-img_0086.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0060-img_0087.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0060-img_0087.jpg
     title: 0060-img_0087.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0061-img_0088.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0061-img_0088.jpg
     title: 0061-img_0088.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0062-img_0092.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0062-img_0092.jpg
+    title: 0062-img_0092.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0063-img_0093.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0063-img_0093.jpg
     title: 0063-img_0093.jpg
@@ -168,6 +207,9 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0068-img_0100.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0068-img_0100.jpg
     title: 0068-img_0100.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0069-img_0101.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0069-img_0101.jpg
+    title: 0069-img_0101.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0070-img_0102.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0070-img_0102.jpg
     title: 0070-img_0102.jpg
@@ -198,9 +240,18 @@ photos:
   - original: /2017/08/u21-ladies-ireland-v-poland/0079-img_0114.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0079-img_0114.jpg
     title: 0079-img_0114.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0080-img_0115.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0080-img_0115.jpg
+    title: 0080-img_0115.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0081-img_0116.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0081-img_0116.jpg
+    title: 0081-img_0116.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0082-img_0122.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0082-img_0122.jpg
     title: 0082-img_0122.jpg
+  - original: /2017/08/u21-ladies-ireland-v-poland/0083-img_0123.jpg
+    thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0083-img_0123.jpg
+    title: 0083-img_0123.jpg
   - original: /2017/08/u21-ladies-ireland-v-poland/0084-img_0124.jpg
     thumbnail: /t/2017/08/u21-ladies-ireland-v-poland/0084-img_0124.jpg
     title: 0084-img_0124.jpg
