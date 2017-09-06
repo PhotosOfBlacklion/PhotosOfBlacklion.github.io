@@ -57,9 +57,15 @@ photos:
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1040-img_1490.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1040-img_1490.jpg
     title: 1040-img_1490.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1041-img_1491.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1041-img_1491.jpg
+    title: 1041-img_1491.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1043-img_1493.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1043-img_1493.jpg
     title: 1043-img_1493.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1044-img_1494.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1044-img_1494.jpg
+    title: 1044-img_1494.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1045-img_1495.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1045-img_1495.jpg
     title: 1045-img_1495.jpg
@@ -69,6 +75,9 @@ photos:
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1047-img_1500.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1047-img_1500.jpg
     title: 1047-img_1500.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1048-img_1503.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1048-img_1503.jpg
+    title: 1048-img_1503.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1049-img_1504.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1049-img_1504.jpg
     title: 1049-img_1504.jpg
@@ -132,6 +141,9 @@ photos:
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1071-img_1548.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1071-img_1548.jpg
     title: 1071-img_1548.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1072-img_1549.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1072-img_1549.jpg
+    title: 1072-img_1549.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1073-img_1550.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1073-img_1550.jpg
     title: 1073-img_1550.jpg
@@ -147,18 +159,33 @@ photos:
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1078-img_1561.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1078-img_1561.jpg
     title: 1078-img_1561.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1079-img_1563.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1079-img_1563.jpg
+    title: 1079-img_1563.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1080-img_1564.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1080-img_1564.jpg
     title: 1080-img_1564.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1081-img_1565.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1081-img_1565.jpg
+    title: 1081-img_1565.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1082-img_1566.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1082-img_1566.jpg
+    title: 1082-img_1566.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1083-img_1567.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1083-img_1567.jpg
     title: 1083-img_1567.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1084-img_1568.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1084-img_1568.jpg
     title: 1084-img_1568.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1085-img_1570.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1085-img_1570.jpg
+    title: 1085-img_1570.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1086-img_1572.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1086-img_1572.jpg
     title: 1086-img_1572.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1087-img_1573.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1087-img_1573.jpg
+    title: 1087-img_1573.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1088-img_1574.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1088-img_1574.jpg
     title: 1088-img_1574.jpg
@@ -222,6 +249,9 @@ photos:
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1112-img_1602.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1112-img_1602.jpg
     title: 1112-img_1602.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1113-img_1603.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1113-img_1603.jpg
+    title: 1113-img_1603.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1114-img_1604.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1114-img_1604.jpg
     title: 1114-img_1604.jpg
@@ -348,6 +378,9 @@ photos:
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1158-img_1663.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1158-img_1663.jpg
     title: 1158-img_1663.jpg
+  - original: /2017/08/u21-mens-final-germany-v-great-britain/1159-img_1664.jpg
+    thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1159-img_1664.jpg
+    title: 1159-img_1664.jpg
   - original: /2017/08/u21-mens-final-germany-v-great-britain/1160-img_1665.jpg
     thumbnail: /t/2017/08/u21-mens-final-germany-v-great-britain/1160-img_1665.jpg
     title: 1160-img_1665.jpg
