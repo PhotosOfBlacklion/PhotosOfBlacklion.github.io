@@ -60,9 +60,21 @@ photos:
   - original: /2017/08/senior-ladies-france-v-italy/0268-img_0394.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0268-img_0394.jpg
     title: 0268-img_0394.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0269-img_0396.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0269-img_0396.jpg
+    title: 0269-img_0396.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0270-img_0402.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0270-img_0402.jpg
     title: 0270-img_0402.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0271-img_0404.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0271-img_0404.jpg
+    title: 0271-img_0404.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0272-img_0405.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0272-img_0405.jpg
+    title: 0272-img_0405.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0273-img_0406.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0273-img_0406.jpg
+    title: 0273-img_0406.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0274-img_0408.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0274-img_0408.jpg
     title: 0274-img_0408.jpg
@@ -111,6 +123,27 @@ photos:
   - original: /2017/08/senior-ladies-france-v-italy/0289-img_0439.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0289-img_0439.jpg
     title: 0289-img_0439.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0290-img_0441.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0290-img_0441.jpg
+    title: 0290-img_0441.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0291-img_0442.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0291-img_0442.jpg
+    title: 0291-img_0442.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0292-img_0443.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0292-img_0443.jpg
+    title: 0292-img_0443.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0293-img_0444.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0293-img_0444.jpg
+    title: 0293-img_0444.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0294-img_0445.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0294-img_0445.jpg
+    title: 0294-img_0445.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0295-img_0446.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0295-img_0446.jpg
+    title: 0295-img_0446.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0296-img_0447.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0296-img_0447.jpg
+    title: 0296-img_0447.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0297-img_0448.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0297-img_0448.jpg
     title: 0297-img_0448.jpg
@@ -192,12 +225,24 @@ photos:
   - original: /2017/08/senior-ladies-france-v-italy/0323-img_0483.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0323-img_0483.jpg
     title: 0323-img_0483.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0324-img_0484.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0324-img_0484.jpg
+    title: 0324-img_0484.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0325-img_0485.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0325-img_0485.jpg
+    title: 0325-img_0485.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0326-img_0486.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0326-img_0486.jpg
     title: 0326-img_0486.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0327-img_0487.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0327-img_0487.jpg
     title: 0327-img_0487.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0328-img_0488.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0328-img_0488.jpg
+    title: 0328-img_0488.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0329-img_0489.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0329-img_0489.jpg
+    title: 0329-img_0489.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0330-img_0490.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0330-img_0490.jpg
     title: 0330-img_0490.jpg
@@ -222,6 +267,12 @@ photos:
   - original: /2017/08/senior-ladies-france-v-italy/0337-img_0504.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0337-img_0504.jpg
     title: 0337-img_0504.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0338-img_0505.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0338-img_0505.jpg
+    title: 0338-img_0505.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0339-img_0506.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0339-img_0506.jpg
+    title: 0339-img_0506.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0340-img_0507.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0340-img_0507.jpg
     title: 0340-img_0507.jpg
@@ -243,6 +294,9 @@ photos:
   - original: /2017/08/senior-ladies-france-v-italy/0346-img_0515.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0346-img_0515.jpg
     title: 0346-img_0515.jpg
+  - original: /2017/08/senior-ladies-france-v-italy/0347-img_0518.jpg
+    thumbnail: /t/2017/08/senior-ladies-france-v-italy/0347-img_0518.jpg
+    title: 0347-img_0518.jpg
   - original: /2017/08/senior-ladies-france-v-italy/0348-img_0519.jpg
     thumbnail: /t/2017/08/senior-ladies-france-v-italy/0348-img_0519.jpg
     title: 0348-img_0519.jpg
