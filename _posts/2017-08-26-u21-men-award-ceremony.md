@@ -27,6 +27,9 @@ photos:
   - original: /2017/08/u21-men-award-ceremony/1232-img_1754.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1232-img_1754.jpg
     title: 1232-img_1754.jpg
+  - original: /2017/08/u21-men-award-ceremony/1233-img_1756.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1233-img_1756.jpg
+    title: 1233-img_1756.jpg
   - original: /2017/08/u21-men-award-ceremony/1234-img_1757.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1234-img_1757.jpg
     title: 1234-img_1757.jpg
@@ -252,6 +255,9 @@ photos:
   - original: /2017/08/u21-men-award-ceremony/1308-img_1835.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1308-img_1835.jpg
     title: 1308-img_1835.jpg
+  - original: /2017/08/u21-men-award-ceremony/1309-img_1836.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1309-img_1836.jpg
+    title: 1309-img_1836.jpg
   - original: /2017/08/u21-men-award-ceremony/1310-img_1837.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1310-img_1837.jpg
     title: 1310-img_1837.jpg
@@ -270,9 +276,33 @@ photos:
   - original: /2017/08/u21-men-award-ceremony/1315-img_1843.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1315-img_1843.jpg
     title: 1315-img_1843.jpg
+  - original: /2017/08/u21-men-award-ceremony/1316-img_1844.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1316-img_1844.jpg
+    title: 1316-img_1844.jpg
   - original: /2017/08/u21-men-award-ceremony/1317-img_1845.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1317-img_1845.jpg
     title: 1317-img_1845.jpg
+  - original: /2017/08/u21-men-award-ceremony/1318-img_1846.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1318-img_1846.jpg
+    title: 1318-img_1846.jpg
+  - original: /2017/08/u21-men-award-ceremony/1320-img_1848.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1320-img_1848.jpg
+    title: 1320-img_1848.jpg
+  - original: /2017/08/u21-men-award-ceremony/1321-img_1849.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1321-img_1849.jpg
+    title: 1321-img_1849.jpg
+  - original: /2017/08/u21-men-award-ceremony/1322-img_1850.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1322-img_1850.jpg
+    title: 1322-img_1850.jpg
+  - original: /2017/08/u21-men-award-ceremony/1323-img_1851.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1323-img_1851.jpg
+    title: 1323-img_1851.jpg
+  - original: /2017/08/u21-men-award-ceremony/1324-img_1852.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1324-img_1852.jpg
+    title: 1324-img_1852.jpg
+  - original: /2017/08/u21-men-award-ceremony/1325-img_1853.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1325-img_1853.jpg
+    title: 1325-img_1853.jpg
   - original: /2017/08/u21-men-award-ceremony/1327-img_1855.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1327-img_1855.jpg
     title: 1327-img_1855.jpg
@@ -300,4 +330,7 @@ photos:
   - original: /2017/08/u21-men-award-ceremony/1335-img_1864.jpg
     thumbnail: /t/2017/08/u21-men-award-ceremony/1335-img_1864.jpg
     title: 1335-img_1864.jpg
+  - original: /2017/08/u21-men-award-ceremony/1336-img_1865.jpg
+    thumbnail: /t/2017/08/u21-men-award-ceremony/1336-img_1865.jpg
+    title: 1336-img_1865.jpg
 ---
