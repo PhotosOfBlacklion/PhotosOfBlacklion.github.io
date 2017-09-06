@@ -48,4 +48,31 @@ photos:
   - original: /2017/08/u21-men-russia-v-switzerland/0169-img_0240.jpg
     thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0169-img_0240.jpg
     title: 0169-img_0240.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0185-img_0258.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0185-img_0258.jpg
+    title: 0185-img_0258.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0195-img_0269.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0195-img_0269.jpg
+    title: 0195-img_0269.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0196-img_0270.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0196-img_0270.jpg
+    title: 0196-img_0270.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0197-img_0272.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0197-img_0272.jpg
+    title: 0197-img_0272.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0198-img_0273.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0198-img_0273.jpg
+    title: 0198-img_0273.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0199-img_0274.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0199-img_0274.jpg
+    title: 0199-img_0274.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0202-img_0279.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0202-img_0279.jpg
+    title: 0202-img_0279.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0213-img_0294.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0213-img_0294.jpg
+    title: 0213-img_0294.jpg
+  - original: /2017/08/u21-men-russia-v-switzerland/0239-img_0336.jpg
+    thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0239-img_0336.jpg
+    title: 0239-img_0336.jpg
 ---
