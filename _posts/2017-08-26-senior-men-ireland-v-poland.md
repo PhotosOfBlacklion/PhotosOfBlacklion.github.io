@@ -30,6 +30,9 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0438-img_0637.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0438-img_0637.jpg
     title: 0438-img_0637.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0439-img_0638.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0439-img_0638.jpg
+    title: 0439-img_0638.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0440-img_0639.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0440-img_0639.jpg
     title: 0440-img_0639.jpg
@@ -45,6 +48,9 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0448-img_0650.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0448-img_0650.jpg
     title: 0448-img_0650.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0449-img_0652.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0449-img_0652.jpg
+    title: 0449-img_0652.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0452-img_0656.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0452-img_0656.jpg
     title: 0452-img_0656.jpg
@@ -54,6 +60,9 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0457-img_0664.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0457-img_0664.jpg
     title: 0457-img_0664.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0458-img_0666.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0458-img_0666.jpg
+    title: 0458-img_0666.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0459-img_0667.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0459-img_0667.jpg
     title: 0459-img_0667.jpg
@@ -75,6 +84,9 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0466-img_0678.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0466-img_0678.jpg
     title: 0466-img_0678.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0469-img_0682.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0469-img_0682.jpg
+    title: 0469-img_0682.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0470-img_0687.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0470-img_0687.jpg
     title: 0470-img_0687.jpg
@@ -99,12 +111,18 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0479-img_0699.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0479-img_0699.jpg
     title: 0479-img_0699.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0482-img_0703.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0482-img_0703.jpg
+    title: 0482-img_0703.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0485-img_0706.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0485-img_0706.jpg
     title: 0485-img_0706.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0486-img_0707.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0486-img_0707.jpg
     title: 0486-img_0707.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0487-img_0709.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0487-img_0709.jpg
+    title: 0487-img_0709.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0489-img_0713.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0489-img_0713.jpg
     title: 0489-img_0713.jpg
@@ -114,9 +132,15 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0491-img_0716.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0491-img_0716.jpg
     title: 0491-img_0716.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0492-img_0718.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0492-img_0718.jpg
+    title: 0492-img_0718.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0493-img_0719.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0493-img_0719.jpg
     title: 0493-img_0719.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0494-img_0720.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0494-img_0720.jpg
+    title: 0494-img_0720.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0495-img_0723.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0495-img_0723.jpg
     title: 0495-img_0723.jpg
@@ -126,6 +150,9 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0497-img_0725.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0497-img_0725.jpg
     title: 0497-img_0725.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0498-img_0729.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0498-img_0729.jpg
+    title: 0498-img_0729.jpg
   - original: /2017/08/senior-men-ireland-v-poland/0499-img_0732.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0499-img_0732.jpg
     title: 0499-img_0732.jpg
@@ -159,4 +186,7 @@ photos:
   - original: /2017/08/senior-men-ireland-v-poland/0511-img_0756.jpg
     thumbnail: /t/2017/08/senior-men-ireland-v-poland/0511-img_0756.jpg
     title: 0511-img_0756.jpg
+  - original: /2017/08/senior-men-ireland-v-poland/0514-img_0760.jpg
+    thumbnail: /t/2017/08/senior-men-ireland-v-poland/0514-img_0760.jpg
+    title: 0514-img_0760.jpg
 ---
