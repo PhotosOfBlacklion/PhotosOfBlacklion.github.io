@@ -150,6 +150,12 @@ photos:
   - original: /2017/08/u21-ladies-great-britain-v-poland/0563-img_0774.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0563-img_0774.jpg
     title: 0563-img_0774.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0564-img_0775.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0564-img_0775.jpg
+    title: 0564-img_0775.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0565-img_0777.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0565-img_0777.jpg
+    title: 0565-img_0777.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0566-img_0779.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0566-img_0779.jpg
     title: 0566-img_0779.jpg
@@ -177,12 +183,18 @@ photos:
   - original: /2017/08/u21-ladies-great-britain-v-poland/0578-img_0795.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0578-img_0795.jpg
     title: 0578-img_0795.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0579-img_0796.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0579-img_0796.jpg
+    title: 0579-img_0796.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0581-img_0799.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0581-img_0799.jpg
     title: 0581-img_0799.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0582-img_0801.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0582-img_0801.jpg
     title: 0582-img_0801.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0584-img_0804.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0584-img_0804.jpg
+    title: 0584-img_0804.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0585-img_0805.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0585-img_0805.jpg
     title: 0585-img_0805.jpg
@@ -213,24 +225,42 @@ photos:
   - original: /2017/08/u21-ladies-great-britain-v-poland/0599-img_0825.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0599-img_0825.jpg
     title: 0599-img_0825.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0600-img_0826.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0600-img_0826.jpg
+    title: 0600-img_0826.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0601-img_0827.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0601-img_0827.jpg
+    title: 0601-img_0827.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0602-img_0828.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0602-img_0828.jpg
     title: 0602-img_0828.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0603-img_0830.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0603-img_0830.jpg
     title: 0603-img_0830.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0604-img_0831.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0604-img_0831.jpg
+    title: 0604-img_0831.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0605-img_0832.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0605-img_0832.jpg
     title: 0605-img_0832.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0607-img_0836.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0607-img_0836.jpg
     title: 0607-img_0836.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0608-img_0838.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0608-img_0838.jpg
+    title: 0608-img_0838.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0609-img_0844.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0609-img_0844.jpg
     title: 0609-img_0844.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0610-img_0847.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0610-img_0847.jpg
     title: 0610-img_0847.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0614-img_0853.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0614-img_0853.jpg
+    title: 0614-img_0853.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0616-img_0857.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0616-img_0857.jpg
+    title: 0616-img_0857.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0617-img_0858.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0617-img_0858.jpg
     title: 0617-img_0858.jpg
@@ -267,9 +297,15 @@ photos:
   - original: /2017/08/u21-ladies-great-britain-v-poland/0631-img_0883.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0631-img_0883.jpg
     title: 0631-img_0883.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0633-img_0888.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0633-img_0888.jpg
+    title: 0633-img_0888.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0635-img_0890.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0635-img_0890.jpg
     title: 0635-img_0890.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0636-img_0891.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0636-img_0891.jpg
+    title: 0636-img_0891.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0637-img_0892.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0637-img_0892.jpg
     title: 0637-img_0892.jpg
@@ -294,15 +330,27 @@ photos:
   - original: /2017/08/u21-ladies-great-britain-v-poland/0648-img_0909.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0648-img_0909.jpg
     title: 0648-img_0909.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0649-img_0911.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0649-img_0911.jpg
+    title: 0649-img_0911.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0650-img_0912.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0650-img_0912.jpg
     title: 0650-img_0912.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0651-img_0913.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0651-img_0913.jpg
+    title: 0651-img_0913.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0652-img_0915.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0652-img_0915.jpg
     title: 0652-img_0915.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0654-img_0918.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0654-img_0918.jpg
+    title: 0654-img_0918.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0655-img_0920.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0655-img_0920.jpg
     title: 0655-img_0920.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0656-img_0921.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0656-img_0921.jpg
+    title: 0656-img_0921.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0659-img_0929.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0659-img_0929.jpg
     title: 0659-img_0929.jpg
@@ -324,6 +372,30 @@ photos:
   - original: /2017/08/u21-ladies-great-britain-v-poland/0665-img_0942.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0665-img_0942.jpg
     title: 0665-img_0942.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0666-img_0948.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0666-img_0948.jpg
+    title: 0666-img_0948.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0667-img_0953.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0667-img_0953.jpg
+    title: 0667-img_0953.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0668-img_0955.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0668-img_0955.jpg
+    title: 0668-img_0955.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0669-img_0957.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0669-img_0957.jpg
+    title: 0669-img_0957.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0670-img_0961.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0670-img_0961.jpg
+    title: 0670-img_0961.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0671-img_0967.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0671-img_0967.jpg
+    title: 0671-img_0967.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0672-img_0968.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0672-img_0968.jpg
+    title: 0672-img_0968.jpg
+  - original: /2017/08/u21-ladies-great-britain-v-poland/0674-img_0974.jpg
+    thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0674-img_0974.jpg
+    title: 0674-img_0974.jpg
   - original: /2017/08/u21-ladies-great-britain-v-poland/0676-img_0976.jpg
     thumbnail: /t/2017/08/u21-ladies-great-britain-v-poland/0676-img_0976.jpg
     title: 0676-img_0976.jpg
