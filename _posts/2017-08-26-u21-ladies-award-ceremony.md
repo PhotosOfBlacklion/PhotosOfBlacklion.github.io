@@ -1,6 +1,6 @@
 ---
 title: U21 Ladies Award Ceremony
-date: 2017-08-26 12:00
+date: 2017-08-26 13:50
 thumbnail: /t/2017/08/u21-ladies-award-ceremony/1165-img_1672.jpg
 photos:
   - original: /2017/08/u21-ladies-award-ceremony/1165-img_1672.jpg

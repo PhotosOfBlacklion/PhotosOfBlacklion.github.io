@@ -1,6 +1,6 @@
 ---
 title: U21 Men Russia V Switzerland
-date: 2017-08-26 12:00
+date: 2017-08-26 13:20
 thumbnail: /t/2017/08/u21-men-russia-v-switzerland/0163-img_0232.jpg
 photos:
   - original: /2017/08/u21-men-russia-v-switzerland/0155-img_0224.jpg
