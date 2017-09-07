@@ -1,6 +1,6 @@
 ---
 title: Opening Parade Canoe Polo European Championships In Saint Omer France
-date: 2017-08-27 12:00
+date: 2017-08-23 12:00
 thumbnail: /t/2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/001-img_0733.jpg
 photos:
   - original: /2017/08/opening-parade-canoe-polo-european-championships-in-saint-omer-france/001-img_0733.jpg
