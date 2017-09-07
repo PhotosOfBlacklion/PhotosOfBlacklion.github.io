@@ -1,6 +1,6 @@
 ---
 title: U21 Men Award Ceremony
-date: 2017-08-26 12:00
+date: 2017-08-26 14:00
 thumbnail: /t/2017/08/u21-men-award-ceremony/1225-img_1747.jpg
 photos:
   - original: /2017/08/u21-men-award-ceremony/1225-img_1747.jpg

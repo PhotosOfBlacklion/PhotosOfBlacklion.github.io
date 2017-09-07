@@ -1,6 +1,6 @@
 ---
 title: U21 Ladies Final Germany V Poland
-date: 2017-08-26 12:00
+date: 2017-08-26 13:30
 thumbnail: /t/2017/08/u21-ladies-final-germany-v-poland/0810-img_1249.jpg
 photos:
   - original: /2017/08/u21-ladies-final-germany-v-poland/0802-img_1230.jpg
