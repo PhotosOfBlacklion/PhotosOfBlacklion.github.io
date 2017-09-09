@@ -114,12 +114,18 @@ photos:
   - original: /2017/08/senior-men-final-spain-v-germany/430-img_2484.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/430-img_2484.jpg
     title: 430-img_2484.jpg
+  - original: /2017/08/senior-men-final-spain-v-germany/431-img_2485.jpg
+    thumbnail: /t/2017/08/senior-men-final-spain-v-germany/431-img_2485.jpg
+    title: 431-img_2485.jpg
   - original: /2017/08/senior-men-final-spain-v-germany/432-img_2486.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/432-img_2486.jpg
     title: 432-img_2486.jpg
   - original: /2017/08/senior-men-final-spain-v-germany/433-img_2488.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/433-img_2488.jpg
     title: 433-img_2488.jpg
+  - original: /2017/08/senior-men-final-spain-v-germany/434-img_2489.jpg
+    thumbnail: /t/2017/08/senior-men-final-spain-v-germany/434-img_2489.jpg
+    title: 434-img_2489.jpg
   - original: /2017/08/senior-men-final-spain-v-germany/435-img_2490.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/435-img_2490.jpg
     title: 435-img_2490.jpg
@@ -195,6 +201,12 @@ photos:
   - original: /2017/08/senior-men-final-spain-v-germany/461-img_2528.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/461-img_2528.jpg
     title: 461-img_2528.jpg
+  - original: /2017/08/senior-men-final-spain-v-germany/462-img_2529.jpg
+    thumbnail: /t/2017/08/senior-men-final-spain-v-germany/462-img_2529.jpg
+    title: 462-img_2529.jpg
+  - original: /2017/08/senior-men-final-spain-v-germany/463-img_2530.jpg
+    thumbnail: /t/2017/08/senior-men-final-spain-v-germany/463-img_2530.jpg
+    title: 463-img_2530.jpg
   - original: /2017/08/senior-men-final-spain-v-germany/464-img_2533.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/464-img_2533.jpg
     title: 464-img_2533.jpg
@@ -504,6 +516,9 @@ photos:
   - original: /2017/08/senior-men-final-spain-v-germany/583-img_2681.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/583-img_2681.jpg
     title: 583-img_2681.jpg
+  - original: /2017/08/senior-men-final-spain-v-germany/590-img_2693.jpg
+    thumbnail: /t/2017/08/senior-men-final-spain-v-germany/590-img_2693.jpg
+    title: 590-img_2693.jpg
   - original: /2017/08/senior-men-final-spain-v-germany/591-img_2694.jpg
     thumbnail: /t/2017/08/senior-men-final-spain-v-germany/591-img_2694.jpg
     title: 591-img_2694.jpg
