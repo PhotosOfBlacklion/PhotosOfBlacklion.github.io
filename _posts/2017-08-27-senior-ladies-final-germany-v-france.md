@@ -75,6 +75,9 @@ photos:
   - original: /2017/08/senior-ladies-final-germany-v-france/282-img_2269.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/282-img_2269.jpg
     title: 282-img_2269.jpg
+  - original: /2017/08/senior-ladies-final-germany-v-france/285-img_2275.jpg
+    thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/285-img_2275.jpg
+    title: 285-img_2275.jpg
   - original: /2017/08/senior-ladies-final-germany-v-france/286-img_2277.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/286-img_2277.jpg
     title: 286-img_2277.jpg
@@ -105,6 +108,9 @@ photos:
   - original: /2017/08/senior-ladies-final-germany-v-france/301-img_2296.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/301-img_2296.jpg
     title: 301-img_2296.jpg
+  - original: /2017/08/senior-ladies-final-germany-v-france/306-img_2302.jpg
+    thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/306-img_2302.jpg
+    title: 306-img_2302.jpg
   - original: /2017/08/senior-ladies-final-germany-v-france/307-img_2303.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/307-img_2303.jpg
     title: 307-img_2303.jpg
@@ -114,6 +120,9 @@ photos:
   - original: /2017/08/senior-ladies-final-germany-v-france/310-img_2306.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/310-img_2306.jpg
     title: 310-img_2306.jpg
+  - original: /2017/08/senior-ladies-final-germany-v-france/312-img_2308.jpg
+    thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/312-img_2308.jpg
+    title: 312-img_2308.jpg
   - original: /2017/08/senior-ladies-final-germany-v-france/313-img_2309.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/313-img_2309.jpg
     title: 313-img_2309.jpg
@@ -165,6 +174,9 @@ photos:
   - original: /2017/08/senior-ladies-final-germany-v-france/340-img_2349.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/340-img_2349.jpg
     title: 340-img_2349.jpg
+  - original: /2017/08/senior-ladies-final-germany-v-france/341-img_2350.jpg
+    thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/341-img_2350.jpg
+    title: 341-img_2350.jpg
   - original: /2017/08/senior-ladies-final-germany-v-france/343-img_2352.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/343-img_2352.jpg
     title: 343-img_2352.jpg
@@ -183,6 +195,9 @@ photos:
   - original: /2017/08/senior-ladies-final-germany-v-france/348-img_2359.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/348-img_2359.jpg
     title: 348-img_2359.jpg
+  - original: /2017/08/senior-ladies-final-germany-v-france/354-img_2371.jpg
+    thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/354-img_2371.jpg
+    title: 354-img_2371.jpg
   - original: /2017/08/senior-ladies-final-germany-v-france/355-img_2378.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/355-img_2378.jpg
     title: 355-img_2378.jpg
@@ -231,6 +246,9 @@ photos:
   - original: /2017/08/senior-ladies-final-germany-v-france/379-img_2417.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/379-img_2417.jpg
     title: 379-img_2417.jpg
+  - original: /2017/08/senior-ladies-final-germany-v-france/380-img_2420.jpg
+    thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/380-img_2420.jpg
+    title: 380-img_2420.jpg
   - original: /2017/08/senior-ladies-final-germany-v-france/381-img_2421.jpg
     thumbnail: /t/2017/08/senior-ladies-final-germany-v-france/381-img_2421.jpg
     title: 381-img_2421.jpg
