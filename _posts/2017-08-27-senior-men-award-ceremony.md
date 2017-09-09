@@ -66,6 +66,9 @@ photos:
   - original: /2017/08/senior-men-award-ceremony/718-img_2831.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/718-img_2831.jpg
     title: 718-img_2831.jpg
+  - original: /2017/08/senior-men-award-ceremony/719-img_2832.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/719-img_2832.jpg
+    title: 719-img_2832.jpg
   - original: /2017/08/senior-men-award-ceremony/720-img_2833.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/720-img_2833.jpg
     title: 720-img_2833.jpg
@@ -126,6 +129,12 @@ photos:
   - original: /2017/08/senior-men-award-ceremony/739-img_2864.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/739-img_2864.jpg
     title: 739-img_2864.jpg
+  - original: /2017/08/senior-men-award-ceremony/740-img_2865.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/740-img_2865.jpg
+    title: 740-img_2865.jpg
+  - original: /2017/08/senior-men-award-ceremony/741-img_2866.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/741-img_2866.jpg
+    title: 741-img_2866.jpg
   - original: /2017/08/senior-men-award-ceremony/742-img_2867.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/742-img_2867.jpg
     title: 742-img_2867.jpg
@@ -138,6 +147,21 @@ photos:
   - original: /2017/08/senior-men-award-ceremony/745-img_2873.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/745-img_2873.jpg
     title: 745-img_2873.jpg
+  - original: /2017/08/senior-men-award-ceremony/746-img_2874.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/746-img_2874.jpg
+    title: 746-img_2874.jpg
+  - original: /2017/08/senior-men-award-ceremony/747-img_2875.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/747-img_2875.jpg
+    title: 747-img_2875.jpg
+  - original: /2017/08/senior-men-award-ceremony/748-img_2877.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/748-img_2877.jpg
+    title: 748-img_2877.jpg
+  - original: /2017/08/senior-men-award-ceremony/749-img_2878.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/749-img_2878.jpg
+    title: 749-img_2878.jpg
+  - original: /2017/08/senior-men-award-ceremony/750-img_2881.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/750-img_2881.jpg
+    title: 750-img_2881.jpg
   - original: /2017/08/senior-men-award-ceremony/751-img_2882.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/751-img_2882.jpg
     title: 751-img_2882.jpg
@@ -147,6 +171,15 @@ photos:
   - original: /2017/08/senior-men-award-ceremony/753-img_2884.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/753-img_2884.jpg
     title: 753-img_2884.jpg
+  - original: /2017/08/senior-men-award-ceremony/754-img_2885.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/754-img_2885.jpg
+    title: 754-img_2885.jpg
+  - original: /2017/08/senior-men-award-ceremony/755-img_2887.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/755-img_2887.jpg
+    title: 755-img_2887.jpg
+  - original: /2017/08/senior-men-award-ceremony/756-img_2888.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/756-img_2888.jpg
+    title: 756-img_2888.jpg
   - original: /2017/08/senior-men-award-ceremony/757-img_2889.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/757-img_2889.jpg
     title: 757-img_2889.jpg
@@ -165,6 +198,9 @@ photos:
   - original: /2017/08/senior-men-award-ceremony/762-img_2895.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/762-img_2895.jpg
     title: 762-img_2895.jpg
+  - original: /2017/08/senior-men-award-ceremony/763-img_1865.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/763-img_1865.jpg
+    title: 763-img_1865.jpg
   - original: /2017/08/senior-men-award-ceremony/764-img_1867.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/764-img_1867.jpg
     title: 764-img_1867.jpg
@@ -183,24 +219,36 @@ photos:
   - original: /2017/08/senior-men-award-ceremony/769-img_1874.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/769-img_1874.jpg
     title: 769-img_1874.jpg
+  - original: /2017/08/senior-men-award-ceremony/770-img_1875.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/770-img_1875.jpg
+    title: 770-img_1875.jpg
   - original: /2017/08/senior-men-award-ceremony/771-img_1876.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/771-img_1876.jpg
     title: 771-img_1876.jpg
   - original: /2017/08/senior-men-award-ceremony/772-img_1877.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/772-img_1877.jpg
     title: 772-img_1877.jpg
+  - original: /2017/08/senior-men-award-ceremony/773-img_1878.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/773-img_1878.jpg
+    title: 773-img_1878.jpg
   - original: /2017/08/senior-men-award-ceremony/774-img_1879.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/774-img_1879.jpg
     title: 774-img_1879.jpg
   - original: /2017/08/senior-men-award-ceremony/775-img_1880.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/775-img_1880.jpg
     title: 775-img_1880.jpg
+  - original: /2017/08/senior-men-award-ceremony/776-img_1881.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/776-img_1881.jpg
+    title: 776-img_1881.jpg
   - original: /2017/08/senior-men-award-ceremony/777-img_1885.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/777-img_1885.jpg
     title: 777-img_1885.jpg
   - original: /2017/08/senior-men-award-ceremony/778-img_1886.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/778-img_1886.jpg
     title: 778-img_1886.jpg
+  - original: /2017/08/senior-men-award-ceremony/779-img_1887.jpg
+    thumbnail: /t/2017/08/senior-men-award-ceremony/779-img_1887.jpg
+    title: 779-img_1887.jpg
   - original: /2017/08/senior-men-award-ceremony/780-img_1889.jpg
     thumbnail: /t/2017/08/senior-men-award-ceremony/780-img_1889.jpg
     title: 780-img_1889.jpg
