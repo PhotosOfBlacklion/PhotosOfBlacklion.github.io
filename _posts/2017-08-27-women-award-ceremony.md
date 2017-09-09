@@ -18,6 +18,12 @@ photos:
   - original: /2017/08/women-award-ceremony/628-img_2735.jpg
     thumbnail: /t/2017/08/women-award-ceremony/628-img_2735.jpg
     title: 628-img_2735.jpg
+  - original: /2017/08/women-award-ceremony/630-img_2738.jpg
+    thumbnail: /t/2017/08/women-award-ceremony/630-img_2738.jpg
+    title: 630-img_2738.jpg
+  - original: /2017/08/women-award-ceremony/631-img_2739.jpg
+    thumbnail: /t/2017/08/women-award-ceremony/631-img_2739.jpg
+    title: 631-img_2739.jpg
   - original: /2017/08/women-award-ceremony/632-img_2741.jpg
     thumbnail: /t/2017/08/women-award-ceremony/632-img_2741.jpg
     title: 632-img_2741.jpg
