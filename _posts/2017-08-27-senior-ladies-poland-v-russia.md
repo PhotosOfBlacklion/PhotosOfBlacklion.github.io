@@ -39,6 +39,12 @@ photos:
   - original: /2017/08/senior-ladies-poland-v-russia/188-img_2153.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/188-img_2153.jpg
     title: 188-img_2153.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/190-img_2155.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/190-img_2155.jpg
+    title: 190-img_2155.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/191-img_2156.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/191-img_2156.jpg
+    title: 191-img_2156.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/192-img_2157.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/192-img_2157.jpg
     title: 192-img_2157.jpg
