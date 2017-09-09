@@ -48,9 +48,15 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/095-img_2034.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/095-img_2034.jpg
     title: 095-img_2034.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/096-img_2035.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/096-img_2035.jpg
+    title: 096-img_2035.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/097-img_2036.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/097-img_2036.jpg
     title: 097-img_2036.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/099-img_2040.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/099-img_2040.jpg
+    title: 099-img_2040.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/100-img_2041.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/100-img_2041.jpg
     title: 100-img_2041.jpg
@@ -99,6 +105,9 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/119-img_2072.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/119-img_2072.jpg
     title: 119-img_2072.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/120-img_2073.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/120-img_2073.jpg
+    title: 120-img_2073.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/121-img_2074.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/121-img_2074.jpg
     title: 121-img_2074.jpg
@@ -153,6 +162,9 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/139-img_2096.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/139-img_2096.jpg
     title: 139-img_2096.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/140-img_2097.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/140-img_2097.jpg
+    title: 140-img_2097.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/141-img_2098.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/141-img_2098.jpg
     title: 141-img_2098.jpg
@@ -162,6 +174,15 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/143-img_2100.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/143-img_2100.jpg
     title: 143-img_2100.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/152-img_2109.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/152-img_2109.jpg
+    title: 152-img_2109.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/157-img_2114.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/157-img_2114.jpg
+    title: 157-img_2114.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/159-img_2118.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/159-img_2118.jpg
+    title: 159-img_2118.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/160-img_2119.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/160-img_2119.jpg
     title: 160-img_2119.jpg
@@ -174,6 +195,9 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/165-img_2124.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/165-img_2124.jpg
     title: 165-img_2124.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/166-img_2126.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/166-img_2126.jpg
+    title: 166-img_2126.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/167-img_2127.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/167-img_2127.jpg
     title: 167-img_2127.jpg
@@ -186,4 +210,10 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/170-img_2130.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/170-img_2130.jpg
     title: 170-img_2130.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/171-img_2131.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/171-img_2131.jpg
+    title: 171-img_2131.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/172-img_2132.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/172-img_2132.jpg
+    title: 172-img_2132.jpg
 ---
