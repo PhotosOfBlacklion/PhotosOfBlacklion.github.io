@@ -60,6 +60,9 @@ photos:
   - original: /2017/08/senior-ladies-poland-v-russia/199-img_2166.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/199-img_2166.jpg
     title: 199-img_2166.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/200-img_2167.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/200-img_2167.jpg
+    title: 200-img_2167.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/201-img_2168.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/201-img_2168.jpg
     title: 201-img_2168.jpg
@@ -75,6 +78,9 @@ photos:
   - original: /2017/08/senior-ladies-poland-v-russia/205-img_2172.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/205-img_2172.jpg
     title: 205-img_2172.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/210-img_2178.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/210-img_2178.jpg
+    title: 210-img_2178.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/215-img_2183.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/215-img_2183.jpg
     title: 215-img_2183.jpg
@@ -84,6 +90,9 @@ photos:
   - original: /2017/08/senior-ladies-poland-v-russia/217-img_2186.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/217-img_2186.jpg
     title: 217-img_2186.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/218-img_2190.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/218-img_2190.jpg
+    title: 218-img_2190.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/224-img_2199.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/224-img_2199.jpg
     title: 224-img_2199.jpg
@@ -93,12 +102,21 @@ photos:
   - original: /2017/08/senior-ladies-poland-v-russia/226-img_2201.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/226-img_2201.jpg
     title: 226-img_2201.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/229-img_2205.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/229-img_2205.jpg
+    title: 229-img_2205.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/231-img_2208.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/231-img_2208.jpg
+    title: 231-img_2208.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/232-img_2210.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/232-img_2210.jpg
     title: 232-img_2210.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/235-img_2214.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/235-img_2214.jpg
     title: 235-img_2214.jpg
+  - original: /2017/08/senior-ladies-poland-v-russia/237-img_2216.jpg
+    thumbnail: /t/2017/08/senior-ladies-poland-v-russia/237-img_2216.jpg
+    title: 237-img_2216.jpg
   - original: /2017/08/senior-ladies-poland-v-russia/238-img_2217.jpg
     thumbnail: /t/2017/08/senior-ladies-poland-v-russia/238-img_2217.jpg
     title: 238-img_2217.jpg
