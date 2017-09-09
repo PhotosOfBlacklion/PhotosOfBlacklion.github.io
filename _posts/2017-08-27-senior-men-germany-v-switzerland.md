@@ -63,9 +63,18 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/100-img_2041.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/100-img_2041.jpg
     title: 100-img_2041.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/101-img_2043.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/101-img_2043.jpg
+    title: 101-img_2043.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/102-img_2045.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/102-img_2045.jpg
     title: 102-img_2045.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/103-img_2046.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/103-img_2046.jpg
+    title: 103-img_2046.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/104-img_2047.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/104-img_2047.jpg
+    title: 104-img_2047.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/105-img_2048.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/105-img_2048.jpg
     title: 105-img_2048.jpg
@@ -183,12 +192,30 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/143-img_2100.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/143-img_2100.jpg
     title: 143-img_2100.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/144-img_2101.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/144-img_2101.jpg
+    title: 144-img_2101.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/145-img_2102.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/145-img_2102.jpg
     title: 145-img_2102.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/146-img_2103.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/146-img_2103.jpg
     title: 146-img_2103.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/147-img_2104.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/147-img_2104.jpg
+    title: 147-img_2104.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/148-img_2105.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/148-img_2105.jpg
+    title: 148-img_2105.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/149-img_2106.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/149-img_2106.jpg
+    title: 149-img_2106.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/150-img_2107.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/150-img_2107.jpg
+    title: 150-img_2107.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/151-img_2108.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/151-img_2108.jpg
+    title: 151-img_2108.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/152-img_2109.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/152-img_2109.jpg
     title: 152-img_2109.jpg
@@ -207,6 +234,9 @@ photos:
   - original: /2017/08/senior-men-germany-v-switzerland/157-img_2114.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/157-img_2114.jpg
     title: 157-img_2114.jpg
+  - original: /2017/08/senior-men-germany-v-switzerland/158-img_2115.jpg
+    thumbnail: /t/2017/08/senior-men-germany-v-switzerland/158-img_2115.jpg
+    title: 158-img_2115.jpg
   - original: /2017/08/senior-men-germany-v-switzerland/159-img_2118.jpg
     thumbnail: /t/2017/08/senior-men-germany-v-switzerland/159-img_2118.jpg
     title: 159-img_2118.jpg
