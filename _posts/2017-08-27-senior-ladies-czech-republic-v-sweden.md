@@ -12,6 +12,9 @@ photos:
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/003-img_1908.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/003-img_1908.jpg
     title: 003-img_1908.jpg
+  - original: /2017/08/senior-ladies-czech-republic-v-sweden/007-img_1916.jpg
+    thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/007-img_1916.jpg
+    title: 007-img_1916.jpg
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/009-img_1918.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/009-img_1918.jpg
     title: 009-img_1918.jpg
@@ -33,6 +36,9 @@ photos:
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/017-img_1928.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/017-img_1928.jpg
     title: 017-img_1928.jpg
+  - original: /2017/08/senior-ladies-czech-republic-v-sweden/018-img_1929.jpg
+    thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/018-img_1929.jpg
+    title: 018-img_1929.jpg
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/019-img_1930.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/019-img_1930.jpg
     title: 019-img_1930.jpg
@@ -60,6 +66,9 @@ photos:
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/027-img_1940.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/027-img_1940.jpg
     title: 027-img_1940.jpg
+  - original: /2017/08/senior-ladies-czech-republic-v-sweden/028-img_1941.jpg
+    thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/028-img_1941.jpg
+    title: 028-img_1941.jpg
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/029-img_1942.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/029-img_1942.jpg
     title: 029-img_1942.jpg
@@ -72,12 +81,21 @@ photos:
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/032-img_1947.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/032-img_1947.jpg
     title: 032-img_1947.jpg
+  - original: /2017/08/senior-ladies-czech-republic-v-sweden/033-img_1948.jpg
+    thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/033-img_1948.jpg
+    title: 033-img_1948.jpg
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/035-img_1950.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/035-img_1950.jpg
     title: 035-img_1950.jpg
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/036-img_1951.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/036-img_1951.jpg
     title: 036-img_1951.jpg
+  - original: /2017/08/senior-ladies-czech-republic-v-sweden/037-img_1953.jpg
+    thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/037-img_1953.jpg
+    title: 037-img_1953.jpg
+  - original: /2017/08/senior-ladies-czech-republic-v-sweden/038-img_1954.jpg
+    thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/038-img_1954.jpg
+    title: 038-img_1954.jpg
   - original: /2017/08/senior-ladies-czech-republic-v-sweden/039-img_1956.jpg
     thumbnail: /t/2017/08/senior-ladies-czech-republic-v-sweden/039-img_1956.jpg
     title: 039-img_1956.jpg
