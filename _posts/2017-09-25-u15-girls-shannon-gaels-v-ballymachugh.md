@@ -519,4 +519,25 @@ photos:
   - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/172-img_0337.jpg
     thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/172-img_0337.jpg
     title: 172-img_0337.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/173-img_0339.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/173-img_0339.jpg
+    title: 173-img_0339.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/174-img_0341.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/174-img_0341.jpg
+    title: 174-img_0341.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/175-img_0342.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/175-img_0342.jpg
+    title: 175-img_0342.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/176-img_0344.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/176-img_0344.jpg
+    title: 176-img_0344.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/177-img_0348.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/177-img_0348.jpg
+    title: 177-img_0348.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/178-img_0349.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/178-img_0349.jpg
+    title: 178-img_0349.jpg
+  - original: /2017/09/u15-girls-shannon-gaels-v-ballymachugh/179-img_0350.jpg
+    thumbnail: /t/2017/09/u15-girls-shannon-gaels-v-ballymachugh/179-img_0350.jpg
+    title: 179-img_0350.jpg
 ---
