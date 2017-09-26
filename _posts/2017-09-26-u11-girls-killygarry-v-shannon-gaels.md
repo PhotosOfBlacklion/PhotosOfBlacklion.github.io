@@ -69,6 +69,12 @@ photos:
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/022-img_0043.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/022-img_0043.jpg
     title: 022-img_0043.jpg
+  - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/023-img_0045.jpg
+    thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/023-img_0045.jpg
+    title: 023-img_0045.jpg
+  - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/024-img_0046.jpg
+    thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/024-img_0046.jpg
+    title: 024-img_0046.jpg
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/025-img_0047.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/025-img_0047.jpg
     title: 025-img_0047.jpg
@@ -111,6 +117,9 @@ photos:
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/040-img_0079.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/040-img_0079.jpg
     title: 040-img_0079.jpg
+  - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/043-img_0088.jpg
+    thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/043-img_0088.jpg
+    title: 043-img_0088.jpg
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/044-img_0089.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/044-img_0089.jpg
     title: 044-img_0089.jpg
@@ -243,6 +252,9 @@ photos:
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/098-img_0225.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/098-img_0225.jpg
     title: 098-img_0225.jpg
+  - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/099-img_0227.jpg
+    thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/099-img_0227.jpg
+    title: 099-img_0227.jpg
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/100-img_0232.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/100-img_0232.jpg
     title: 100-img_0232.jpg
@@ -339,6 +351,9 @@ photos:
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/136-img_0372.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/136-img_0372.jpg
     title: 136-img_0372.jpg
+  - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/137-img_0376.jpg
+    thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/137-img_0376.jpg
+    title: 137-img_0376.jpg
   - original: /2017/09/u11-girls-killygarry-v-shannon-gaels/139-img_0395.jpg
     thumbnail: /t/2017/09/u11-girls-killygarry-v-shannon-gaels/139-img_0395.jpg
     title: 139-img_0395.jpg
