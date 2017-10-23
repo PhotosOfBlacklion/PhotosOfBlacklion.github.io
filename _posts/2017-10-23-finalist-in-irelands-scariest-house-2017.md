@@ -3,6 +3,9 @@ title: Finalist In Irelands Scariest House 2017
 date: 2017-10-23 12:00
 thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/10-img_0010.jpg
 photos:
+  - original: /2017/10/finalist-in-irelands-scariest-house-2017/02-img_0001.jpg
+    thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/02-img_0001.jpg
+    title: 02-img_0001.jpg
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/03-img_0002.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/03-img_0002.jpg
     title: 03-img_0002.jpg
