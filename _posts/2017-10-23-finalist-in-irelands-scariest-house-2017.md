@@ -12,4 +12,7 @@ photos:
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/38-img_0047.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/38-img_0047.jpg
     title: 38-img_0047.jpg
+  - original: /2017/10/finalist-in-irelands-scariest-house-2017/65-img_0078.jpg
+    thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/65-img_0078.jpg
+    title: 65-img_0078.jpg
 ---
