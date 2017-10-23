@@ -9,6 +9,9 @@ photos:
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/18-img_0018.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/18-img_0018.jpg
     title: 18-img_0018.jpg
+  - original: /2017/10/finalist-in-irelands-scariest-house-2017/25-img_0026.jpg
+    thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/25-img_0026.jpg
+    title: 25-img_0026.jpg
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/27-img_0028.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/27-img_0028.jpg
     title: 27-img_0028.jpg
@@ -30,6 +33,9 @@ photos:
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/60-img_0073.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/60-img_0073.jpg
     title: 60-img_0073.jpg
+  - original: /2017/10/finalist-in-irelands-scariest-house-2017/61-img_0074.jpg
+    thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/61-img_0074.jpg
+    title: 61-img_0074.jpg
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/62-img_0075.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/62-img_0075.jpg
     title: 62-img_0075.jpg
