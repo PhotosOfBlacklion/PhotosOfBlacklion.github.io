@@ -3,6 +3,9 @@ title: Finalist In Irelands Scariest House 2017
 date: 2017-10-23 12:00
 thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/10-img_0010.jpg
 photos:
+  - original: /2017/10/finalist-in-irelands-scariest-house-2017/05-img_0004.jpg
+    thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/05-img_0004.jpg
+    title: 05-img_0004.jpg
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/10-img_0010.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/10-img_0010.jpg
     title: 10-img_0010.jpg
@@ -60,6 +63,9 @@ photos:
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/58-img_0071.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/58-img_0071.jpg
     title: 58-img_0071.jpg
+  - original: /2017/10/finalist-in-irelands-scariest-house-2017/59-img_0072.jpg
+    thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/59-img_0072.jpg
+    title: 59-img_0072.jpg
   - original: /2017/10/finalist-in-irelands-scariest-house-2017/60-img_0073.jpg
     thumbnail: /t/2017/10/finalist-in-irelands-scariest-house-2017/60-img_0073.jpg
     title: 60-img_0073.jpg
