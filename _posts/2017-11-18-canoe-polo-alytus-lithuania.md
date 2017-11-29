@@ -33,12 +33,18 @@ photos:
   - original: /2017/11/canoe-polo-alytus-lithuania/016-img_0376.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/016-img_0376.jpg
     title: 016-img_0376.jpg
+  - original: /2017/11/canoe-polo-alytus-lithuania/019-img_0384.jpg
+    thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/019-img_0384.jpg
+    title: 019-img_0384.jpg
   - original: /2017/11/canoe-polo-alytus-lithuania/02-img_0009.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/02-img_0009.jpg
     title: 02-img_0009.jpg
   - original: /2017/11/canoe-polo-alytus-lithuania/020-img_0386.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/020-img_0386.jpg
     title: 020-img_0386.jpg
+  - original: /2017/11/canoe-polo-alytus-lithuania/021-img_0388.jpg
+    thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/021-img_0388.jpg
+    title: 021-img_0388.jpg
   - original: /2017/11/canoe-polo-alytus-lithuania/026-img_0396.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/026-img_0396.jpg
     title: 026-img_0396.jpg
@@ -63,6 +69,12 @@ photos:
   - original: /2017/11/canoe-polo-alytus-lithuania/032-img_0413.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/032-img_0413.jpg
     title: 032-img_0413.jpg
+  - original: /2017/11/canoe-polo-alytus-lithuania/034-img_0415.jpg
+    thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/034-img_0415.jpg
+    title: 034-img_0415.jpg
+  - original: /2017/11/canoe-polo-alytus-lithuania/035-img_0416.jpg
+    thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/035-img_0416.jpg
+    title: 035-img_0416.jpg
   - original: /2017/11/canoe-polo-alytus-lithuania/036-img_0417.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/036-img_0417.jpg
     title: 036-img_0417.jpg
@@ -123,6 +135,9 @@ photos:
   - original: /2017/11/canoe-polo-alytus-lithuania/06-img_0016.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/06-img_0016.jpg
     title: 06-img_0016.jpg
+  - original: /2017/11/canoe-polo-alytus-lithuania/060-img_0476.jpg
+    thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/060-img_0476.jpg
+    title: 060-img_0476.jpg
   - original: /2017/11/canoe-polo-alytus-lithuania/061-img_0478.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/061-img_0478.jpg
     title: 061-img_0478.jpg
@@ -285,6 +300,9 @@ photos:
   - original: /2017/11/canoe-polo-alytus-lithuania/13-img_0032.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/13-img_0032.jpg
     title: 13-img_0032.jpg
+  - original: /2017/11/canoe-polo-alytus-lithuania/133-img_0712.jpg
+    thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/133-img_0712.jpg
+    title: 133-img_0712.jpg
   - original: /2017/11/canoe-polo-alytus-lithuania/134-img_0717.jpg
     thumbnail: /t/2017/11/canoe-polo-alytus-lithuania/134-img_0717.jpg
     title: 134-img_0717.jpg
