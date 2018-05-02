@@ -141,6 +141,9 @@ photos:
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/048-img_0116.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/048-img_0116.jpg
     title: 048-img_0116.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/050-img_0118.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/050-img_0118.jpg
+    title: 050-img_0118.jpg
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/051-img_0119.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/051-img_0119.jpg
     title: 051-img_0119.jpg
@@ -150,15 +153,36 @@ photos:
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/053-img_0121.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/053-img_0121.jpg
     title: 053-img_0121.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/055-img_0127.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/055-img_0127.jpg
+    title: 055-img_0127.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/056-img_0128.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/056-img_0128.jpg
+    title: 056-img_0128.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/059-img_0131.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/059-img_0131.jpg
+    title: 059-img_0131.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/063-img_0137.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/063-img_0137.jpg
+    title: 063-img_0137.jpg
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/064-img_0139.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/064-img_0139.jpg
     title: 064-img_0139.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/081-img_0167.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/081-img_0167.jpg
+    title: 081-img_0167.jpg
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/082-img_0168.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/082-img_0168.jpg
     title: 082-img_0168.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/084-img_0172.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/084-img_0172.jpg
+    title: 084-img_0172.jpg
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/085-img_0174.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/085-img_0174.jpg
     title: 085-img_0174.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/086-img_0175.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/086-img_0175.jpg
+    title: 086-img_0175.jpg
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/121-img_0253.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/121-img_0253.jpg
     title: 121-img_0253.jpg
