@@ -216,6 +216,9 @@ photos:
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/076-img_0161.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/076-img_0161.jpg
     title: 076-img_0161.jpg
+  - original: /2018/04/division-3-shannon-gaels-v-killeshandra/077-img_0162.jpg
+    thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/077-img_0162.jpg
+    title: 077-img_0162.jpg
   - original: /2018/04/division-3-shannon-gaels-v-killeshandra/078-img_0163.jpg
     thumbnail: /t/2018/04/division-3-shannon-gaels-v-killeshandra/078-img_0163.jpg
     title: 078-img_0163.jpg
