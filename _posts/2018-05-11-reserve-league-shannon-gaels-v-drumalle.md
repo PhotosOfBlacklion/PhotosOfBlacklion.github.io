@@ -105,12 +105,18 @@ photos:
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/037-img_0071.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/037-img_0071.jpg
     title: 037-img_0071.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/038-img_0077.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/038-img_0077.jpg
+    title: 038-img_0077.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/041-img_0083.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/041-img_0083.jpg
     title: 041-img_0083.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/042-img_0084.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/042-img_0084.jpg
     title: 042-img_0084.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/044-img_0088.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/044-img_0088.jpg
+    title: 044-img_0088.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/048-img_0096.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/048-img_0096.jpg
     title: 048-img_0096.jpg
@@ -132,6 +138,9 @@ photos:
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/057-img_0116.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/057-img_0116.jpg
     title: 057-img_0116.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/058-img_0118.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/058-img_0118.jpg
+    title: 058-img_0118.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/064-img_0134.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/064-img_0134.jpg
     title: 064-img_0134.jpg
@@ -147,6 +156,9 @@ photos:
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/069-img_0140.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/069-img_0140.jpg
     title: 069-img_0140.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/070-img_0142.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/070-img_0142.jpg
+    title: 070-img_0142.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/072-img_0144.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/072-img_0144.jpg
     title: 072-img_0144.jpg
@@ -162,12 +174,18 @@ photos:
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/080-img_0165.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/080-img_0165.jpg
     title: 080-img_0165.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/082-img_0167.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/082-img_0167.jpg
+    title: 082-img_0167.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/083-img_0168.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/083-img_0168.jpg
     title: 083-img_0168.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/085-img_0175.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/085-img_0175.jpg
     title: 085-img_0175.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/087-img_0180.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/087-img_0180.jpg
+    title: 087-img_0180.jpg
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/091-img_0189.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/091-img_0189.jpg
     title: 091-img_0189.jpg
@@ -204,4 +222,7 @@ photos:
   - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/107-img_0219.jpg
     thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/107-img_0219.jpg
     title: 107-img_0219.jpg
+  - original: /2018/05/reserve-league-shannon-gaels-v-drumalle/108-img_0220.jpg
+    thumbnail: /t/2018/05/reserve-league-shannon-gaels-v-drumalle/108-img_0220.jpg
+    title: 108-img_0220.jpg
 ---
