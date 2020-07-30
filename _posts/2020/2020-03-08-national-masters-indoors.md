@@ -156,6 +156,9 @@ photos:
   - original: /2020/03/national-masters-indoors/051-img_0082.jpg
     thumbnail: /t/2020/03/national-masters-indoors/051-img_0082.jpg
     title: 051-img_0082.jpg
+  - original: /2020/03/national-masters-indoors/052-img_0085.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/052-img_0085.jpg
+    title: 052-img_0085.jpg
   - original: /2020/03/national-masters-indoors/053-img_0086.jpg
     thumbnail: /t/2020/03/national-masters-indoors/053-img_0086.jpg
     title: 053-img_0086.jpg
@@ -168,6 +171,12 @@ photos:
   - original: /2020/03/national-masters-indoors/056-img_0089.jpg
     thumbnail: /t/2020/03/national-masters-indoors/056-img_0089.jpg
     title: 056-img_0089.jpg
+  - original: /2020/03/national-masters-indoors/058-img_0092.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/058-img_0092.jpg
+    title: 058-img_0092.jpg
+  - original: /2020/03/national-masters-indoors/059-img_0094.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/059-img_0094.jpg
+    title: 059-img_0094.jpg
   - original: /2020/03/national-masters-indoors/061-img_0097.jpg
     thumbnail: /t/2020/03/national-masters-indoors/061-img_0097.jpg
     title: 061-img_0097.jpg
@@ -189,6 +198,12 @@ photos:
   - original: /2020/03/national-masters-indoors/068-img_0110.jpg
     thumbnail: /t/2020/03/national-masters-indoors/068-img_0110.jpg
     title: 068-img_0110.jpg
+  - original: /2020/03/national-masters-indoors/069-img_0111.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/069-img_0111.jpg
+    title: 069-img_0111.jpg
+  - original: /2020/03/national-masters-indoors/070-img_0112.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/070-img_0112.jpg
+    title: 070-img_0112.jpg
   - original: /2020/03/national-masters-indoors/071-img_0113.jpg
     thumbnail: /t/2020/03/national-masters-indoors/071-img_0113.jpg
     title: 071-img_0113.jpg
@@ -198,4 +213,7 @@ photos:
   - original: /2020/03/national-masters-indoors/073-img_0116.jpg
     thumbnail: /t/2020/03/national-masters-indoors/073-img_0116.jpg
     title: 073-img_0116.jpg
+  - original: /2020/03/national-masters-indoors/074-img_0118.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/074-img_0118.jpg
+    title: 074-img_0118.jpg
 ---
