@@ -267,4 +267,7 @@ photos:
   - original: /2020/03/national-masters-indoors/088-img_0136.jpg
     thumbnail: /t/2020/03/national-masters-indoors/088-img_0136.jpg
     title: 088-img_0136.jpg
+  - original: /2020/03/national-masters-indoors/089-img_0139.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/089-img_0139.jpg
+    title: 089-img_0139.jpg
 ---
