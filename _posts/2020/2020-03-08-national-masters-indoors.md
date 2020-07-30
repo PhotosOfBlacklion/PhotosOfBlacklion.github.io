@@ -270,4 +270,13 @@ photos:
   - original: /2020/03/national-masters-indoors/089-img_0139.jpg
     thumbnail: /t/2020/03/national-masters-indoors/089-img_0139.jpg
     title: 089-img_0139.jpg
+  - original: /2020/03/national-masters-indoors/090-img_0140.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/090-img_0140.jpg
+    title: 090-img_0140.jpg
+  - original: /2020/03/national-masters-indoors/091-img_0141.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/091-img_0141.jpg
+    title: 091-img_0141.jpg
+  - original: /2020/03/national-masters-indoors/092-img_0143.jpg
+    thumbnail: /t/2020/03/national-masters-indoors/092-img_0143.jpg
+    title: 092-img_0143.jpg
 ---
