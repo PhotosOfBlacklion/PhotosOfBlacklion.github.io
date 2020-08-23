@@ -129,7 +129,22 @@ photos:
   - original: /2020/08/shannon-gaels-ladies-v-crosserlough/42-img_0075.jpg
     thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/42-img_0075.jpg
     title: 42-img_0075.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/43-img_0078.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/43-img_0078.jpg
+    title: 43-img_0078.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/55-img_0105.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/55-img_0105.jpg
+    title: 55-img_0105.jpg
   - original: /2020/08/shannon-gaels-ladies-v-crosserlough/56-img_0106.jpg
     thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/56-img_0106.jpg
     title: 56-img_0106.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/58-img_0111.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/58-img_0111.jpg
+    title: 58-img_0111.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/60-img_0115.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/60-img_0115.jpg
+    title: 60-img_0115.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/61-img_0117.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/61-img_0117.jpg
+    title: 61-img_0117.jpg
 ---
