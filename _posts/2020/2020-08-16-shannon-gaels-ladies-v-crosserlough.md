@@ -3,9 +3,15 @@ title: Shannon Gaels Ladies V Crosserlough
 date: 2020-08-16 12:00
 thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/08-img_0020.jpg
 photos:
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/01-img_0004.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/01-img_0004.jpg
+    title: 01-img_0004.jpg
   - original: /2020/08/shannon-gaels-ladies-v-crosserlough/02-img_0008.jpg
     thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/02-img_0008.jpg
     title: 02-img_0008.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/03-img_0012.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/03-img_0012.jpg
+    title: 03-img_0012.jpg
   - original: /2020/08/shannon-gaels-ladies-v-crosserlough/04-img_0013.jpg
     thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/04-img_0013.jpg
     title: 04-img_0013.jpg
