@@ -171,6 +171,9 @@ photos:
   - original: /2020/08/shannon-gaels-v-knockbride/056-img_0406.jpg
     thumbnail: /t/2020/08/shannon-gaels-v-knockbride/056-img_0406.jpg
     title: 056-img_0406.jpg
+  - original: /2020/08/shannon-gaels-v-knockbride/057-img_0409.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-knockbride/057-img_0409.jpg
+    title: 057-img_0409.jpg
   - original: /2020/08/shannon-gaels-v-knockbride/059-img_0413.jpg
     thumbnail: /t/2020/08/shannon-gaels-v-knockbride/059-img_0413.jpg
     title: 059-img_0413.jpg
@@ -189,6 +192,9 @@ photos:
   - original: /2020/08/shannon-gaels-v-knockbride/064-img_0419.jpg
     thumbnail: /t/2020/08/shannon-gaels-v-knockbride/064-img_0419.jpg
     title: 064-img_0419.jpg
+  - original: /2020/08/shannon-gaels-v-knockbride/065-img_0420.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-knockbride/065-img_0420.jpg
+    title: 065-img_0420.jpg
   - original: /2020/08/shannon-gaels-v-knockbride/066-img_0425.jpg
     thumbnail: /t/2020/08/shannon-gaels-v-knockbride/066-img_0425.jpg
     title: 066-img_0425.jpg
