@@ -69,4 +69,10 @@ photos:
   - original: /2020/08/shannon-gaels-ladies-v-crosserlough/22-img_0043.jpg
     thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/22-img_0043.jpg
     title: 22-img_0043.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/23-img_0045.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/23-img_0045.jpg
+    title: 23-img_0045.jpg
+  - original: /2020/08/shannon-gaels-ladies-v-crosserlough/24-img_0046.jpg
+    thumbnail: /t/2020/08/shannon-gaels-ladies-v-crosserlough/24-img_0046.jpg
+    title: 24-img_0046.jpg
 ---
