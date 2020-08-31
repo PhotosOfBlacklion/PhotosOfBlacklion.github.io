@@ -219,4 +219,10 @@ photos:
   - original: /2020/08/shannon-gaels-v-butlers-bridge/72-img_0111.jpg
     thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/72-img_0111.jpg
     title: 72-img_0111.jpg
+  - original: /2020/08/shannon-gaels-v-butlers-bridge/73-img_0112.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/73-img_0112.jpg
+    title: 73-img_0112.jpg
+  - original: /2020/08/shannon-gaels-v-butlers-bridge/74-img_0115.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/74-img_0115.jpg
+    title: 74-img_0115.jpg
 ---
