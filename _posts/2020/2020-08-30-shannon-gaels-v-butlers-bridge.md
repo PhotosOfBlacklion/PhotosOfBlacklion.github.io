@@ -87,4 +87,16 @@ photos:
   - original: /2020/08/shannon-gaels-v-butlers-bridge/28-img_0054.jpg
     thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/28-img_0054.jpg
     title: 28-img_0054.jpg
+  - original: /2020/08/shannon-gaels-v-butlers-bridge/29-img_0055.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/29-img_0055.jpg
+    title: 29-img_0055.jpg
+  - original: /2020/08/shannon-gaels-v-butlers-bridge/30-img_0057.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/30-img_0057.jpg
+    title: 30-img_0057.jpg
+  - original: /2020/08/shannon-gaels-v-butlers-bridge/31-img_0058.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/31-img_0058.jpg
+    title: 31-img_0058.jpg
+  - original: /2020/08/shannon-gaels-v-butlers-bridge/32-img_0059.jpg
+    thumbnail: /t/2020/08/shannon-gaels-v-butlers-bridge/32-img_0059.jpg
+    title: 32-img_0059.jpg
 ---
