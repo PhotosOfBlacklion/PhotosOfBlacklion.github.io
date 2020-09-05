@@ -99,4 +99,13 @@ photos:
   - original: /2020/09/shannon-gaels-u14-ladies-v-mullagh/32-img_0062.jpg
     thumbnail: /t/2020/09/shannon-gaels-u14-ladies-v-mullagh/32-img_0062.jpg
     title: 32-img_0062.jpg
+  - original: /2020/09/shannon-gaels-u14-ladies-v-mullagh/33-img_0064.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u14-ladies-v-mullagh/33-img_0064.jpg
+    title: 33-img_0064.jpg
+  - original: /2020/09/shannon-gaels-u14-ladies-v-mullagh/34-img_0066.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u14-ladies-v-mullagh/34-img_0066.jpg
+    title: 34-img_0066.jpg
+  - original: /2020/09/shannon-gaels-u14-ladies-v-mullagh/35-img_0068.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u14-ladies-v-mullagh/35-img_0068.jpg
+    title: 35-img_0068.jpg
 ---
