@@ -24,4 +24,10 @@ photos:
   - original: /2020/09/shannon-gaels-v-maghera/009-img_0018.jpg
     thumbnail: /t/2020/09/shannon-gaels-v-maghera/009-img_0018.jpg
     title: 009-img_0018.jpg
+  - original: /2020/09/shannon-gaels-v-maghera/010-img_0019.jpg
+    thumbnail: /t/2020/09/shannon-gaels-v-maghera/010-img_0019.jpg
+    title: 010-img_0019.jpg
+  - original: /2020/09/shannon-gaels-v-maghera/011-img_0022.jpg
+    thumbnail: /t/2020/09/shannon-gaels-v-maghera/011-img_0022.jpg
+    title: 011-img_0022.jpg
 ---
