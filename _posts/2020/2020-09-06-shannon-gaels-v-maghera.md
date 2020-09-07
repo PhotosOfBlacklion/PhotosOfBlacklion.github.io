@@ -201,6 +201,9 @@ photos:
   - original: /2020/09/shannon-gaels-v-maghera/071-img_0135.jpg
     thumbnail: /t/2020/09/shannon-gaels-v-maghera/071-img_0135.jpg
     title: 071-img_0135.jpg
+  - original: /2020/09/shannon-gaels-v-maghera/072-img_0136.jpg
+    thumbnail: /t/2020/09/shannon-gaels-v-maghera/072-img_0136.jpg
+    title: 072-img_0136.jpg
   - original: /2020/09/shannon-gaels-v-maghera/073-img_0137.jpg
     thumbnail: /t/2020/09/shannon-gaels-v-maghera/073-img_0137.jpg
     title: 073-img_0137.jpg
@@ -210,6 +213,9 @@ photos:
   - original: /2020/09/shannon-gaels-v-maghera/075-img_0140.jpg
     thumbnail: /t/2020/09/shannon-gaels-v-maghera/075-img_0140.jpg
     title: 075-img_0140.jpg
+  - original: /2020/09/shannon-gaels-v-maghera/077-img_0142.jpg
+    thumbnail: /t/2020/09/shannon-gaels-v-maghera/077-img_0142.jpg
+    title: 077-img_0142.jpg
   - original: /2020/09/shannon-gaels-v-maghera/079-img_0144.jpg
     thumbnail: /t/2020/09/shannon-gaels-v-maghera/079-img_0144.jpg
     title: 079-img_0144.jpg
