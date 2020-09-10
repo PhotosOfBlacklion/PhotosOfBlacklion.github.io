@@ -87,4 +87,10 @@ photos:
   - original: /2020/09/shannon-gaels-u14-girls-v-bailieborough/028-img_0048.jpg
     thumbnail: /t/2020/09/shannon-gaels-u14-girls-v-bailieborough/028-img_0048.jpg
     title: 028-img_0048.jpg
+  - original: /2020/09/shannon-gaels-u14-girls-v-bailieborough/029-img_0050.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u14-girls-v-bailieborough/029-img_0050.jpg
+    title: 029-img_0050.jpg
+  - original: /2020/09/shannon-gaels-u14-girls-v-bailieborough/030-img_0051.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u14-girls-v-bailieborough/030-img_0051.jpg
+    title: 030-img_0051.jpg
 ---
