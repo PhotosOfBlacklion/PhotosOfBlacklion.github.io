@@ -72,9 +72,21 @@ photos:
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/023-img_0046.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/023-img_0046.jpg
     title: 023-img_0046.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/024-img_0049.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/024-img_0049.jpg
+    title: 024-img_0049.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/025-img_0050.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/025-img_0050.jpg
+    title: 025-img_0050.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/028-img_0055.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/028-img_0055.jpg
+    title: 028-img_0055.jpg
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/029-img_0056.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/029-img_0056.jpg
     title: 029-img_0056.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/030-img_0057.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/030-img_0057.jpg
+    title: 030-img_0057.jpg
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/031-img_0058.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/031-img_0058.jpg
     title: 031-img_0058.jpg
