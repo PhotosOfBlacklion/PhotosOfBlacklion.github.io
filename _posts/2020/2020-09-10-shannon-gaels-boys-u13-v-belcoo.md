@@ -159,15 +159,30 @@ photos:
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/053-img_0095.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/053-img_0095.jpg
     title: 053-img_0095.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/054-img_0096.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/054-img_0096.jpg
+    title: 054-img_0096.jpg
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/055-img_0098.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/055-img_0098.jpg
     title: 055-img_0098.jpg
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/056-img_0099.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/056-img_0099.jpg
     title: 056-img_0099.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/057-img_0101.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/057-img_0101.jpg
+    title: 057-img_0101.jpg
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/058-img_0102.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/058-img_0102.jpg
     title: 058-img_0102.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/059-img_0103.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/059-img_0103.jpg
+    title: 059-img_0103.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/060-img_0107.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/060-img_0107.jpg
+    title: 060-img_0107.jpg
+  - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/061-img_0108.jpg
+    thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/061-img_0108.jpg
+    title: 061-img_0108.jpg
   - original: /2020/09/shannon-gaels-boys-u13-v-belcoo/063-img_0112.jpg
     thumbnail: /t/2020/09/shannon-gaels-boys-u13-v-belcoo/063-img_0112.jpg
     title: 063-img_0112.jpg
