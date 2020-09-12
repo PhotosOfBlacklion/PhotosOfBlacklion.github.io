@@ -252,6 +252,9 @@ photos:
   - original: /2020/09/u17-teemore-v-dernacreve/085-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-51-43.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/085-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-51-43.jpg
     title: 085-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-51-43.jpg
+  - original: /2020/09/u17-teemore-v-dernacreve/086-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-52-18.jpg
+    thumbnail: /t/2020/09/u17-teemore-v-dernacreve/086-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-52-18.jpg
+    title: 086-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-52-18.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/088-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-52-20.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/088-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-52-20.jpg
     title: 088-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-52-20.jpg
