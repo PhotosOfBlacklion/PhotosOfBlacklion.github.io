@@ -42,24 +42,39 @@ photos:
   - original: /2020/09/u17-teemore-v-dernacreve/016-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-03-47.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/016-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-03-47.jpg
     title: 016-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-03-47.jpg
+  - original: /2020/09/u17-teemore-v-dernacreve/017-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-04-05.jpg
+    thumbnail: /t/2020/09/u17-teemore-v-dernacreve/017-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-04-05.jpg
+    title: 017-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-04-05.jpg
+  - original: /2020/09/u17-teemore-v-dernacreve/018-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-04-13.jpg
+    thumbnail: /t/2020/09/u17-teemore-v-dernacreve/018-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-04-13.jpg
+    title: 018-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-04-13.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/019-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-05-13.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/019-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-05-13.jpg
     title: 019-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-05-13.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/020-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-05-41.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/020-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-05-41.jpg
     title: 020-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-05-41.jpg
+  - original: /2020/09/u17-teemore-v-dernacreve/021-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-35.jpg
+    thumbnail: /t/2020/09/u17-teemore-v-dernacreve/021-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-35.jpg
+    title: 021-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-35.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/023-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-037.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/023-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-037.jpg
     title: 023-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-037.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/024-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-41.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/024-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-41.jpg
     title: 024-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-06-41.jpg
+  - original: /2020/09/u17-teemore-v-dernacreve/025-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-07-31.jpg
+    thumbnail: /t/2020/09/u17-teemore-v-dernacreve/025-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-07-31.jpg
+    title: 025-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-07-31.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/026-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-07-45.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/026-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-07-45.jpg
     title: 026-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-07-45.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/027-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-09-25.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/027-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-09-25.jpg
     title: 027-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-09-25.jpg
+  - original: /2020/09/u17-teemore-v-dernacreve/029-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-09-45.jpg
+    thumbnail: /t/2020/09/u17-teemore-v-dernacreve/029-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-09-45.jpg
+    title: 029-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-09-45.jpg
   - original: /2020/09/u17-teemore-v-dernacreve/030-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-11-52.jpg
     thumbnail: /t/2020/09/u17-teemore-v-dernacreve/030-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-11-52.jpg
     title: 030-2020-09-11-u17-teamore-v-dernacreve-11-09-2020-20-11-52.jpg
