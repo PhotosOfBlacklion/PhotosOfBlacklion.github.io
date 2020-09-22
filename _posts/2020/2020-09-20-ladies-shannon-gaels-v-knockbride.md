@@ -24,4 +24,7 @@ photos:
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/007-img_0314.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/007-img_0314.jpg
     title: 007-img_0314.jpg
+  - original: /2020/09/ladies-shannon-gaels-v-knockbride/008-img_0317.jpg
+    thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/008-img_0317.jpg
+    title: 008-img_0317.jpg
 ---
