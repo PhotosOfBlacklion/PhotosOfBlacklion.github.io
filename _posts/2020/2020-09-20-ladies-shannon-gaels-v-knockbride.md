@@ -27,4 +27,7 @@ photos:
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/008-img_0317.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/008-img_0317.jpg
     title: 008-img_0317.jpg
+  - original: /2020/09/ladies-shannon-gaels-v-knockbride/013-img_0323.jpg
+    thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/013-img_0323.jpg
+    title: 013-img_0323.jpg
 ---
