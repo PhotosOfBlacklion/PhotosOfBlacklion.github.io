@@ -30,6 +30,9 @@ photos:
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/011-img_0321.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/011-img_0321.jpg
     title: 011-img_0321.jpg
+  - original: /2020/09/ladies-shannon-gaels-v-knockbride/012-img_0322.jpg
+    thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/012-img_0322.jpg
+    title: 012-img_0322.jpg
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/013-img_0323.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/013-img_0323.jpg
     title: 013-img_0323.jpg
@@ -291,6 +294,9 @@ photos:
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/109-img_0577.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/109-img_0577.jpg
     title: 109-img_0577.jpg
+  - original: /2020/09/ladies-shannon-gaels-v-knockbride/112-img_0582.jpg
+    thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/112-img_0582.jpg
+    title: 112-img_0582.jpg
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/113-img_0586.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/113-img_0586.jpg
     title: 113-img_0586.jpg
@@ -405,6 +411,9 @@ photos:
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/173-img_0701.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/173-img_0701.jpg
     title: 173-img_0701.jpg
+  - original: /2020/09/ladies-shannon-gaels-v-knockbride/175-img_0705.jpg
+    thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/175-img_0705.jpg
+    title: 175-img_0705.jpg
   - original: /2020/09/ladies-shannon-gaels-v-knockbride/176-img_0707.jpg
     thumbnail: /t/2020/09/ladies-shannon-gaels-v-knockbride/176-img_0707.jpg
     title: 176-img_0707.jpg
