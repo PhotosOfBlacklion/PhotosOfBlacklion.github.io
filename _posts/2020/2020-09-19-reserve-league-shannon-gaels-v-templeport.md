@@ -204,4 +204,13 @@ photos:
   - original: /2020/09/reserve-league-shannon-gaels-v-templeport/67-img_0446.jpg
     thumbnail: /t/2020/09/reserve-league-shannon-gaels-v-templeport/67-img_0446.jpg
     title: 67-img_0446.jpg
+  - original: /2020/09/reserve-league-shannon-gaels-v-templeport/68-img_0449.jpg
+    thumbnail: /t/2020/09/reserve-league-shannon-gaels-v-templeport/68-img_0449.jpg
+    title: 68-img_0449.jpg
+  - original: /2020/09/reserve-league-shannon-gaels-v-templeport/69-img_0450.jpg
+    thumbnail: /t/2020/09/reserve-league-shannon-gaels-v-templeport/69-img_0450.jpg
+    title: 69-img_0450.jpg
+  - original: /2020/09/reserve-league-shannon-gaels-v-templeport/70-img_0453.jpg
+    thumbnail: /t/2020/09/reserve-league-shannon-gaels-v-templeport/70-img_0453.jpg
+    title: 70-img_0453.jpg
 ---
