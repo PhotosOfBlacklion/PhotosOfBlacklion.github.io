@@ -78,4 +78,10 @@ photos:
   - original: /2020/09/shannon-gaels-u16-girls-v-mullhoran/25-img_0069.jpg
     thumbnail: /t/2020/09/shannon-gaels-u16-girls-v-mullhoran/25-img_0069.jpg
     title: 25-img_0069.jpg
+  - original: /2020/09/shannon-gaels-u16-girls-v-mullhoran/26-img_0070.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u16-girls-v-mullhoran/26-img_0070.jpg
+    title: 26-img_0070.jpg
+  - original: /2020/09/shannon-gaels-u16-girls-v-mullhoran/27-img_0071.jpg
+    thumbnail: /t/2020/09/shannon-gaels-u16-girls-v-mullhoran/27-img_0071.jpg
+    title: 27-img_0071.jpg
 ---
