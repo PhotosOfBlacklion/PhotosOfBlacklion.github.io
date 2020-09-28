@@ -189,4 +189,10 @@ photos:
   - original: /2020/09/ladies-u14-shannon-gaels-v-killygarry/087-img_0447.jpg
     thumbnail: /t/2020/09/ladies-u14-shannon-gaels-v-killygarry/087-img_0447.jpg
     title: 087-img_0447.jpg
+  - original: /2020/09/ladies-u14-shannon-gaels-v-killygarry/088-img_0449.jpg
+    thumbnail: /t/2020/09/ladies-u14-shannon-gaels-v-killygarry/088-img_0449.jpg
+    title: 088-img_0449.jpg
+  - original: /2020/09/ladies-u14-shannon-gaels-v-killygarry/089-img_0451.jpg
+    thumbnail: /t/2020/09/ladies-u14-shannon-gaels-v-killygarry/089-img_0451.jpg
+    title: 089-img_0451.jpg
 ---
