@@ -1,11 +1,11 @@
 permalink: /:year-:month-:day-:title
-exclude: [ README.md, CONTRIBUTING.md, CNAME, Gemfile, Gemfile.lock ]
+exclude: [ README.md, CONTRIBUTING.md, CNAME, Gemfile, Gemfile.lock, vendor ]
 
 site:
   title: Photos of Blacklion
   url: http://photosofblacklion.net
 
-gems:
+plugins:
   - jekyll-sitemap
 
 defaults:
