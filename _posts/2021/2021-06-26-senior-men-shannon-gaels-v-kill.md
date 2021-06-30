@@ -120,4 +120,16 @@ photos:
   - original: /2021/06/senior-men-shannon-gaels-v-kill/img_0079.jpg
     thumbnail: /t/2021/06/senior-men-shannon-gaels-v-kill/img_0079.jpg
     title: img_0079.jpg
+  - original: /2021/06/senior-men-shannon-gaels-v-kill/img_0080.jpg
+    thumbnail: /t/2021/06/senior-men-shannon-gaels-v-kill/img_0080.jpg
+    title: img_0080.jpg
+  - original: /2021/06/senior-men-shannon-gaels-v-kill/img_0083.jpg
+    thumbnail: /t/2021/06/senior-men-shannon-gaels-v-kill/img_0083.jpg
+    title: img_0083.jpg
+  - original: /2021/06/senior-men-shannon-gaels-v-kill/img_0086.jpg
+    thumbnail: /t/2021/06/senior-men-shannon-gaels-v-kill/img_0086.jpg
+    title: img_0086.jpg
+  - original: /2021/06/senior-men-shannon-gaels-v-kill/img_0087.jpg
+    thumbnail: /t/2021/06/senior-men-shannon-gaels-v-kill/img_0087.jpg
+    title: img_0087.jpg
 ---
