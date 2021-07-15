@@ -15,4 +15,13 @@ photos:
   - original: /2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0007.jpg
     thumbnail: /t/2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0007.jpg
     title: img_0007.jpg
+  - original: /2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0011.jpg
+    thumbnail: /t/2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0011.jpg
+    title: img_0011.jpg
+  - original: /2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0035.jpg
+    thumbnail: /t/2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0035.jpg
+    title: img_0035.jpg
+  - original: /2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0037.jpg
+    thumbnail: /t/2021/07/boys-u-13-shannon-gaels-v-saint-finbars/img_0037.jpg
+    title: img_0037.jpg
 ---
