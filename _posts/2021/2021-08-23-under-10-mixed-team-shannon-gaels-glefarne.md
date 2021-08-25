@@ -3,6 +3,108 @@ title: Under 10 Mixed Team Shannon Gaels Glefarne
 date: 2021-08-23 12:00
 thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0253.jpg
 photos:
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0196.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0196.jpg
+    title: img_0196.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0197.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0197.jpg
+    title: img_0197.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0202.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0202.jpg
+    title: img_0202.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0203.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0203.jpg
+    title: img_0203.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0204.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0204.jpg
+    title: img_0204.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0205.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0205.jpg
+    title: img_0205.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0207.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0207.jpg
+    title: img_0207.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0208.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0208.jpg
+    title: img_0208.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0213.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0213.jpg
+    title: img_0213.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0215.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0215.jpg
+    title: img_0215.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0216.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0216.jpg
+    title: img_0216.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0217.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0217.jpg
+    title: img_0217.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0218.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0218.jpg
+    title: img_0218.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0219.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0219.jpg
+    title: img_0219.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0220.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0220.jpg
+    title: img_0220.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0221.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0221.jpg
+    title: img_0221.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0222.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0222.jpg
+    title: img_0222.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0225.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0225.jpg
+    title: img_0225.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0226.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0226.jpg
+    title: img_0226.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0228.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0228.jpg
+    title: img_0228.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0229.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0229.jpg
+    title: img_0229.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0231.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0231.jpg
+    title: img_0231.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0233.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0233.jpg
+    title: img_0233.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0235.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0235.jpg
+    title: img_0235.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0237.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0237.jpg
+    title: img_0237.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0239.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0239.jpg
+    title: img_0239.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0241.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0241.jpg
+    title: img_0241.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0243.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0243.jpg
+    title: img_0243.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0244.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0244.jpg
+    title: img_0244.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0245.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0245.jpg
+    title: img_0245.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0247.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0247.jpg
+    title: img_0247.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0250.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0250.jpg
+    title: img_0250.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0251.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0251.jpg
+    title: img_0251.jpg
+  - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0252.jpg
+    thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0252.jpg
+    title: img_0252.jpg
   - original: /2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0253.jpg
     thumbnail: /t/2021/08/under-10-mixed-team-shannon-gaels-glefarne/img_0253.jpg
     title: img_0253.jpg
