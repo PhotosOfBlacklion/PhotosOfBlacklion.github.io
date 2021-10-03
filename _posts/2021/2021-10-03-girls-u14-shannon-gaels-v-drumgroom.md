@@ -3,6 +3,9 @@ title: Girls U14 Shannon Gaels V Drumgroom
 date: 2021-10-03 12:00
 thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0614.jpg
 photos:
+  - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0558.jpg
+    thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0558.jpg
+    title: img_0558.jpg
   - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0567.jpg
     thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0567.jpg
     title: img_0567.jpg
@@ -24,4 +27,7 @@ photos:
   - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0617.jpg
     thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0617.jpg
     title: img_0617.jpg
+  - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0619.jpg
+    thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0619.jpg
+    title: img_0619.jpg
 ---
