@@ -147,6 +147,9 @@ photos:
   - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/2021-10-03-girls-u14-shannon-gaels-v-drumgroom/img_0869.jpg
     thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/2021-10-03-girls-u14-shannon-gaels-v-drumgroom/img_0869.jpg
     title: img_0869.jpg
+  - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0546.jpg
+    thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0546.jpg
+    title: img_0546.jpg
   - original: /2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0558.jpg
     thumbnail: /t/2021/10/girls-u14-shannon-gaels-v-drumgroom/img_0558.jpg
     title: img_0558.jpg
