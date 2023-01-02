@@ -17,11 +17,11 @@ opengraph: true
     {{ content }}
   </div>
   <div id="links">
-    {% for photo in page.photos %}
+    {%- for photo in page.photos %}
     <a href="https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ photo.original }}" title="{{ photo.title }}" data-gallery>
       <img src="https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ photo.thumbnail }}" alt="{{ photo.title }}">
     </a>
-    {% endfor %}
+    {%- endfor %}
   </div>
 </div>
 <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
