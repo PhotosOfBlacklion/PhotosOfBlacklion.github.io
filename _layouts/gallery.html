@@ -4,7 +4,7 @@ opengraph: true
 ---
 
 <div class="container marketing">
-  <div class="row album-header" style="background: url(https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ page.photos[0].original }}) center no-repeat;">
+  <div class="row album-header" style="background: url(https://photosofblacklion.b-cdn.net{{ page.photos[0].original }}) center no-repeat;">
   <div class="dimmer">
     <h3>
       {{ page.title }}
@@ -18,8 +18,8 @@ opengraph: true
   </div>
   <div id="links">
     {%- for photo in page.photos %}
-    <a href="https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ photo.original }}" title="{{ photo.title }}" data-gallery>
-      <img src="https://s3-eu-west-1.amazonaws.com/photos-of-blacklion{{ photo.thumbnail }}" alt="{{ photo.title }}">
+    <a href="https://photosofblacklion.b-cdn.net{{ photo.original }}" title="{{ photo.title }}" data-gallery>
+      <img src="https://photosofblacklion.b-cdn.net{{ photo.thumbnail }}" alt="{{ photo.title }}">
     </a>
     {%- endfor %}
   </div>
